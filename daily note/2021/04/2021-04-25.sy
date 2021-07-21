@@ -1,0 +1,2512 @@
+{
+	"ID": "20210425140337-z8t00x9",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210425140337-z8t00x9",
+		"title": "2021-04-25",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210425140337-hmegh14",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210425140337-hmegh14",
+				"updated": "20210425142316"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "茅以升公益桥开幕式筹备"
+				},
+				{
+					"Type": "NodeBackslash",
+					"Children": [
+						{
+							"Type": "NodeBackslashContent",
+							"Data": "-"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "0425"
+				}
+			]
+		},
+		{
+			"ID": "20210425140351-jiheqgp",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210425140351-jiheqgp",
+				"updated": "20210425140357"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "赛事介绍"
+				}
+			]
+		},
+		{
+			"ID": "20210425140358-tykqknf",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210425140358-tykqknf",
+				"updated": "20210425140359"
+			},
+			"Children": [
+				{
+					"ID": "20210425140359-ogbfm2f",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210425140359-ogbfm2f"
+					},
+					"Children": [
+						{
+							"ID": "20210425140359-wd5suy0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210425140359-wd5suy0",
+								"updated": "20210425140425"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "进行社会实践，调研"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210425140426-cmy6hpu",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210425140426-cmy6hpu"
+					},
+					"Children": [
+						{
+							"ID": "20210425140426-p12ikf2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210425140426-p12ikf2",
+								"updated": "20210425140434"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "设计与实际工程的结合"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210425140439-nas6i4k",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210425140439-nas6i4k"
+					},
+					"Children": [
+						{
+							"ID": "20210425140439-ogypa20",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210425140439-ogypa20",
+								"updated": "20210425140441"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "时间节点"
+								}
+							]
+						},
+						{
+							"ID": "20210425140441-mxuvgno",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210425140441-mxuvgno",
+								"updated": "20210425140445"
+							},
+							"Children": [
+								{
+									"ID": "20210425140445-bgo8prx",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425140445-bgo8prx"
+									},
+									"Children": [
+										{
+											"ID": "20210425140445-aocmncq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425140445-aocmncq",
+												"updated": "20210425140459"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "四五月份启动、报名一个月左右"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425140459-da77l1c",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425140459-da77l1c"
+									},
+									"Children": [
+										{
+											"ID": "20210425140459-dkrvt7q",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425140459-dkrvt7q",
+												"updated": "20210425140530"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "基金会官网，高校邀请函，邀请国外高校队伍参加"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425140538-isl6b6o",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425140538-isl6b6o"
+									},
+									"Children": [
+										{
+											"ID": "20210425140538-xzd9wpp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425140538-xzd9wpp",
+												"updated": "20210425140616"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "暑假时可通过"
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"CodeMarkerLen": 1,
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker",
+															"Data": "`"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "桥址名单"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker",
+															"Data": "`"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "找地方进行实践"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425140618-csiwkf8",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425140618-csiwkf8"
+									},
+									"Children": [
+										{
+											"ID": "20210425140618-t3n5n9i",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425140618-t3n5n9i",
+												"updated": "20210425140628"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "九月份进行"
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"CodeMarkerLen": 1,
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker",
+															"Data": "`"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "初审"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker",
+															"Data": "`"
+														}
+													]
+												}
+											]
+										},
+										{
+											"ID": "20210425140644-nzwotft",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210425140644-nzwotft"
+											},
+											"Children": [
+												{
+													"ID": "20210425140630-ib0av74",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210425140630-ib0av74"
+													},
+													"Children": [
+														{
+															"ID": "20210425140630-8ogb27a",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210425140630-8ogb27a",
+																"updated": "20210425140642"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "评价社会实践"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425140643-njvvdlq",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425140643-njvvdlq"
+									},
+									"Children": [
+										{
+											"ID": "20210425140643-je6kc98",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425140643-je6kc98",
+												"updated": "20210425140652"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "十一月份组织"
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"CodeMarkerLen": 1,
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker",
+															"Data": "`"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "终审答辩"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker",
+															"Data": "`"
+														}
+													]
+												}
+											]
+										},
+										{
+											"ID": "20210425140653-ora6n1j",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210425140653-ora6n1j"
+											},
+											"Children": [
+												{
+													"ID": "20210425140653-qzm61gf",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210425140653-qzm61gf"
+													},
+													"Children": [
+														{
+															"ID": "20210425140653-8wsqzgk",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210425140653-8wsqzgk",
+																"updated": "20210425140712"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "三组答辩，60组，组内答辩"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425140721-n7epv4e",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425140721-n7epv4e"
+									},
+									"Children": [
+										{
+											"ID": "20210425140713-3gm93yf",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425140713-3gm93yf",
+												"updated": "20210425140723"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "闭幕式"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210425140904-xmjtmfo",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210425140904-xmjtmfo",
+				"updated": "20210425140911"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "赛事开幕式"
+				}
+			]
+		},
+		{
+			"ID": "20210425140951-5jqledr",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210425140951-5jqledr",
+				"updated": "20210425141039"
+			},
+			"Children": [
+				{
+					"ID": "20210425141129-dakax9r",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210425141129-dakax9r"
+					},
+					"Children": [
+						{
+							"ID": "20210425141131-h2u3srx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210425141131-h2u3srx",
+								"updated": "20210425141217"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "常务方面"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210425141058-lvoe4zo",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210425141058-lvoe4zo"
+					},
+					"Children": [
+						{
+							"ID": "20210425141058-8z5x3hh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210425141058-8z5x3hh",
+								"updated": "20210425141058"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "确定各方面负责人"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210425141053-n5n2sr7",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210425141053-n5n2sr7"
+					},
+					"Children": [
+						{
+							"ID": "20210425141058-26jwj5l",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210425141058-26jwj5l",
+								"updated": "20210425141131"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "系研会方面"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210425141219-xsgjfeb",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210425141219-xsgjfeb",
+				"updated": "20210425141248"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "筹备工作"
+				}
+			]
+		},
+		{
+			"ID": "20210425141252-i198or8",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210425141252-i198or8",
+				"updated": "20210425142154"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"CodeMarkerLen": 1,
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker",
+							"Data": "`"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "5月22日上午9:30~11:00"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker",
+							"Data": "`"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210425142124-drwwx7t",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210425142124-drwwx7t"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "近期主要工作："
+				}
+			]
+		},
+		{
+			"ID": "20210425142115-4gznxfl",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210425142115-4gznxfl",
+				"updated": "20210425142124"
+			},
+			"Children": [
+				{
+					"ID": "20210425142124-e6ppfmi",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210425142124-e6ppfmi"
+					},
+					"Children": [
+						{
+							"ID": "20210425142128-b90a4md",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210425142128-b90a4md"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "开幕式筹备相关(5月22日）："
+								}
+							]
+						},
+						{
+							"ID": "20210425142124-w48lbny",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210425142124-w48lbny",
+								"updated": "20210425142128"
+							},
+							"Children": [
+								{
+									"ID": "20210425142128-rd0rxve",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142128-rd0rxve"
+									},
+									"Children": [
+										{
+											"ID": "20210425142128-xfj750s",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142128-xfj750s",
+												"updated": "20210425142131"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "确定并租借一个100人左右的场地；"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425142132-30d3n0h",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142132-30d3n0h"
+									},
+									"Children": [
+										{
+											"ID": "20210425142132-xxkpc7b",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142132-xxkpc7b",
+												"updated": "20210425142135"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "提前准备直播器材，确定是否要租借设备并提前准备。至少提前一周调试设备并进行全过程彩排，确定直播效果。"
+												}
+											]
+										},
+										{
+											"ID": "20210425142158-fouztca",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210425142158-fouztca"
+											},
+											"Children": [
+												{
+													"ID": "20210425142158-qce48oe",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210425142158-qce48oe"
+													},
+													"Children": [
+														{
+															"ID": "20210425142158-ue9lxwp",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210425142158-ue9lxwp",
+																"updated": "20210425142214"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "借人，可向全学院征集人员"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425142135-9x7gx7y",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142135-9x7gx7y"
+									},
+									"Children": [
+										{
+											"ID": "20210425142135-9md3epw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142135-9md3epw",
+												"updated": "20210425142138"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "根据宣传工作进度，制作开幕式展板，准备相关物资。"
+												}
+											]
+										},
+										{
+											"ID": "20210425142237-tn3din2",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210425142237-tn3din2"
+											},
+											"Children": [
+												{
+													"ID": "20210425142236-tnbslif",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210425142236-tnbslif"
+													},
+													"Children": [
+														{
+															"ID": "20210425142236-03pzchu",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210425142236-03pzchu",
+																"updated": "20210425142238"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "工作证"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210425142238-nah89vr",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210425142238-nah89vr"
+													},
+													"Children": [
+														{
+															"ID": "20210425142238-3etiuxh",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210425142238-3etiuxh",
+																"updated": "20210425142243"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "纸袋"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210425142243-ab4aoe6",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210425142243-ab4aoe6"
+													},
+													"Children": [
+														{
+															"ID": "20210425142243-xmqg2lj",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210425142243-xmqg2lj",
+																"updated": "20210425142256"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "规程（美化）"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210425142246-wlga34h",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210425142246-wlga34h"
+													},
+													"Children": [
+														{
+															"ID": "20210425142246-mqftdfm",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210425142246-mqftdfm",
+																"updated": "20210425142247"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "背板"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425142138-og2t3eh",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142138-og2t3eh"
+									},
+									"Children": [
+										{
+											"ID": "20210425142138-w8hy1bw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142138-w8hy1bw",
+												"updated": "20210425142141"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "根据来的嘉宾名单，提前准备台签等。"
+												}
+											]
+										},
+										{
+											"ID": "20210425143044-8s0u44w",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210425143044-8s0u44w"
+											},
+											"Children": [
+												{
+													"ID": "20210425143044-38xuc1x",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210425143044-38xuc1x"
+													},
+													"Children": [
+														{
+															"ID": "20210425143044-pospekh",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210425143044-pospekh",
+																"updated": "20210425143051"
+															},
+															"Children": [
+																{
+																	"Type": "NodeBlockRef",
+																	"Children": [
+																		{
+																			"Type": "NodeOpenParen"
+																		},
+																		{
+																			"Type": "NodeOpenParen"
+																		},
+																		{
+																			"Type": "NodeBlockRefID",
+																			"Data": "20210425142424-xz189nx"
+																		},
+																		{
+																			"Type": "NodeCloseParen"
+																		},
+																		{
+																			"Type": "NodeCloseParen"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425142142-nvpf424",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142142-nvpf424"
+									},
+									"Children": [
+										{
+											"ID": "20210425142142-5mkd9jg",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142142-5mkd9jg",
+												"updated": "20210425142142"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "确定主持人，准备主持稿。"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210425142115-ukb3lg3",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 2,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "Mg==",
+				"Num": 2
+			},
+			"Properties": {
+				"id": "20210425142115-ukb3lg3",
+				"updated": "20210425144546"
+			},
+			"Children": [
+				{
+					"ID": "20210425144507-p9ravoa",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210425144507-p9ravoa"
+					},
+					"Children": [
+						{
+							"ID": "20210425142320-sy81z3c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210425142320-sy81z3c"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "桥赛宣传相关"
+								}
+							]
+						},
+						{
+							"ID": "20210425142325-txyb733",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210425142325-txyb733",
+								"updated": "20210425142346"
+							},
+							"Children": [
+								{
+									"ID": "20210425142346-7d6oyla",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142346-7d6oyla"
+									},
+									"Children": [
+										{
+											"ID": "20210425142346-ffkzcaj",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142346-ffkzcaj",
+												"updated": "20210425142350"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "提前了解视觉设计需求(如是否需要设计大赛logo等)。调研前几届比赛的资料，确定宣传材料的制作需求(如纸质版比赛规程、参赛证、文件袋等)"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425142351-7w77l0c",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142351-7w77l0c"
+									},
+									"Children": [
+										{
+											"ID": "20210425142351-ad2eo7k",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142351-ad2eo7k",
+												"updated": "20210425142355"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "设计开幕式展板。"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425142356-r4kd3qp",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142356-r4kd3qp"
+									},
+									"Children": [
+										{
+											"ID": "20210425142356-9ihr1ao",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142356-9ihr1ao",
+												"updated": "20210425142400"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "设计桥赛纪念品等周边(如需)。"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425142401-290eh9g",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142401-290eh9g"
+									},
+									"Children": [
+										{
+											"ID": "20210425142401-u95vd86",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142401-u95vd86",
+												"updated": "20210425142401"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "开幕式现场摄像、录音，会后整理相关宣传推送。"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210425142115-bfeehbb",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 3,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "Mw==",
+				"Num": 3
+			},
+			"Properties": {
+				"id": "20210425142115-bfeehbb",
+				"updated": "20210425142411"
+			},
+			"Children": [
+				{
+					"ID": "20210425142411-ztgt45u",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210425142411-ztgt45u"
+					},
+					"Children": [
+						{
+							"ID": "20210425142411-2nxqqyf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210425142411-2nxqqyf",
+								"updated": "20210425142414"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "常务与对外联络相关"
+								}
+							]
+						},
+						{
+							"ID": "20210425142415-lq114eq",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210425142415-lq114eq",
+								"updated": "20210425142416"
+							},
+							"Children": [
+								{
+									"ID": "20210425142416-lgaauog",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142416-lgaauog"
+									},
+									"Children": [
+										{
+											"ID": "20210425142416-l3vor4m",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142416-l3vor4m",
+												"updated": "20210425142420"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "确定新的大赛理念，目前的“小桥大爱，实践有我”不错，要能加上科技赋能等。此次小桥比赛要加上一些新的元素，比如可持续，全寿命周期，新能源，绿色，智能运维等，届时评分细则也会体现。"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425142420-eebbxzq",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142420-eebbxzq"
+									},
+									"Children": [
+										{
+											"ID": "20210425142420-mb2tn60",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142420-mb2tn60",
+												"updated": "20210425142423"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "与基金会沟通，根据往年比赛材料，准备今年的比赛文件(如大赛通知、评分细则）。配合基金会通过各渠道进行宣传。"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425142424-xz189nx",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142424-xz189nx"
+									},
+									"Children": [
+										{
+											"ID": "20210425142424-ll83wzc",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142424-ll83wzc",
+												"updated": "20210425142427"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "与基金会、北建大联络，嘉宾信息。"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425142428-y0c4xxs",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142428-y0c4xxs"
+									},
+									"Children": [
+										{
+											"ID": "20210425142428-3te249d",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142428-3te249d",
+												"updated": "20210425142431"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "提前招募并选拔志愿者，负责开幕当天嘉宾接待。"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425142431-ktigj9m",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142431-ktigj9m"
+									},
+									"Children": [
+										{
+											"ID": "20210425142431-a31zfsx",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142431-a31zfsx",
+												"updated": "20210425142435"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "协调各高校报名工作(管理专门电子邮箱，拉参赛高校群，群内答疑等)"
+												}
+											]
+										},
+										{
+											"ID": "20210425144153-x39hrrj",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210425144153-x39hrrj"
+											},
+											"Children": [
+												{
+													"ID": "20210425144153-ha0jkck",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210425144153-ha0jkck"
+													},
+													"Children": [
+														{
+															"ID": "20210425144153-hhqegsx",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210425144153-hhqegsx",
+																"updated": "20210425144211"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "科创中心——邮箱mysgyq2021@163.com"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210425142436-1c7u56f",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210425142436-1c7u56f"
+									},
+									"Children": [
+										{
+											"ID": "20210425142436-5f4o4td",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210425142436-5f4o4td",
+												"updated": "20210425142436"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "开展系内学生报名工作，选拔种子队伍。"
+												}
+											]
+										},
+										{
+											"ID": "20210425144450-5ceoso1",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210425144450-5ceoso1"
+											},
+											"Children": [
+												{
+													"ID": "20210425144450-pxdsqdi",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210425144450-pxdsqdi"
+													},
+													"Children": [
+														{
+															"ID": "20210425144450-ffzsod2",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210425144450-ffzsod2",
+																"updated": "20210425144454"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "加分事宜"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210425142952-mcq6exs",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210425142952-mcq6exs"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "讨论："
+				}
+			]
+		},
+		{
+			"ID": "20210425142115-oxmkdkf",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210425142115-oxmkdkf",
+				"updated": "20210425142952"
+			},
+			"Children": [
+				{
+					"ID": "20210425142952-b19ja93",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210425142952-b19ja93"
+					},
+					"Children": [
+						{
+							"ID": "20210425142952-byqkem1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210425142952-byqkem1",
+								"updated": "20210425142956"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "明确各类工作负责人"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210425142956-482i84i",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210425142956-482i84i"
+					},
+					"Children": [
+						{
+							"ID": "20210425142956-wizr9tu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210425142956-wizr9tu",
+								"updated": "20210425142959"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "本研合作"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210425142959-9da8f1k",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210425142959-9da8f1k"
+					},
+					"Children": [
+						{
+							"ID": "20210425142959-666qir6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210425142959-666qir6",
+								"updated": "20210425142959"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "明确时间点"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210425142048-tlb3a88",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210425142048-tlb3a88",
+				"updated": "20210425144639"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "时间节点确定"
+				}
+			]
+		},
+		{
+			"ID": "20210425144706-yrvqj1w",
+			"Type": "NodeTable",
+			"Data": "| 时间        | 负责人         | 事件                                                               |\n| ------------- | ---------------- | -------------------------------------------------------------------- |\n| 4月28日     | 程志刚         | 完成主题确定                                                       |\n| 5月1日前    | 顾燚           | 大规模比赛直播器材了解，硬件条件，人员条件等 \u003cbr /\u003e 开幕式流程确定 |\n| 5月1日      | 刘辰昊、冯昊龙 | 完成教室预约                                                       |\n| 5月1日      | 刘辰昊、冯昊龙 | 完成甘特图制作 \u003cbr /\u003e 确定大赛理念，赛题等                         |\n| 5月7日      | 何之舟         | 嘉宾名单确定完成                                                   |\n| 5月7日      | 邱宇萌         | 主持人确定、主持稿撰写                                             |\n| 5月8日      | 刘辰昊、冯昊龙 | 通过基金会网站下发赛事文件                                         |\n| 5月8日      | 赛事部长       | 管理mysgyq2021@163.com电子邮箱                                     |\n| 5月8日      | 张新豪         | 志愿者招募                                                         |\n| 5月9日      | 钱欣宇         | 宣传第一版制作完成                                                 |\n| 5月10日     | 钱欣宇         | 系务会讨论，宣传优化                                               |\n| 5月15日     | 钱欣宇         | 宣传终版DDL                                                        |\n| 5月15日     | 张新豪         | 志愿者选拔完成，培训                                               |\n| 5月16日开始 | 魏润哲         | 准备物资（宣传物资、嘉宾桌签等）                                   |\n| 提前一周    | 顾燚           | 所有器材到位，完成直播彩排                                         |",
+			"TableAligns": [
+				0,
+				0,
+				0
+			],
+			"Properties": {
+				"id": "20210425144706-yrvqj1w",
+				"updated": "20210425151002"
+			},
+			"Children": [
+				{
+					"Type": "NodeTableHead",
+					"Children": [
+						{
+							"Type": "NodeTableRow",
+							"Children": [
+								{
+									"Type": "NodeTableCell",
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "时间"
+										}
+									]
+								},
+								{
+									"Type": "NodeTableCell",
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "负责人"
+										}
+									]
+								},
+								{
+									"Type": "NodeTableCell",
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "事件"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "4月28日"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "程志刚"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "完成主题确定"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5月1日前"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "顾燚"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "大规模比赛直播器材了解，硬件条件，人员条件等 "
+								},
+								{
+									"Type": "NodeBr"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 开幕式流程确定"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5月1日"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "刘辰昊、冯昊龙"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "完成教室预约"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5月1日"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "刘辰昊、冯昊龙"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "完成甘特图制作 "
+								},
+								{
+									"Type": "NodeBr"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 确定大赛理念，赛题等"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5月7日"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "何之舟"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "嘉宾名单确定完成"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5月7日"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "邱宇萌"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "主持人确定、主持稿撰写"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5月8日"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "刘辰昊、冯昊龙"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "通过基金会网站下发赛事文件"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5月8日"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "赛事部长"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "管理mysgyq2021@163.com电子邮箱"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5月8日"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "张新豪"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "志愿者招募"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5月9日"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "钱欣宇"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "宣传第一版制作完成"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5月10日"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "钱欣宇"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "系务会讨论，宣传优化"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5月15日"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "钱欣宇"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "宣传终版DDL"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5月15日"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "张新豪"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "志愿者选拔完成，培训"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5月16日开始"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "魏润哲"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "准备物资（宣传物资、嘉宾桌签等）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"TableAligns": [
+						0,
+						0,
+						0
+					],
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "提前一周"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "顾燚"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "所有器材到位，完成直播彩排"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210425145245-tuojlt1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210425145245-tuojlt1"
+			}
+		}
+	]
+}

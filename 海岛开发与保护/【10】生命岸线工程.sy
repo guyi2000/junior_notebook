@@ -1,0 +1,393 @@
+{
+	"ID": "20210511192045-lse0jl8",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210511192045-lse0jl8",
+		"title": "【10】生命岸线工程",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210511192046-ihox7sz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210511192046-ihox7sz",
+				"updated": "20210511192113"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "生命岸线(Living Shorelines)工程"
+				}
+			]
+		},
+		{
+			"ID": "20210721101557-y91z0vv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721101557-y91z0vv"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "[toc]"
+				}
+			]
+		},
+		{
+			"ID": "20210511192114-yjpa2t1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210511192114-yjpa2t1",
+				"updated": "20210511192126"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"CodeMarkerLen": 1,
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker",
+							"Data": "`"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "Living Shorelines"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker",
+							"Data": "`"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210511192126-gq5mafp",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210511192126-gq5mafp",
+				"updated": "20210511192131"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"CodeMarkerLen": 1,
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker",
+							"Data": "`"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "Green Shores"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker",
+							"Data": "`"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210511192131-sbqo5sx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210511192131-sbqo5sx",
+				"updated": "20210511192143"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"CodeMarkerLen": 1,
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker",
+							"Data": "`"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "Ecologically Enhanced Shorelines"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker",
+							"Data": "`"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210511192144-1aik1mr",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210511192144-1aik1mr",
+				"updated": "20210511192206"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "岸线面临风险挑战"
+				}
+			]
+		},
+		{
+			"ID": "20210511192207-b7ep5nj",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210511192207-b7ep5nj",
+				"updated": "20210511192209"
+			},
+			"Children": [
+				{
+					"ID": "20210511192209-uwtur6w",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210511192209-uwtur6w"
+					},
+					"Children": [
+						{
+							"ID": "20210511192209-ui5wuwx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210511192209-ui5wuwx",
+								"updated": "20210511192211"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "风暴"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210511192211-jcfb1vn",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210511192211-jcfb1vn"
+					},
+					"Children": [
+						{
+							"ID": "20210511192211-imjm13c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210511192211-imjm13c",
+								"updated": "20210511192215"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海平面加速上升"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210511192215-6x6yugf",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210511192215-6x6yugf"
+					},
+					"Children": [
+						{
+							"ID": "20210511192215-cflh6uv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210511192215-cflh6uv",
+								"updated": "20210511192227"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "可能导致巨大经济损失的降水模式变化"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210511192229-vgi56wo",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210511192229-vgi56wo",
+				"updated": "20210511192631"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "风险降低措施"
+				}
+			]
+		},
+		{
+			"ID": "20210511192632-jwicpc1",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210511192632-jwicpc1",
+				"updated": "20210511192634"
+			},
+			"Children": [
+				{
+					"ID": "20210511192634-r6h5c6o",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210511192634-r6h5c6o"
+					},
+					"Children": [
+						{
+							"ID": "20210511192634-c3eysub",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210511192634-c3eysub",
+								"updated": "20210511192640"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "自然或基于自然的措施"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210511192641-gqpld50",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210511192641-gqpld50"
+					},
+					"Children": [
+						{
+							"ID": "20210511192641-l5dugf8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210511192641-l5dugf8",
+								"updated": "20210511192644"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "结构措施"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210511192644-drg1el3",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210511192644-drg1el3"
+					},
+					"Children": [
+						{
+							"ID": "20210511192644-fpwbajy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210511192644-fpwbajy",
+								"updated": "20210511192655"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "非结构措施（法律法规等）"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210511192656-hmfqpcn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210511192656-hmfqpcn",
+				"updated": "20210511192659"
+			}
+		}
+	]
+}

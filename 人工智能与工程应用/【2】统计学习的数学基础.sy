@@ -1,0 +1,744 @@
+{
+	"ID": "20210305105340-i32x8fw",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210305105340-i32x8fw",
+		"title": "【2】统计学习的数学基础",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210305105340-o9vxtkt",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210305105340-o9vxtkt",
+				"updated": "20210305105350"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "统计学习的数学基础"
+				}
+			]
+		},
+		{
+			"ID": "20210305105351-l6v31zx",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305105351-l6v31zx",
+				"updated": "20210305105358"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "什么是模型"
+				}
+			]
+		},
+		{
+			"ID": "20210305105358-rg6wi7h",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305105358-rg6wi7h",
+				"updated": "20210305105403"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "损失函数"
+				}
+			]
+		},
+		{
+			"ID": "20210305105403-pf7megg",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305105403-pf7megg",
+				"updated": "20210305105702"
+			},
+			"Children": [
+				{
+					"ID": "20210305105405-c1o5o0e",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305105405-c1o5o0e"
+					},
+					"Children": [
+						{
+							"ID": "20210305105405-1kcx7uc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305105405-1kcx7uc",
+								"updated": "20210305105406"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "MAE"
+								}
+							]
+						},
+						{
+							"ID": "20210305105407-wib3u3p",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305105407-wib3u3p"
+							},
+							"Children": [
+								{
+									"ID": "20210305105407-tj9mi22",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305105407-tj9mi22"
+									},
+									"Children": [
+										{
+											"ID": "20210305105407-apsaezz",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305105407-apsaezz",
+												"updated": "20210305105414"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "对异常值不敏感"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305105414-6a9b0sy",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305105414-6a9b0sy"
+									},
+									"Children": [
+										{
+											"ID": "20210305105414-my00o1i",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305105414-my00o1i",
+												"updated": "20210305105637"
+											},
+											"Children": [
+												{
+													"Type": "NodeInlineMath",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\displaystyle \\frac{1}{n}\\sum_{i=1}^{n}|y_i-\\hat{y}_i|"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305105647-pg7jqq8",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305105647-pg7jqq8"
+					},
+					"Children": [
+						{
+							"ID": "20210305105643-jjnbldy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305105643-jjnbldy",
+								"updated": "20210305105649"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "MSE"
+								}
+							]
+						},
+						{
+							"ID": "20210305105650-e5rbcjg",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305105650-e5rbcjg"
+							},
+							"Children": [
+								{
+									"ID": "20210305105650-mxp8byy",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305105650-mxp8byy"
+									},
+									"Children": [
+										{
+											"ID": "20210305105650-s9w76fy",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305105650-s9w76fy",
+												"updated": "20210305105652"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "平滑"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305105652-71q2s57",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305105652-71q2s57"
+									},
+									"Children": [
+										{
+											"ID": "20210305105652-h2k6pct",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305105652-h2k6pct",
+												"updated": "20210305105657"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "对异常值敏感"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305105657-9c0p329",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305105657-9c0p329"
+									},
+									"Children": [
+										{
+											"ID": "20210305105657-tmu4aof",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305105657-tmu4aof",
+												"updated": "20210305105711"
+											},
+											"Children": [
+												{
+													"Type": "NodeInlineMath",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\displaystyle \\frac{1}{n}\\sum_{i=1}^{n}(y_i-\\hat{y}_i)^2"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305105720-b3njt4w",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305105720-b3njt4w",
+				"updated": "20210305105727"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "建模过程"
+				}
+			]
+		},
+		{
+			"ID": "20210305105728-lc82n9n",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210305105728-lc82n9n",
+				"updated": "20210305105735"
+			},
+			"Children": [
+				{
+					"ID": "20210305105735-pwmmm1c",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210305105735-pwmmm1c"
+					},
+					"Children": [
+						{
+							"ID": "20210305105735-urehogb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305105735-urehogb",
+								"updated": "20210305105748"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "选择"
+								},
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210305105351-l6v31zx"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "模型"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305105750-7mmcchm",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210305105750-7mmcchm"
+					},
+					"Children": [
+						{
+							"ID": "20210305105750-juu7yt7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305105750-juu7yt7",
+								"updated": "20210305105756"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "选择"
+								},
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210305105358-rg6wi7h"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305105759-ddzfdsf",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210305105759-ddzfdsf"
+					},
+					"Children": [
+						{
+							"ID": "20210305105759-phllout",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305105759-phllout",
+								"updated": "20210305105811"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "通过最小化平均损失函数进行拟合"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305105814-90zna9b",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305105814-90zna9b",
+				"updated": "20210305105817"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "线性模型"
+				}
+			]
+		},
+		{
+			"ID": "20210305105817-32i9kbp",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305105817-32i9kbp",
+				"updated": "20210305105819"
+			},
+			"Children": [
+				{
+					"ID": "20210305105819-4syb712",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305105819-4syb712"
+					},
+					"Children": [
+						{
+							"ID": "20210305105819-nzeq10f",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305105819-nzeq10f",
+								"updated": "20210305105844"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "利用"
+								},
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210305105647-pg7jqq8"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "MSE"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "计算损失"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305105845-gb0uufx",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305105845-gb0uufx"
+					},
+					"Children": [
+						{
+							"ID": "20210305105845-p47hr3q",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305105845-p47hr3q",
+								"updated": "20210305105848"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "梯度下降"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305105848-ed6mz4z",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305105848-ed6mz4z",
+				"updated": "20210305105853"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "逻辑回归"
+				}
+			]
+		},
+		{
+			"ID": "20210305105854-2ijxovt",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305105854-2ijxovt",
+				"updated": "20210305105855"
+			},
+			"Children": [
+				{
+					"ID": "20210305105855-4xou2mm",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305105855-4xou2mm"
+					},
+					"Children": [
+						{
+							"ID": "20210305105855-ky0t6mt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305105855-ky0t6mt",
+								"updated": "20210305105858"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "二分类问题"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305105908-n90ckwg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210305105908-n90ckwg"
+			}
+		}
+	]
+}

@@ -1,0 +1,959 @@
+{
+	"ID": "20210316192105-w2iu0b6",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210316192105-w2iu0b6",
+		"title": "【4】人工岛成陆与陆域加固工程",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210316192105-1hnegtb",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210316192105-1hnegtb",
+				"updated": "20210316192115"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "人工岛成陆与陆域加固工程"
+				}
+			]
+		},
+		{
+			"ID": "20210721101601-suhkws6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721101601-suhkws6"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "[toc]"
+				}
+			]
+		},
+		{
+			"ID": "20210316192254-surnprw",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210316192254-surnprw",
+				"updated": "20210316192301"
+			},
+			"Children": [
+				{
+					"ID": "20210316192301-c3drrtr",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210316192301-c3drrtr"
+					},
+					"Children": [
+						{
+							"ID": "20210316192301-mlckf68",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210316192301-mlckf68",
+								"updated": "20210316192453"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210309202523-y0xbi9d"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "人工块体"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "形成护面结构"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210316192454-jzg6wdw",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210316192454-jzg6wdw"
+					},
+					"Children": [
+						{
+							"ID": "20210316192454-84hop4y",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210316192454-84hop4y",
+								"updated": "20210316192458"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "波浪影响问题"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210316192524-9z91vsk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210316192524-9z91vsk",
+				"updated": "20210316193325"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "成陆工程"
+				}
+			]
+		},
+		{
+			"ID": "20210316193311-gdk11vy",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210316193311-gdk11vy",
+				"updated": "20210316193327"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "填筑材料"
+				}
+			]
+		},
+		{
+			"ID": "20210316192537-q5jj6xg",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210316192537-q5jj6xg",
+				"updated": "20210316192538"
+			},
+			"Children": [
+				{
+					"ID": "20210316192538-bq8d16k",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210316192538-bq8d16k"
+					},
+					"Children": [
+						{
+							"ID": "20210316192538-q1sap59",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210316192538-q1sap59",
+								"updated": "20210316192559"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "陆域形成的填筑材料以土石、砂为主"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210316192559-m87uye7",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210316192559-m87uye7"
+					},
+					"Children": [
+						{
+							"ID": "20210316192559-gp5pnor",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210316192559-gp5pnor",
+								"updated": "20210316192847"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "随着疏浚技术的发展。吹填工程+疏浚工程。"
+								},
+								{
+									"Type": "NodeMark",
+									"Children": [
+										{
+											"Type": "NodeMark2OpenMarker",
+											"Data": "=="
+										},
+										{
+											"Type": "NodeText",
+											"Data": "缓解了疏浚土外抛造成的资源浪费、环境污染"
+										},
+										{
+											"Type": "NodeMark2CloseMarker",
+											"Data": "=="
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "等问题。两类工程的综合投资最为节省，综合经济效益和社会效益最为显著。"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210316193331-j0a8bbg",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210316193331-j0a8bbg",
+				"updated": "20210316193336"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "填筑技术"
+				}
+			]
+		},
+		{
+			"ID": "20210316193336-8bpqze7",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210316193336-8bpqze7",
+				"updated": "20210316193338"
+			},
+			"Children": [
+				{
+					"ID": "20210316193338-s2xgw3n",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210316193338-s2xgw3n"
+					},
+					"Children": [
+						{
+							"ID": "20210316193338-aya6bph",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210316193338-aya6bph",
+								"updated": "20210316193344"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "爆破成陆"
+								}
+							]
+						},
+						{
+							"ID": "20210316193349-nkepc8p",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210316193349-nkepc8p"
+							},
+							"Children": [
+								{
+									"ID": "20210316193349-mijcddl",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210316193349-mijcddl"
+									},
+									"Children": [
+										{
+											"ID": "20210316193349-ujumula",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210316193349-ujumula",
+												"updated": "20210316193518"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "天下第一爆——珠海机场非核大爆破采用了定向大爆破技术。总装药量约为1.2万吨定向大爆破。爆破介质主要是中-微风化坚硬花岗岩"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210316193520-418jip8",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210316193520-418jip8"
+					},
+					"Children": [
+						{
+							"ID": "20210316193519-s790rsy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210316193519-s790rsy",
+								"updated": "20210316193525"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "回填成陆"
+								}
+							]
+						},
+						{
+							"ID": "20210316193525-uxbcd2h",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210316193525-uxbcd2h"
+							},
+							"Children": [
+								{
+									"ID": "20210316193525-haz3guo",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210316193525-haz3guo"
+									},
+									"Children": [
+										{
+											"ID": "20210316193525-li4j4rw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210316193525-li4j4rw",
+												"updated": "20210316193541"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "比较常用的成陆方式，土石方开挖，运输回填"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210316193541-9gbhhva",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210316193541-9gbhhva"
+									},
+									"Children": [
+										{
+											"ID": "20210316193541-c1d07hn",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210316193541-c1d07hn",
+												"updated": "20210316193553"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "迪拜棕榈岛、大连岛"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210316193554-wjujnm0",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210316193554-wjujnm0"
+					},
+					"Children": [
+						{
+							"ID": "20210316193553-8yqwhyl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210316193553-8yqwhyl",
+								"updated": "20210316193559"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "吹填成陆"
+								}
+							]
+						},
+						{
+							"ID": "20210316193559-rorfj7r",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210316193559-rorfj7r"
+							},
+							"Children": [
+								{
+									"ID": "20210316193559-1w4mxtq",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210316193559-1w4mxtq"
+									},
+									"Children": [
+										{
+											"ID": "20210316193559-8bysfi8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210316193559-8bysfi8",
+												"updated": "20210316193824"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "陆域形成规模不断扩大，回填成本低"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210316193825-uchv8h3",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210316193825-uchv8h3"
+									},
+									"Children": [
+										{
+											"ID": "20210316193825-cfpj95c",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210316193825-cfpj95c",
+												"updated": "20210316193843"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "耙吸式挖泥船、绞吸式挖泥船"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210316200055-1pzr5s5",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210316200055-1pzr5s5",
+				"updated": "20210316200116"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "绞吸式挖泥船"
+				}
+			]
+		},
+		{
+			"ID": "20210316200117-hqnbaq0",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210316200117-hqnbaq0",
+				"updated": "20210316200118"
+			},
+			"Children": [
+				{
+					"ID": "20210316200118-4zmplz8",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210316200118-4zmplz8"
+					},
+					"Children": [
+						{
+							"ID": "20210316200118-l4jhfsa",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210316200118-l4jhfsa",
+								"updated": "20210316200122"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "优点"
+								}
+							]
+						},
+						{
+							"ID": "20210316200123-vq5if5k",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210316200123-vq5if5k"
+							},
+							"Children": [
+								{
+									"ID": "20210316200123-xi1wgfu",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210316200123-xi1wgfu"
+									},
+									"Children": [
+										{
+											"ID": "20210316200123-a0gem93",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210316200123-a0gem93",
+												"updated": "20210316200147"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "挖掘、运输、排除和处理泥浆等疏浚工序一次完成，能够在施工中连续作业"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210316200147-9az040y",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210316200147-9az040y"
+									},
+									"Children": [
+										{
+											"ID": "20210316200147-n33mse3",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210316200147-n33mse3",
+												"updated": "20210316200215"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "效率较高、成本较低、工程质量容易控制，开挖土质范围较广"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210316203238-7dq3j98",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210316203238-7dq3j98",
+				"updated": "20210316204940"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "夯土方法"
+				}
+			]
+		},
+		{
+			"ID": "20210316204940-2h76dxd",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210316204940-2h76dxd",
+				"updated": "20210316204941"
+			},
+			"Children": [
+				{
+					"ID": "20210316204941-zzy7i1a",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210316204941-zzy7i1a"
+					},
+					"Children": [
+						{
+							"ID": "20210316204941-nx0t6ms",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210316204941-nx0t6ms",
+								"updated": "20210316204943"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "强夯法"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210316204943-b1n03dx",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210316204943-b1n03dx"
+					},
+					"Children": [
+						{
+							"ID": "20210316204943-c30juc2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210316204943-c30juc2",
+								"updated": "20210316204947"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "冲击碾压法"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210316204947-ixjudqv",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210316204947-ixjudqv"
+					},
+					"Children": [
+						{
+							"ID": "20210316204947-u7alby3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210316204947-u7alby3",
+								"updated": "20210316204950"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "振冲法"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210316205155-0wey8t9",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210316205155-0wey8t9"
+					},
+					"Children": [
+						{
+							"ID": "20210316205155-qz5q13j",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210316205155-qz5q13j",
+								"updated": "20210316205214"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "深层搅拌法"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210316205214-w3f3fho",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210316205214-w3f3fho"
+					},
+					"Children": [
+						{
+							"ID": "20210316205214-09wv612",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210316205214-09wv612",
+								"updated": "20210316205219"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "CFG桩法"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210323191931-rj1ovl7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210323191931-rj1ovl7"
+			}
+		}
+	]
+}

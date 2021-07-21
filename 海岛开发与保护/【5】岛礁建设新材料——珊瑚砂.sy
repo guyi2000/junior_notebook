@@ -1,0 +1,989 @@
+{
+	"ID": "20210323192047-2san2r1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210323192047-2san2r1",
+		"title": "【5】岛礁建设新材料——珊瑚砂",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210323192047-irku8ih",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210323192047-irku8ih",
+				"updated": "20210323192102"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "岛礁建设新材料——珊瑚砂"
+				}
+			]
+		},
+		{
+			"ID": "20210721101602-vnotdxt",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721101602-vnotdxt"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "[toc]"
+				}
+			]
+		},
+		{
+			"ID": "20210323192114-zvu322f",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210323192114-zvu322f",
+				"updated": "20210323192148"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e "
+				},
+				{
+					"ID": "20210323192148-bwpljbl",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210323192148-bwpljbl",
+						"updated": "20210323192312"
+					},
+					"Children": [
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "珊瑚礁"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "一般是指以珊瑚为主要生物的海洋生态系统，在珊瑚的组织内有藻类共生体。这些生态系统需要：1）海水；2）温暖的温度；3）充足的阳光。因此，它们仅限于热带和亚热带地区的浅水区。"
+						}
+					]
+				},
+				{
+					"ID": "20210323192314-232dm8y",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210323192314-232dm8y",
+						"updated": "20210323192345"
+					},
+					"Children": [
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "珊瑚礁"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "更具技术性的定义包括一个额外的要求，即产生足够的碳酸钙来建造珊瑚礁结构。"
+						}
+					]
+				},
+				{
+					"ID": "20210323192503-9e6yh2n",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210323192503-9e6yh2n",
+						"updated": "20210323192552"
+					},
+					"Children": [
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "珊瑚礁"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "是所有已知海洋生态系统中生物多样性最高的，其遗传多样性远远高于热带雨林。因此，它们是世界上潜在的未来最重要的产品仓库。"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210323192345-u50hupd",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210323192345-u50hupd",
+				"updated": "20210323193455"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "常见造礁珊瑚种类"
+				}
+			]
+		},
+		{
+			"ID": "20210323193208-505sjka",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210323193208-505sjka",
+				"updated": "20210323193209"
+			},
+			"Children": [
+				{
+					"ID": "20210323193209-a1ju6ly",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210323193209-a1ju6ly"
+					},
+					"Children": [
+						{
+							"ID": "20210323193209-d0dwgo4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210323193209-d0dwgo4",
+								"updated": "20210323193232"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "鹿角珊瑚（支状）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210323193233-1fr7wet",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210323193233-1fr7wet"
+					},
+					"Children": [
+						{
+							"ID": "20210323193233-vla72pg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210323193233-vla72pg",
+								"updated": "20210323193245"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "菊花珊瑚、扁脑珊瑚等（块状）"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210323193453-jfd73mt",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210323193453-jfd73mt",
+				"updated": "20210323193504"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "珊瑚礁的基本物理性质"
+				}
+			]
+		},
+		{
+			"ID": "20210323193518-ts6pp9v",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210323193518-ts6pp9v",
+				"updated": "20210323193536"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"CodeMarkerLen": 1,
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker",
+							"Data": "`"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "珊瑚砂素填土"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker",
+							"Data": "`"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210323193537-1hks0t7",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210323193537-1hks0t7",
+				"updated": "20210323193537"
+			},
+			"Children": [
+				{
+					"ID": "20210323193537-lae7e8t",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210323193537-lae7e8t"
+					},
+					"Children": [
+						{
+							"ID": "20210323193537-5qnv16i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210323193537-5qnv16i",
+								"updated": "20210323193556"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "灰白色，局部为黑色及黄褐色，一般为松散状"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210323193557-1bas839",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210323193557-1bas839"
+					},
+					"Children": [
+						{
+							"ID": "20210323193557-tz6wato",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210323193557-tz6wato",
+								"updated": "20210323193641"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "局部含碎石及少量珊瑚枝，碎石含量约为15%"
+								},
+								{
+									"Type": "NodeBackslash",
+									"Children": [
+										{
+											"Type": "NodeBackslashContent",
+											"Data": "~"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "35%，一般粒径为3"
+								},
+								{
+									"Type": "NodeBackslash",
+									"Children": [
+										{
+											"Type": "NodeBackslashContent",
+											"Data": "~"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "8cm"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210323193642-osppy9i",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210323193642-osppy9i",
+				"updated": "20210323193802"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "珊瑚砂属于钙质土或碳酸盐类土。通常由海洋生物形成、富含碳酸钙或其他难溶碳酸盐类物质的特殊岩土介质。"
+				}
+			]
+		},
+		{
+			"ID": "20210323193804-tbr5sld",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210323193804-tbr5sld",
+				"updated": "20210323193805"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e "
+				},
+				{
+					"ID": "20210323193805-j2ytmko",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210323193805-j2ytmko",
+						"updated": "20210323193828"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "主要矿物成分为"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "碳酸钙"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，其基本物理特性不同于一般砂土"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210323193847-5bvukhb",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210323193847-5bvukhb",
+				"updated": "20210323193850"
+			},
+			"Children": [
+				{
+					"ID": "20210323193850-38tew0y",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210323193850-38tew0y"
+					},
+					"Children": [
+						{
+							"ID": "20210323193850-yjat64t",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210323193850-yjat64t",
+								"updated": "20210323193852"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "颗粒级配"
+								}
+							]
+						},
+						{
+							"ID": "20210323194447-9rcpt1r",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210323194447-9rcpt1r"
+							},
+							"Children": [
+								{
+									"ID": "20210323194447-xm0pmao",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210323194447-xm0pmao"
+									},
+									"Children": [
+										{
+											"ID": "20210323194447-ts658a0",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210323194447-ts658a0",
+												"updated": "20210323194505"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "级配不良砂——不均匀系数大于5，曲率系数小于1"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210323193853-k39shjk",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210323193853-k39shjk"
+					},
+					"Children": [
+						{
+							"ID": "20210323193853-yxlsdx7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210323193853-yxlsdx7",
+								"updated": "20210323193856"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "颗粒比重"
+								}
+							]
+						},
+						{
+							"ID": "20210323194511-9lpngau",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210323194511-9lpngau"
+							},
+							"Children": [
+								{
+									"ID": "20210323194511-4xaqbvy",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210323194511-4xaqbvy"
+									},
+									"Children": [
+										{
+											"ID": "20210323194511-vz24j6h",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210323194511-vz24j6h",
+												"updated": "20210323194519"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "珊瑚砂比重为2.12"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210323193856-v4yw9as",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210323193856-v4yw9as"
+					},
+					"Children": [
+						{
+							"ID": "20210323193856-uqqld2a",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210323193856-uqqld2a",
+								"updated": "20210323193901"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "最优含水率"
+								}
+							]
+						},
+						{
+							"ID": "20210323194831-jinq22d",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210323194831-jinq22d"
+							},
+							"Children": [
+								{
+									"ID": "20210323194831-xlld0e3",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210323194831-xlld0e3"
+									},
+									"Children": [
+										{
+											"ID": "20210323194831-yvwe6i9",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210323194831-yvwe6i9",
+												"updated": "20210323194950"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "击实试验，结果可能并不可靠"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210323193902-cvvnnvj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210323193902-cvvnnvj"
+					},
+					"Children": [
+						{
+							"ID": "20210323193902-uabu810",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210323193902-uabu810",
+								"updated": "20210323193907"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "天然休止角"
+								}
+							]
+						},
+						{
+							"ID": "20210323194951-he5mdi3",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210323194951-he5mdi3"
+							},
+							"Children": [
+								{
+									"ID": "20210323194951-rhbi2tl",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210323194951-rhbi2tl"
+									},
+									"Children": [
+										{
+											"ID": "20210323194951-uxhpyxw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210323194951-uxhpyxw",
+												"updated": "20210323195014"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "水上35.8度，水下32.2度"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210323193907-n9emft9",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210323193907-n9emft9"
+					},
+					"Children": [
+						{
+							"ID": "20210323193907-oe7s43e",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210323193907-oe7s43e",
+								"updated": "20210323193918"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "含水性及持水能力"
+								}
+							]
+						},
+						{
+							"ID": "20210323195402-9ulxyc9",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210323195402-9ulxyc9"
+							},
+							"Children": [
+								{
+									"ID": "20210323195402-7p6c1gh",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210323195402-7p6c1gh"
+									},
+									"Children": [
+										{
+											"ID": "20210323195402-omcosh2",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210323195402-omcosh2",
+												"updated": "20210323195423"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "风干含水率9.1%，含水率略高"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210323195423-yxct9be",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210323195423-yxct9be"
+									},
+									"Children": [
+										{
+											"ID": "20210323195423-0pmgdn1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210323195423-0pmgdn1",
+												"updated": "20210323195450"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "饱和含水率29.2%，比石英砂远高"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210323195450-7i7smia",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210323195450-7i7smia"
+									},
+									"Children": [
+										{
+											"ID": "20210323195450-hen32o1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210323195450-hen32o1",
+												"updated": "20210323195526"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "珊瑚砂具有很强的含水性，但持水能力差（吸湿后水分易丢失）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210323193507-jw62s92",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210323193507-jw62s92",
+				"updated": "20210323193516"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "珊瑚礁的基本力学性质"
+				}
+			]
+		},
+		{
+			"ID": "20210323195705-7irv9mj",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210323195705-7irv9mj",
+				"updated": "20210323202013"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "珊瑚砂地基承载力影响因素分析"
+				}
+			]
+		},
+		{
+			"ID": "20210323202028-qpz97v0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210323202028-qpz97v0"
+			}
+		},
+		{
+			"ID": "20210323202014-672xqup",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210323202014-672xqup",
+				"updated": "20210323202025"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "珊瑚砂地基处理案例分析"
+				}
+			]
+		}
+	]
+}

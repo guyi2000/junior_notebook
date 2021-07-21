@@ -1,0 +1,3951 @@
+{
+	"ID": "20210304222300-4bkwd64",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210304222300-4bkwd64",
+		"title": "【1】地震的基本概念",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210304222300-oy6ybr0",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210304222300-oy6ybr0"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "地震的基本概念"
+				}
+			]
+		},
+		{
+			"ID": "20210721101550-sw3zvfa",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721101550-sw3zvfa"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "[toc]"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-d97hffy",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222300-d97hffy"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "断层与震源"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-s33vmlk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210304222300-s33vmlk"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "地震机制"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-28aiaxw",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-28aiaxw"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-b4m1cmp",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-b4m1cmp"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-dcgcj6e",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-dcgcj6e"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "板内地震、边缘地震=板块构造理论"
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-stliy78",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-stliy78"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-k2fv7gf",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-k2fv7gf"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-i2jppqc",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-i2jppqc"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "机理：弹性回跳理论（1906年）"
+												}
+											]
+										},
+										{
+											"ID": "20210304222300-ea259d7",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210304222300-ea259d7"
+											},
+											"Children": [
+												{
+													"ID": "20210304222300-0hq3th3",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210304222300-0hq3th3"
+													},
+													"Children": [
+														{
+															"ID": "20210304222300-1d38nt4",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210304222300-1d38nt4"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "应变能积累—\u003e应变能瞬间释放—\u003e岩层突然断裂、错动"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-hpw5gqr",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-hpw5gqr"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-1r4m8r4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-1r4m8r4"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "倾向滑动断层"
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-04t93c4",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-04t93c4"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-w4co71a",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-w4co71a"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-eicknwu",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-eicknwu"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "正断层（海沟）（上盘滑动方向与重力方向一致）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-dgin0ni",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-dgin0ni"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-0msn4d8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-0msn4d8"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "逆断层（冲断层）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-mqxt0it",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-mqxt0it"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-h4wm6i6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-h4wm6i6"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "走向滑动断层"
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-pc1xud2",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-pc1xud2"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-wikg5hv",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-wikg5hv"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-e1xlpwo",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-e1xlpwo"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "左旋、右旋"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-z0oarve",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-z0oarve"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-b2flhko",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-b2flhko",
+								"updated": "20210305002133"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "斜向滑动断层"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-qyc9hrf",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210304222300-qyc9hrf",
+				"updated": "20210305102016"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "震源"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-8m70srm",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-8m70srm"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-42hc80t",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-42hc80t"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-5wusj7v",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-5wusj7v"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "岩层错动的起始点"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-21jmlwc",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-21jmlwc"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-gqcp8kf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-gqcp8kf",
+								"updated": "20210305001808"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "地面投影点——震中"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-xs006lt",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-xs006lt"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-si0u28n",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-si0u28n"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "震中距、震源距"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-v4h86nl",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-v4h86nl"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-8fiy586",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-8fiy586"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "断层距——点到面的距离"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-yzp4q7u",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-yzp4q7u"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-17ik3f3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-17ik3f3"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "极震区、等震线"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-ilopwjc",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-ilopwjc"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-8x2mdng",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-8x2mdng",
+								"updated": "20210304224419"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "浅源地震、中源、深源"
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-27q7l6u",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-27q7l6u"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-af91bp2",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-af91bp2"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-7b3rnyi",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-7b3rnyi"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "震源深度70km以内"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-vlqkhu7",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-vlqkhu7"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-w0ja23e",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-w0ja23e"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "70km-300km"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-5qnjui4",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-5qnjui4"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-9yets4d",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-9yets4d"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "目前最深720km"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-z8i67o3",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-z8i67o3"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-36j5r42",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-36j5r42"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "地方震、近震、远震（地震分组Ⅰ、Ⅱ、Ⅲ）"
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-65qhwn4",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-65qhwn4"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-9qrwwmq",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-9qrwwmq"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-ayroz3z",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-ayroz3z"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "震中距100km以内"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-g1z5dv2",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-g1z5dv2"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-x9agsmj",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-x9agsmj"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "100km-1000km"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-y3f1fzq",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-y3f1fzq"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-whx17qa",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-whx17qa"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "大于1000km"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-m6vazrt",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222300-m6vazrt"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "地震波（Seismic wave）"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-9la058z",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-9la058z"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-h8y1xe4",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-h8y1xe4"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-lj7glxm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-lj7glxm"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "应变能突然释放，以弹性波形式向四周传播"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-z80jt4f",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210304222300-z80jt4f"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "体波与面波"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-bvt2o3r",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-bvt2o3r"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-wm8n161",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-wm8n161"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-gr58bgv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-gr58bgv"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "体波——地球内部传播的波"
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-wzmw2vy",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-wzmw2vy"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-2isywxt",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-2isywxt"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-8h76bct",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-8h76bct"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "纵波（P波）和横波（S波）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-9zm1uv1",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-9zm1uv1"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-2l49vng",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-2l49vng"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "面波——沿介质表面（地球表面）或介质交界面上传递的波"
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-cf6qg40",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-cf6qg40"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-s66w29z",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-s66w29z"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-lv9vx1z",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-lv9vx1z"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "瑞雷波（Rayleigh波）和乐甫波（Love波）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-8kvzuyh",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-8kvzuyh"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-xzx0zs4",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-xzx0zs4"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "在半径方向上很快衰减"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-bz7mh3i",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-bz7mh3i"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-rfxlikp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-rfxlikp"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "纵波"
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-lcofrtr",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-lcofrtr"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-yjwb235",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-yjwb235"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-gul39us",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-gul39us"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "纵波传播时，介质质点振动方向与波的前进方向一致"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-rbgwrb8",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-rbgwrb8"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-dxqdvvo",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-dxqdvvo"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "横波"
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-fzrg0bj",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-fzrg0bj"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-uo6w39l",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-uo6w39l"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-gnibbjn",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-gnibbjn"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "介质质点振动方向与波的前进方向垂直"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-a9me1pk",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-a9me1pk"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-i9pcjba",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-i9pcjba"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "只能在固体中传播"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-2uk3b3z",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-2uk3b3z"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-d0w6fg4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-d0w6fg4"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "瑞雷波"
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-xrv8zt7",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-xrv8zt7"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-xr5pk5j",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-xr5pk5j"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-57vv8if",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-57vv8if"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "振动轨迹为椭圆"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-2i6rb9g",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-2i6rb9g"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-ou35srp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-ou35srp"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "椭圆逆进运动"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-vam0mqw",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-vam0mqw"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-64mvsay",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-64mvsay"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "长轴方向与前进方向垂直，短轴方向与前进方向相同"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-vsjbzed",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-vsjbzed"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-bjs64wp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-bjs64wp"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "速度比横波稍慢"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-nwoaaqr",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-nwoaaqr"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-ijpnhwc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-ijpnhwc"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "乐甫波"
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-omstl7k",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-omstl7k"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-kz739ji",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-kz739ji"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-edlznzi",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-edlznzi"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "振动方向平行于地表面且与波的前进方向垂直（SH型面波）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-4q7v7iq",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210304222300-4q7v7iq"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "传播"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-92yafsm",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-92yafsm"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-x3wnxfi",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-x3wnxfi"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-fi9jpht",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-fi9jpht"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "纵波最快、横波次之、面波最慢"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-pzndkxt",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-pzndkxt"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-pm3jjqt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-pm3jjqt"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "横波和面波是造成建筑物破坏的主要原因"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-wis959m",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-wis959m"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-2hm711e",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-2hm711e"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "利用其时间差可推算震中距离"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-gycqeep",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222300-gycqeep"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "地震震级与烈度"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-up6rfsb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210304222300-up6rfsb"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "一次地震只有"
+				},
+				{
+					"Type": "NodeMark",
+					"Children": [
+						{
+							"Type": "NodeMark2OpenMarker",
+							"Data": "=="
+						},
+						{
+							"Type": "NodeText",
+							"Data": "一个"
+						},
+						{
+							"Type": "NodeMark2CloseMarker",
+							"Data": "=="
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "震级"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-lvp3kps",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210304222300-lvp3kps"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "但一次地震可以有"
+				},
+				{
+					"Type": "NodeMark",
+					"Children": [
+						{
+							"Type": "NodeMark2OpenMarker",
+							"Data": "=="
+						},
+						{
+							"Type": "NodeText",
+							"Data": "多个"
+						},
+						{
+							"Type": "NodeMark2CloseMarker",
+							"Data": "=="
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "烈度"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-hn01vi6",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210304222300-hn01vi6"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "震级"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-s3gz3s5",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-s3gz3s5"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-t6z0p8s",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-t6z0p8s"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-z9x3olu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-z9x3olu"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "里氏震级"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "M_L"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-fcv4kh0",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-fcv4kh0"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-39yl7ai",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-39yl7ai"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "标准地震仪在距离震中100km处，记录最大振幅为"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\mu"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "m时，对应的震级为零"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-bahtjf4",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-bahtjf4"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-a6x5oiy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-a6x5oiy"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "计算："
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "M_L=lgA(\\Delta)-lgA_0(\\Delta)"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-6wln83a",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-6wln83a"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-by891zf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-by891zf"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "面波震级、体波震级、矩震级"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-yoskopw",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-yoskopw"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-xytcvqp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-xytcvqp"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "lgE_s=1.5M+11.8"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-noc3vot",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-noc3vot"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-q7ktqqv",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-q7ktqqv"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-v6m8j2j",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-v6m8j2j"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "大1级，能量为"
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "10^{1.5}"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "倍，约为"
+												},
+												{
+													"Type": "NodeMark",
+													"Children": [
+														{
+															"Type": "NodeMark2OpenMarker",
+															"Data": "=="
+														},
+														{
+															"Type": "NodeText",
+															"Data": "32"
+														},
+														{
+															"Type": "NodeMark2CloseMarker",
+															"Data": "=="
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "倍"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-9u9nxlj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-9u9nxlj"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-uga2dwj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-uga2dwj"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "一般地，微震2级、有感地震4级"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-kj9mo0v",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-kj9mo0v"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-lhw4vlh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-lhw4vlh"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "5级以上破坏性地震"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-zt9xj8r",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-zt9xj8r"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-y5yj22d",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-y5yj22d"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "7级以上强震或大震"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-8g2wins",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-8g2wins"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-2g3rnts",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-2g3rnts"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "8级及以上特大地震"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-olo6854",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-olo6854"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-55k9q8i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-55k9q8i"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "“震级饱和”——地壳岩层的强度和破坏规模是有限的"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-u7qj9g8",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210304222300-u7qj9g8"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "烈度"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-61qeme7",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-61qeme7"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-b2mz5ai",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-b2mz5ai"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-vz7cmog",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-vz7cmog"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "地面、房屋等建筑物受地震影响和破坏程度"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-0se8e1y",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-0se8e1y"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-cz2kgyr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-cz2kgyr"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "一般震中烈度最高"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-ah8dqav",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-ah8dqav"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-b4vizex",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-b4vizex"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "震中烈度与震级的大致关系（"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "M=0.58I+1.5"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-xi6m7dm",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-xi6m7dm"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-pkk8a4i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-pkk8a4i"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "6度为抗震设防基本烈度"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-wwyzdm5",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222300-wwyzdm5"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "地震序列"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-osf83u9",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-osf83u9"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-8ypuzhg",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-8ypuzhg"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-4o1kt4w",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-4o1kt4w"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "主震-余震型地震"
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-nmqo2xn",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-nmqo2xn"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-ctvb8qn",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-ctvb8qn"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-y3bfl9j",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-y3bfl9j"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "主震能量占全序列能量的90%以上"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-f9uznjm",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-f9uznjm"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-y8go2jm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-y8go2jm"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "双震型地震"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-nxhh53f",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-nxhh53f"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-0w1s2hs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-0w1s2hs"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "震群型地震"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-wbdz8g3",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-wbdz8g3"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-bi1pf0d",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-bi1pf0d"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "孤立型地震"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-l9iq225",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222300-l9iq225"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "地震动（Ground motion）"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-7g2xzeu",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210304222300-7g2xzeu"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "六个震动分量："
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-hpxnzv1",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-hpxnzv1"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-7sofpk0",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-7sofpk0"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-vuszzmx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-vuszzmx"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "两个水平分量"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-rls5lpl",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-rls5lpl"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-wuucuuf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-wuucuuf"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "一个竖向分量"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-ukrbo59",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-ukrbo59"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-1ahajxh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-1ahajxh"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "三个转动分量（无设备记录）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-s5ggs8e",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-s5ggs8e"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-r2q0oom",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-r2q0oom"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "只能测量前三个平动分量"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-0n5ptxh",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210304222300-0n5ptxh"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "三要素"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-hwm4zlm",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-hwm4zlm"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-inwmm73",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-inwmm73"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-wl5h0qk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-wl5h0qk"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "强度（振幅）——加速度、速度、位移"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-57qd18t",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-57qd18t"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-bgh2x4d",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-bgh2x4d"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "频谱（频率成分）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-s7zrcar",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-s7zrcar"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-qrvfs9j",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-qrvfs9j"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "持续时间（取多长作为我们记录时间）"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-hea5w7s",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210304222300-hea5w7s"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "强度"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-8l1xvdr",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-8l1xvdr"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-3mlthwh",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-3mlthwh"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-jnaxr70",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-jnaxr70"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "一般用地震动强度时程、速度时程、位移时程三者之一的最大值或某种意义的有效值"
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-j3r9clo",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-j3r9clo"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-mlzqx78",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-mlzqx78"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-1f1i5yk",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-1f1i5yk"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "加速度峰值（PGA）我国采用 好处：通过质量能迅速求出地震力"
+												}
+											]
+										},
+										{
+											"ID": "20210304222300-1hb6f0l",
+											"Type": "NodeList",
+											"ListData": {
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210304222300-1hb6f0l"
+											},
+											"Children": [
+												{
+													"ID": "20210304222300-wwuy5xc",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210304222300-wwuy5xc"
+													},
+													"Children": [
+														{
+															"ID": "20210304222300-wz9y4k5",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210304222300-wz9y4k5"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "目前实测加速度峰值PGA达到3.0g"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210304222300-f0nls6d",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210304222300-f0nls6d"
+													},
+													"Children": [
+														{
+															"ID": "20210304222300-rt8muio",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210304222300-rt8muio"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "加速度竖向分量与水平分量的比值为1:2"
+																},
+																{
+																	"Type": "NodeBackslash",
+																	"Children": [
+																		{
+																			"Type": "NodeBackslashContent",
+																			"Data": "~"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": "1:3"
+																}
+															]
+														},
+														{
+															"ID": "20210304222300-cb0b3jy",
+															"Type": "NodeList",
+															"ListData": {
+																"Tight": true,
+																"BulletChar": 45,
+																"Padding": 2,
+																"Marker": "LQ==",
+																"Num": -1
+															},
+															"Properties": {
+																"id": "20210304222300-cb0b3jy"
+															},
+															"Children": [
+																{
+																	"ID": "20210304222300-1lxcjld",
+																	"Type": "NodeListItem",
+																	"Data": "-",
+																	"ListData": {
+																		"Tight": true,
+																		"BulletChar": 45,
+																		"Padding": 2,
+																		"Marker": "LQ==",
+																		"Num": -1
+																	},
+																	"Properties": {
+																		"id": "20210304222300-1lxcjld"
+																	},
+																	"Children": [
+																		{
+																			"ID": "20210304222300-2oew58o",
+																			"Type": "NodeParagraph",
+																			"Properties": {
+																				"id": "20210304222300-2oew58o"
+																			},
+																			"Children": [
+																				{
+																					"Type": "NodeText",
+																					"Data": "计算时"
+																				},
+																				{
+																					"Type": "NodeInlineMath",
+																					"Children": [
+																						{
+																							"Type": "NodeInlineMathOpenMarker"
+																						},
+																						{
+																							"Type": "NodeInlineMathContent",
+																							"Data": "a_v=0.65a_h"
+																						},
+																						{
+																							"Type": "NodeInlineMathCloseMarker"
+																						}
+																					]
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210304222300-4sbkamp",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210304222300-4sbkamp"
+													},
+													"Children": [
+														{
+															"ID": "20210304222300-2ccgjep",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210304222300-2ccgjep"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "近场地震（震中距较小）地震动加速度的竖向分量较大"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-sa1t87g",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-sa1t87g"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-4ws9683",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-4ws9683"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "速度峰值（PGV）日本采用"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-6cvnvk8",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210304222300-6cvnvk8"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "频谱"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-7u272m6",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-7u272m6"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-x39zsfy",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-x39zsfy"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-wqap8ws",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-wqap8ws"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "常用傅里叶谱、反应谱和功率谱来表示。其中，反应谱在结构抗震计算中广泛应用。"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-v7m63ux",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210304222300-v7m63ux"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "T=2\\pi\\sqrt{\\frac{m}{K}}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-7x3610h",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-7x3610h"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-wx0yim5",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-wx0yim5"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-374jncl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-374jncl"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "靠近断裂带"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-90po0t4",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-90po0t4"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-mxmqaw9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-mxmqaw9"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "短周期——低层建筑；长周期——高层建筑"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-zgc1acb",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-zgc1acb"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-6vkd05a",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-6vkd05a"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "强烈地震、远距、软土：长周期分量大"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-oeaxd42",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-oeaxd42"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-08mi9lv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-08mi9lv"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "中等强度地震、震中区、硬土：短周期分量大"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-syvuwyd",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-syvuwyd"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-49ocj72",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-49ocj72"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "案例：1985年墨西哥地震"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-adg7cus",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210304222300-adg7cus"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "持时"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-2vj51k1",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-2vj51k1"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-4tz9v2p",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-4tz9v2p"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-sey7kpn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-sey7kpn"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "有效持时：首次达到时程曲线的10%，到最后到达最大峰值的10%"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-spgdklv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210304222300-spgdklv"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "地震破坏"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-r1nbt63",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-r1nbt63"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-vvnuj7e",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-vvnuj7e"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-jg8rc8i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-jg8rc8i"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "首次超越破坏：首次超越破坏是由于结构或构件的最大地震反应超过了其变形能力而导致破坏"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-3x6eo41",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-3x6eo41"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-wijndmu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-wijndmu"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "累计损伤破坏："
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-o7za7vg",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-o7za7vg"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-xsnozz7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-xsnozz7"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "持时长时，可引起结构的累积损伤破坏"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-ymejko2",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-ymejko2"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-iqxl9qe",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-iqxl9qe"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "影响因素："
+								}
+							]
+						},
+						{
+							"ID": "20210304222300-is0w7qc",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222300-is0w7qc"
+							},
+							"Children": [
+								{
+									"ID": "20210304222300-vmr03mc",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-vmr03mc"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-nbvjorh",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-nbvjorh"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "震源机制（复杂）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-w3m3sbh",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-w3m3sbh"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-0xpikkg",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-0xpikkg"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "震级（震级大：强度大，持时长，主要周期长）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-vwooqui",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-vwooqui"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-so3qhz6",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-so3qhz6"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "距离（距离大：强度小，主要周期长）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-vyrrif5",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-vyrrif5"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-ztxquaw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-ztxquaw"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "场地（基岩、硬土：强度小，主要周期短，持时短）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-syd4i5d",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210304222300-syd4i5d"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "地震观测"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-9g9zo8h",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-9g9zo8h"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-gsrinsj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-gsrinsj"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-1wp5hj0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-1wp5hj0"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "地震仪（地震工作者使用）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-yx9vm2y",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-yx9vm2y"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-fzndt70",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-fzndt70",
+								"updated": "20210305002725"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "强震仪（抗震工作者使用）"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305002728-l4231rn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210305002728-l4231rn"
+			}
+		}
+	]
+}

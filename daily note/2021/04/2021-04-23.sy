@@ -1,0 +1,162 @@
+{
+	"ID": "20210423174019-zog1ek9",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210423174019-zog1ek9",
+		"title": "2021-04-23",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210423174019-swsoi29",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210423174019-swsoi29",
+				"updated": "20210423174035"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "智能建造大赛"
+				},
+				{
+					"Type": "NodeBackslash",
+					"Children": [
+						{
+							"Type": "NodeBackslashContent",
+							"Data": "-"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "0423"
+				}
+			]
+		},
+		{
+			"ID": "20210423174037-vv9epuw",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210423174037-vv9epuw",
+				"updated": "20210423174133"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "近期工作学习进展"
+				}
+			]
+		},
+		{
+			"ID": "20210423174133-8o4g85r",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210423174133-8o4g85r",
+				"updated": "20210423174356"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "工作计划"
+				}
+			]
+		},
+		{
+			"ID": "20210423174356-22n8dt8",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210423174356-22n8dt8",
+				"updated": "20210423174357"
+			},
+			"Children": [
+				{
+					"ID": "20210423174357-n23g3ka",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210423174357-n23g3ka"
+					},
+					"Children": [
+						{
+							"ID": "20210423174357-yb2ndjy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210423174357-yb2ndjy",
+								"updated": "20210423181223"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "机电方案设计（学习+建模）（"
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "5.2"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "）"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210423182018-7483iwc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210423182018-7483iwc"
+			}
+		}
+	]
+}

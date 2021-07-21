@@ -1,0 +1,18 @@
+{
+	"ID": "20210427194211-tg3431l",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210427194211-tg3431l",
+		"title": "2021-04-27",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210427194211-40qmkdc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210427194211-40qmkdc"
+			}
+		}
+	]
+}

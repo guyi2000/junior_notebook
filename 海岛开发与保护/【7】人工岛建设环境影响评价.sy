@@ -1,0 +1,258 @@
+{
+	"ID": "20210406192052-4s0w384",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210406192052-4s0w384",
+		"title": "【7】人工岛建设环境影响评价",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210406192052-ym583y1",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210406192052-ym583y1",
+				"updated": "20210406192113"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "人工岛建设环境影响评价"
+				}
+			]
+		},
+		{
+			"ID": "20210721101603-nyutqay",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721101603-nyutqay"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "[toc]"
+				}
+			]
+		},
+		{
+			"ID": "20210406192114-re7gmmk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210406192114-re7gmmk",
+				"updated": "20210406192119"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "定义"
+				}
+			]
+		},
+		{
+			"ID": "20210406192119-te4d081",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210406192119-te4d081",
+				"updated": "20210406192123"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e "
+				},
+				{
+					"ID": "20210406192123-apq3fgi",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210406192123-apq3fgi",
+						"updated": "20210406192335"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "环境影响评价是为了实施可持续发展战略，"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "预防"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "因规划和建设项目实施后对环境造成的"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "不良影响"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "促进"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "经济、社会和环境的"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "协调发展"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "（目的）"
+						}
+					]
+				},
+				{
+					"ID": "20210406192217-za5845w",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210406192217-za5845w",
+						"updated": "20210406192327"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "环境影响评价是指对规划和建设项目实施后可能造成的环境影响进行"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "分析、预测和评估"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，提出预防或者减轻不良环境影响的"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "对策和措施"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，进行跟踪监测的"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "方法与制度"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "。（内容）"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210406192327-qzyzc4f",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210406192327-qzyzc4f"
+			}
+		}
+	]
+}

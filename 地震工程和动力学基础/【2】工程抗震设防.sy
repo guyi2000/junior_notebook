@@ -1,0 +1,2032 @@
+{
+	"ID": "20210304222300-7nzhcqh",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210304222300-7nzhcqh",
+		"title": "【2】工程抗震设防",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210304222300-i210zi8",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210304222300-i210zi8"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "工程抗震设防"
+				}
+			]
+		},
+		{
+			"ID": "20210721101550-jda9tow",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721101550-jda9tow"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "[toc]"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-9e7v0d3",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222300-9e7v0d3"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "地震作用的特点"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-pmqr385",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-pmqr385"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-c2ng8zg",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-c2ng8zg"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-tn6pvpf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-tn6pvpf"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "不确定、不可预知"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-jc54r2c",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-jc54r2c"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-97awzlc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-97awzlc"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "短时间的动力作用"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222300-tcgpwdb",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-tcgpwdb"
+					},
+					"Children": [
+						{
+							"ID": "20210304222300-5u9w79a",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222300-5u9w79a"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "有选择的破坏作用"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-gtwmnqn",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222300-gtwmnqn"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "地震区划"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-yhok3w9",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222300-yhok3w9"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "抗震设防的目标和范围"
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-zcterk4",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222300-zcterk4"
+			},
+			"Children": [
+				{
+					"ID": "20210304222300-3075d4t",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222300-3075d4t"
+					},
+					"Children": [
+						{
+							"ID": "20210308192056-k2a2kz8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210308192056-k2a2kz8",
+								"updated": "20210308192119"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "《建筑抗震设计规范》GB50011-2010"
+								}
+							]
+						},
+						{
+							"ID": "20210308192121-guqopt6",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210308192121-guqopt6"
+							},
+							"Children": [
+								{
+									"ID": "20210308192056-dt864hm",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308192056-dt864hm"
+									},
+									"Children": [
+										{
+											"ID": "20210308192056-riquzsp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308192056-riquzsp",
+												"updated": "20210308192358"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "小震不坏——结构为弹性"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-4yfrbkh",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-4yfrbkh"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-9781xll",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-9781xll",
+												"updated": "20210308192411"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "中震可修——部分构件屈服，不严重"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222300-txuw5br",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222300-txuw5br"
+									},
+									"Children": [
+										{
+											"ID": "20210304222300-vltl4xw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222300-vltl4xw",
+												"updated": "20210308192428"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "大震不倒——结构破坏，保证生命安全，减少财产损失"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210308192621-13qk054",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210308192621-13qk054"
+					},
+					"Children": [
+						{
+							"ID": "20210308192620-qaj2v3t",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210308192620-qaj2v3t",
+								"updated": "20210308192623"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "美国标准"
+								}
+							]
+						},
+						{
+							"ID": "20210308192624-yjrt8pp",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210308192624-yjrt8pp"
+							},
+							"Children": [
+								{
+									"ID": "20210308192624-75xh7dg",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308192624-75xh7dg"
+									},
+									"Children": [
+										{
+											"ID": "20210308192624-jioz8da",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308192624-jioz8da",
+												"updated": "20210308192635"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "先考虑大震作用，计算得MCE"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210308192637-3299xau",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308192637-3299xau"
+									},
+									"Children": [
+										{
+											"ID": "20210308192637-49fmwb8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308192637-49fmwb8",
+												"updated": "20210308192727"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "此后利用折减系数"
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\displaystyle\\frac{\\frac{2}{3}MCE}{R}"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-apfhsh6",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222300-apfhsh6",
+				"updated": "20210304223022"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "抗震设防分类和设防标准"
+				}
+			]
+		},
+		{
+			"ID": "20210308191604-fmw54p2",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210308191604-fmw54p2",
+				"updated": "20210308191613"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "抗震设防分类"
+				}
+			]
+		},
+		{
+			"ID": "20210308191614-dpxsel5",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210308191614-dpxsel5",
+				"updated": "20210308193058"
+			},
+			"Children": [
+				{
+					"ID": "20210308193058-o2ep2lj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210308193058-o2ep2lj"
+					},
+					"Children": [
+						{
+							"ID": "20210308193058-h27k266",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210308193058-h27k266",
+								"updated": "20210308193123"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "特殊设防类——甲类"
+								}
+							]
+						},
+						{
+							"ID": "20210308193215-9p46xag",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210308193215-9p46xag"
+							},
+							"Children": [
+								{
+									"ID": "20210308193214-4tlsuuq",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308193214-4tlsuuq"
+									},
+									"Children": [
+										{
+											"ID": "20210308193214-udh0b08",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308193214-udh0b08",
+												"updated": "20210308193234"
+											},
+											"Children": [
+												{
+													"Type": "NodeMark",
+													"Children": [
+														{
+															"Type": "NodeMark2OpenMarker",
+															"Data": "=="
+														},
+														{
+															"Type": "NodeText",
+															"Data": "特殊设施"
+														},
+														{
+															"Type": "NodeMark2CloseMarker",
+															"Data": "=="
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "，涉及国家公众安全的重大建筑工程"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210308193105-kl6ysku",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210308193105-kl6ysku"
+					},
+					"Children": [
+						{
+							"ID": "20210308193105-1bhlbpm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210308193105-1bhlbpm",
+								"updated": "20210308193126"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "重点设防类——乙类"
+								}
+							]
+						},
+						{
+							"ID": "20210308193314-5sypquw",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210308193314-5sypquw"
+							},
+							"Children": [
+								{
+									"ID": "20210308193314-wtxo8tx",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308193314-wtxo8tx"
+									},
+									"Children": [
+										{
+											"ID": "20210308193314-r0e72l7",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308193314-r0e72l7",
+												"updated": "20210308193351"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "地震时使用功能不能中断，还需尽快恢复的生命线相关建筑"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210308193110-de0gqwb",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210308193110-de0gqwb"
+					},
+					"Children": [
+						{
+							"ID": "20210308193110-cab4r7g",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210308193110-cab4r7g",
+								"updated": "20210308193129"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "标准设防类——丙类"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210308193114-i71lz73",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210308193114-i71lz73"
+					},
+					"Children": [
+						{
+							"ID": "20210308193114-6sy06rv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210308193114-6sy06rv",
+								"updated": "20210308193132"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "适度设防类——丁类"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210308193449-xurtqv5",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210308193449-xurtqv5",
+				"updated": "20210308193455"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "抗震设防标准"
+				}
+			]
+		},
+		{
+			"ID": "20210308193455-7b7ug9e",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210308193455-7b7ug9e",
+				"updated": "20210308193501"
+			},
+			"Children": [
+				{
+					"ID": "20210308193501-hdqie78",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210308193501-hdqie78",
+						"updated": "20210308193522"
+					},
+					"Children": [
+						{
+							"ID": "20210308193535-q7jesyj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210308193535-q7jesyj",
+								"updated": "20210308194013"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210308193058-h27k266"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						},
+						{
+							"ID": "20210308193540-rn4phwb",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210308193540-rn4phwb"
+							},
+							"Children": [
+								{
+									"ID": "20210308193535-n72og8h",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308193535-n72og8h"
+									},
+									"Children": [
+										{
+											"ID": "20210308193535-ys2g5sf",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308193535-ys2g5sf",
+												"updated": "20210308193535"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "抗震措施——高于本地区抗震设防烈度提高一度的要求"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210308193538-xl8zgbb",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210308193538-xl8zgbb"
+					},
+					"Children": [
+						{
+							"ID": "20210308193540-u0qgfjt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210308193540-u0qgfjt",
+								"updated": "20210308194036"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210308193105-1bhlbpm"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210308193617-wew666v",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210308193617-wew666v"
+					},
+					"Children": [
+						{
+							"ID": "20210308193600-pnrp283",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210308193600-pnrp283",
+								"updated": "20210308194045"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210308193110-cab4r7g"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						},
+						{
+							"ID": "20210308193635-riuxvyp",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210308193635-riuxvyp"
+							},
+							"Children": [
+								{
+									"ID": "20210308193634-hm7jlnw",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308193634-hm7jlnw"
+									},
+									"Children": [
+										{
+											"ID": "20210308193634-f2ksqz2",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308193634-f2ksqz2",
+												"updated": "20210308193637"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "措施——本地区设防烈度"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222300-eplq7rg",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222300-eplq7rg",
+				"updated": "20210308193200"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "抗震设防方法"
+				}
+			]
+		},
+		{
+			"ID": "20210304223023-og2ranl",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210304223023-og2ranl",
+				"updated": "20210308193851"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"CodeMarkerLen": 1,
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker",
+							"Data": "`"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "两阶段抗震设计方法"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker",
+							"Data": "`"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210308193852-ohfmlz8",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210308193852-ohfmlz8",
+				"updated": "20210308195315"
+			},
+			"Children": [
+				{
+					"ID": "20210308193902-x5jtfuy",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210308193902-x5jtfuy"
+					},
+					"Children": [
+						{
+							"ID": "20210308193902-vxikldg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210308193902-vxikldg",
+								"updated": "20210308193909"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "小震作用下的结构设计"
+								}
+							]
+						},
+						{
+							"ID": "20210308194121-ey6m5hg",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210308194121-ey6m5hg",
+								"updated": "20210308194126"
+							},
+							"Children": [
+								{
+									"ID": "20210308194126-81fof2q",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308194126-81fof2q"
+									},
+									"Children": [
+										{
+											"ID": "20210308194126-6b8kq8v",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308194126-6b8kq8v",
+												"updated": "20210308194138"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "结构方案和结构布置（有利于抗震）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210308194138-lkidh3s",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308194138-lkidh3s"
+									},
+									"Children": [
+										{
+											"ID": "20210308194138-71ilu38",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308194138-71ilu38",
+												"updated": "20210308194149"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "计算荷载效应及效应组合（小震弹性）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210308194149-mpx4nbr",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308194149-mpx4nbr"
+									},
+									"Children": [
+										{
+											"ID": "20210308194149-otbqh5x",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308194149-otbqh5x",
+												"updated": "20210308194159"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "层间位移验算（小震作用下）"
+												}
+											]
+										},
+										{
+											"ID": "20210308194414-lrr5l4o",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210308194414-lrr5l4o"
+											},
+											"Children": [
+												{
+													"ID": "20210308194414-1gp88sc",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210308194414-1gp88sc"
+													},
+													"Children": [
+														{
+															"ID": "20210308194414-9vp5r42",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210308194414-9vp5r42",
+																"updated": "20210308194431"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "正常使用设计要求（容许）"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210308195257-tdcctpu",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210308195257-tdcctpu"
+													},
+													"Children": [
+														{
+															"ID": "20210308195257-gwgbxej",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210308195257-gwgbxej",
+																"updated": "20210308195327"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "\\displaystyle[\\frac{\\delta}{h}]=\\frac{1}{50}"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210308194159-cdse0k4",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308194159-cdse0k4"
+									},
+									"Children": [
+										{
+											"ID": "20210308194159-gej3i31",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308194159-gej3i31",
+												"updated": "20210308194212"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "截面承载力验算（极限状态方法）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210308194213-6m27ods",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308194213-6m27ods"
+									},
+									"Children": [
+										{
+											"ID": "20210308194213-wbmaikn",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308194213-wbmaikn",
+												"updated": "20210308194229"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "配筋、构造设计、抗震措施（按延性和耗能要求）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210308193909-rbrbwsb",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210308193909-rbrbwsb"
+					},
+					"Children": [
+						{
+							"ID": "20210308193909-kiqn02q",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210308193909-kiqn02q",
+								"updated": "20210308194928"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "大震作用下的弹塑性变形验算"
+								}
+							]
+						},
+						{
+							"ID": "20210308194929-wahofcc",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210308194929-wahofcc",
+								"updated": "20210308194930"
+							},
+							"Children": [
+								{
+									"ID": "20210308194930-4vbhj9y",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308194930-4vbhj9y"
+									},
+									"Children": [
+										{
+											"ID": "20210308194930-5jbf4ch",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308194930-5jbf4ch",
+												"updated": "20210308194938"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "部分重要或特殊建筑"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210308194938-y6z1z0p",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308194938-y6z1z0p"
+									},
+									"Children": [
+										{
+											"ID": "20210308194938-m9piuzd",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308194938-m9piuzd",
+												"updated": "20210308194943"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "结构构件进入屈服"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210308194943-z6uxmae",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308194943-z6uxmae"
+									},
+									"Children": [
+										{
+											"ID": "20210308194943-o1to178",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308194943-o1to178",
+												"updated": "20210308194950"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "地震作用："
+												},
+												{
+													"Type": "NodeMark",
+													"Children": [
+														{
+															"Type": "NodeMark2OpenMarker",
+															"Data": "=="
+														},
+														{
+															"Type": "NodeText",
+															"Data": "大震"
+														},
+														{
+															"Type": "NodeMark2CloseMarker",
+															"Data": "=="
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210308194950-h5e6niu",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308194950-h5e6niu"
+									},
+									"Children": [
+										{
+											"ID": "20210308194950-xo8k2zb",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308194950-xo8k2zb",
+												"updated": "20210308195007"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "验算后层间位移（倒塌变形限值）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210308195009-adlqniz",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308195009-adlqniz"
+									},
+									"Children": [
+										{
+											"ID": "20210308195009-41bpxo5",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308195009-41bpxo5",
+												"updated": "20210308195012"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "计算方法："
+												}
+											]
+										},
+										{
+											"ID": "20210308195013-7oot6h3",
+											"Type": "NodeList",
+											"ListData": {
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210308195013-7oot6h3"
+											},
+											"Children": [
+												{
+													"ID": "20210308195013-52uwoee",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210308195013-52uwoee"
+													},
+													"Children": [
+														{
+															"ID": "20210308195013-7fhvvjf",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210308195013-7fhvvjf",
+																"updated": "20210308195020"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "弹塑性时程分析"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210308195020-yr2tfu6",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210308195020-yr2tfu6"
+													},
+													"Children": [
+														{
+															"ID": "20210308195020-rltow1c",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210308195020-rltow1c",
+																"updated": "20210308195037"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "静力弹塑性分析（推覆分析）"
+																}
+															]
+														},
+														{
+															"ID": "20210308195039-hum6m4g",
+															"Type": "NodeList",
+															"ListData": {
+																"Tight": true,
+																"BulletChar": 45,
+																"Padding": 2,
+																"Marker": "LQ==",
+																"Num": -1
+															},
+															"Properties": {
+																"id": "20210308195039-hum6m4g"
+															},
+															"Children": [
+																{
+																	"ID": "20210308195039-xu7ehkg",
+																	"Type": "NodeListItem",
+																	"Data": "-",
+																	"ListData": {
+																		"Tight": true,
+																		"BulletChar": 45,
+																		"Padding": 2,
+																		"Marker": "LQ==",
+																		"Num": -1
+																	},
+																	"Properties": {
+																		"id": "20210308195039-xu7ehkg"
+																	},
+																	"Children": [
+																		{
+																			"ID": "20210308195039-o86g7t2",
+																			"Type": "NodeParagraph",
+																			"Properties": {
+																				"id": "20210308195039-o86g7t2",
+																				"updated": "20210308195044"
+																			},
+																			"Children": [
+																				{
+																					"Type": "NodeText",
+																					"Data": "PUSHOVER"
+																				}
+																			]
+																		}
+																	]
+																},
+																{
+																	"ID": "20210308195044-eehv0qq",
+																	"Type": "NodeListItem",
+																	"Data": "-",
+																	"ListData": {
+																		"Tight": true,
+																		"BulletChar": 45,
+																		"Padding": 2,
+																		"Marker": "LQ==",
+																		"Num": -1
+																	},
+																	"Properties": {
+																		"id": "20210308195044-eehv0qq"
+																	},
+																	"Children": [
+																		{
+																			"ID": "20210308195044-mcuw30n",
+																			"Type": "NodeParagraph",
+																			"Properties": {
+																				"id": "20210308195044-mcuw30n",
+																				"updated": "20210308195048"
+																			},
+																			"Children": [
+																				{
+																					"Type": "NodeText",
+																					"Data": "PUSHDOWN"
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210308194829-le3tul7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210308194829-le3tul7",
+				"updated": "20210308194859"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockRef",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20210308193902-vxikldg"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "结构设计"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "采用的地震作用"
+				}
+			]
+		},
+		{
+			"ID": "20210308194900-kwu6lrl",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210308194900-kwu6lrl",
+				"updated": "20210308194901"
+			},
+			"Children": [
+				{
+					"ID": "20210308194901-1co8kol",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210308194901-1co8kol"
+					},
+					"Children": [
+						{
+							"ID": "20210308194901-odraae9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210308194901-odraae9",
+								"updated": "20210308194908"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "采用多遇烈度地震（小震）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210308194910-rlf68dj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210308194910-rlf68dj"
+					},
+					"Children": [
+						{
+							"ID": "20210308194910-6f3i3c5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210308194910-6f3i3c5",
+								"updated": "20210308194916"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "计算地震作用及其效应"
+								}
+							]
+						},
+						{
+							"ID": "20210308194917-af6egth",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210308194917-af6egth"
+							},
+							"Children": [
+								{
+									"ID": "20210308194916-mrxx02i",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308194916-mrxx02i"
+									},
+									"Children": [
+										{
+											"ID": "20210308194916-ozg5p1h",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308194916-ozg5p1h",
+												"updated": "20210308194920"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "结构为线弹性"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210308195129-by7gon4",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308195129-by7gon4"
+									},
+									"Children": [
+										{
+											"ID": "20210308195129-jaocfqc",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308195129-jaocfqc",
+												"updated": "20210308195220"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "8度设防，计算加速度为"
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": " 200gal=200cm/s^2=0.2g"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210308195052-4gw6oq6",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210308195052-4gw6oq6"
+									},
+									"Children": [
+										{
+											"ID": "20210308195052-b2bhqjh",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210308195052-b2bhqjh",
+												"updated": "20210308195120"
+											},
+											"Children": [
+												{
+													"Type": "NodeInlineMath",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\displaystyle\\frac{\\delta}{h}=\\frac{1}{550}"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210308195050-sjazpdb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210308195050-sjazpdb"
+			}
+		}
+	]
+}

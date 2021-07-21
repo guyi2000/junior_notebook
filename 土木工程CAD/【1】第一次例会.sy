@@ -1,0 +1,481 @@
+{
+	"ID": "20210320141355-774pn1p",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210320141355-774pn1p",
+		"title": "【1】第一次例会",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210320141355-hjx24s7",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210320141355-hjx24s7",
+				"updated": "20210320141645"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "第一次例会"
+				}
+			]
+		},
+		{
+			"ID": "20210320141404-2hanq33",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210320141404-2hanq33",
+				"updated": "20210320141415"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "BIM规则推理自动分类"
+				}
+			]
+		},
+		{
+			"ID": "20210320141416-elgkw47",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210320141416-elgkw47",
+				"updated": "20210320141625"
+			},
+			"Children": [
+				{
+					"ID": "20210320141625-8t23pck",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210320141625-8t23pck"
+					},
+					"Children": [
+						{
+							"ID": "20210320141625-zw9dbrl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210320141625-zw9dbrl",
+								"updated": "20210320141629"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "BIM模型的类别信息——基本信息"
+								}
+							]
+						},
+						{
+							"ID": "20210320141630-4sdkdy5",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210320141630-4sdkdy5"
+							},
+							"Children": [
+								{
+									"ID": "20210320141630-l3gx0ws",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210320141630-l3gx0ws"
+									},
+									"Children": [
+										{
+											"ID": "20210320141630-imnn3ua",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210320141630-imnn3ua",
+												"updated": "20210320141630"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "墙梁板柱"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210320141457-clpbvzb",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210320141457-clpbvzb",
+				"updated": "20210320141635"
+			},
+			"Children": [
+				{
+					"ID": "20210320141635-ojcjk9u",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210320141635-ojcjk9u"
+					},
+					"Children": [
+						{
+							"ID": "20210320141635-xyzgifm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210320141635-xyzgifm",
+								"updated": "20210320141640"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "建模不规范"
+								}
+							]
+						},
+						{
+							"ID": "20210320141641-dbcj7t2",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210320141641-dbcj7t2"
+							},
+							"Children": [
+								{
+									"ID": "20210320141641-qerlr25",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210320141641-qerlr25"
+									},
+									"Children": [
+										{
+											"ID": "20210320141641-ec0xa31",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210320141641-ec0xa31",
+												"updated": "20210320141641"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "梁使用墙族"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210320141620-ow459of",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210320141620-ow459of",
+				"updated": "20210320141647"
+			},
+			"Children": [
+				{
+					"ID": "20210320141647-7ou30gt",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210320141647-7ou30gt"
+					},
+					"Children": [
+						{
+							"ID": "20210320141647-rh8e9sw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210320141647-rh8e9sw",
+								"updated": "20210320141649"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "BIM模型在信息交换过程中的缺失"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210320141650-jc92h2v",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210320141650-jc92h2v"
+					},
+					"Children": [
+						{
+							"ID": "20210320141650-1bzg1k8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210320141650-1bzg1k8",
+								"updated": "20210320141650"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "新型建模方式（倾斜摄影）点云转换为BIM模型"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210320141654-kjvcls2",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210320141654-kjvcls2"
+					},
+					"Children": [
+						{
+							"ID": "20210320141654-y20lk3i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210320141654-y20lk3i",
+								"updated": "20210320141720"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "根据构件的几何信息进行研究（邻接等等）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210320141722-ww1qc5w",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210320141722-ww1qc5w"
+					},
+					"Children": [
+						{
+							"ID": "20210320141722-yr5fit2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210320141722-yr5fit2",
+								"updated": "20210320141831"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "根据推理机获取相应规则"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210320142112-zwsw8r8",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210320142112-zwsw8r8",
+				"updated": "20210320142120"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "规则推理"
+				}
+			]
+		},
+		{
+			"ID": "20210320142120-im7jxis",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210320142120-im7jxis",
+				"updated": "20210320142120"
+			},
+			"Children": [
+				{
+					"ID": "20210320142120-p7l9pyr",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210320142120-p7l9pyr"
+					},
+					"Children": [
+						{
+							"ID": "20210320142120-8hevjp2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210320142120-8hevjp2",
+								"updated": "20210320142126"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Revit平台下的推理"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210320142127-9aoscxc",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210320142127-9aoscxc"
+					},
+					"Children": [
+						{
+							"ID": "20210320142127-fiehcmm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210320142127-fiehcmm",
+								"updated": "20210320142141"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "推理引擎与推理规则的确定"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210320143225-i9scdak",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210320143225-i9scdak"
+			}
+		}
+	]
+}

@@ -1,0 +1,310 @@
+{
+	"ID": "20210412192333-kv2jjbx",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210412192333-kv2jjbx",
+		"title": "【4】结构抗震计算",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210412192333-zp1vkp9",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210412192333-zp1vkp9",
+				"updated": "20210412192339"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "结构抗震计算"
+				}
+			]
+		},
+		{
+			"ID": "20210721101552-gbxuixm",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721101552-gbxuixm"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "[toc]"
+				}
+			]
+		},
+		{
+			"ID": "20210412192344-3rbkyy5",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210412192344-3rbkyy5",
+				"updated": "20210412192412"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "结构抗震计算方法"
+				}
+			]
+		},
+		{
+			"ID": "20210412192412-bxdcjvf",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210412192412-bxdcjvf",
+				"updated": "20210412192420"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "反应谱方法"
+				}
+			]
+		},
+		{
+			"ID": "20210412192422-0jmzwv8",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210412192422-0jmzwv8",
+				"updated": "20210412192535"
+			},
+			"Children": [
+				{
+					"ID": "20210412192535-5e7nd6c",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210412192535-5e7nd6c"
+					},
+					"Children": [
+						{
+							"ID": "20210412192535-eduexjf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210412192535-eduexjf",
+								"updated": "20210412192551"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "反应谱本质反映了地震特征"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210412192603-lent25j",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210412192603-lent25j"
+					},
+					"Children": [
+						{
+							"ID": "20210412192603-5616kzk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210412192603-5616kzk",
+								"updated": "20210412192606"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "强度"
+								}
+							]
+						},
+						{
+							"ID": "20210412192607-ooe6sl2",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210412192607-ooe6sl2"
+							},
+							"Children": [
+								{
+									"ID": "20210412192607-aik29fj",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210412192607-aik29fj"
+									},
+									"Children": [
+										{
+											"ID": "20210412192607-tvgnsyl",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210412192607-tvgnsyl",
+												"updated": "20210412192641"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "自振周期等于0时对应的加速度反应谱值等于地震地面运动加速度峰值"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210412192700-5npenob",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210412192700-5npenob",
+				"updated": "20210412192705"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "影响因素"
+				}
+			]
+		},
+		{
+			"ID": "20210412192705-rhtikw4",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210412192705-rhtikw4",
+				"updated": "20210412192707"
+			},
+			"Children": [
+				{
+					"ID": "20210412192707-k3bx9v9",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210412192707-k3bx9v9"
+					},
+					"Children": [
+						{
+							"ID": "20210412192707-duhtyd4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210412192707-duhtyd4",
+								"updated": "20210412192709"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "震中距"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210412192710-33ioncq",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210412192710-33ioncq"
+					},
+					"Children": [
+						{
+							"ID": "20210412192710-3xhcic2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210412192710-3xhcic2",
+								"updated": "20210412192713"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "场地条件"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210412192851-1p320op",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210412192851-1p320op"
+			}
+		}
+	]
+}

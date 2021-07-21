@@ -1,0 +1,295 @@
+{
+	"ID": "20210309191940-cusbt15",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210309191940-cusbt15",
+		"title": "【1】第一次面谈",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210309191940-q31cziv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210309191940-q31cziv",
+				"updated": "20210309191946"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "第一次面谈"
+				}
+			]
+		},
+		{
+			"ID": "20210309191946-wzm7h3n",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210309191946-wzm7h3n",
+				"updated": "20210309193536"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "研究内容概况"
+				}
+			]
+		},
+		{
+			"ID": "20210309193553-9zc6tu5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210309193553-9zc6tu5"
+			}
+		},
+		{
+			"ID": "20210309193537-p5yvm6l",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210309193537-p5yvm6l",
+				"updated": "20210309193547"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "对研究生培养的理解"
+				}
+			]
+		},
+		{
+			"ID": "20210309193558-ktohu2i",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210309193558-ktohu2i",
+				"updated": "20210309193625"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "本科生是一个产品，而研究生是一个作品"
+				}
+			]
+		},
+		{
+			"ID": "20210309193630-fdqjmwq",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210309193630-fdqjmwq",
+				"updated": "20210309193706"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "研究生做科研应满足三点要求"
+				}
+			]
+		},
+		{
+			"ID": "20210309193706-40u14ne",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210309193706-40u14ne",
+				"updated": "20210309193707"
+			},
+			"Children": [
+				{
+					"ID": "20210309193707-addw2sx",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210309193707-addw2sx"
+					},
+					"Children": [
+						{
+							"ID": "20210309193707-f7rtujm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210309193707-f7rtujm",
+								"updated": "20210309193713"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Big Idea"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210309193714-nm5aj9n",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210309193714-nm5aj9n"
+					},
+					"Children": [
+						{
+							"ID": "20210309193714-ksxrj7w",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210309193714-ksxrj7w",
+								"updated": "20210309193716"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Impact"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210309193716-o8k89mj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210309193716-o8k89mj"
+					},
+					"Children": [
+						{
+							"ID": "20210309193716-vc431n8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210309193716-vc431n8",
+								"updated": "20210309193720"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Teamwork"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210309204552-kuvvnbj",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210309204552-kuvvnbj",
+				"updated": "20210310000757"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				}
+			]
+		},
+		{
+			"ID": "20210309193547-aieye21",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210309193547-aieye21",
+				"updated": "20210309193551"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "对研究生的要求"
+				}
+			]
+		},
+		{
+			"ID": "20210309193725-ti0ywvz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210309193725-ti0ywvz",
+				"updated": "20210310000752"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "有"
+				}
+			]
+		},
+		{
+			"ID": "20210309193743-75g2uom",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210309193743-75g2uom",
+				"updated": "20210309193750"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "有严谨的科研态度"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,2551 @@
+{
+	"ID": "20210305095921-06n99bf",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210305095921-06n99bf",
+		"title": "【2】人工岛",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210305095921-qxrf7hc",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210305095921-qxrf7hc",
+				"updated": "20210305095946"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "人工岛"
+				}
+			]
+		},
+		{
+			"ID": "20210305095950-u6s9pev",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305095950-u6s9pev",
+				"updated": "20210305095958"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "人工岛是人工设计和建造的“海岛”"
+				}
+			]
+		},
+		{
+			"ID": "20210305100319-cjv6i5k",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305100319-cjv6i5k"
+			},
+			"Children": [
+				{
+					"ID": "20210305100014-qj4mcu8",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100014-qj4mcu8"
+					},
+					"Children": [
+						{
+							"ID": "20210305100014-0y7uhd0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100014-0y7uhd0",
+								"updated": "20210305100018"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "大陆上某种土地需求得不到满足"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100019-anvbc3z",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100019-anvbc3z"
+					},
+					"Children": [
+						{
+							"ID": "20210305100019-zqj7w3c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100019-zqj7w3c",
+								"updated": "20210305100023"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "部署对大陆生活生产有损害风险的活动"
+								}
+							]
+						},
+						{
+							"ID": "20210305100334-m03ggx0",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305100334-m03ggx0"
+							},
+							"Children": [
+								{
+									"ID": "20210305100023-3xgd8pg",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305100023-3xgd8pg"
+									},
+									"Children": [
+										{
+											"ID": "20210305100023-vn9xfme",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305100023-vn9xfme",
+												"updated": "20210305100344"
+											},
+											"Children": [
+												{
+													"Type": "NodeStrong",
+													"Children": [
+														{
+															"Type": "NodeStrongA6kOpenMarker",
+															"Data": "**"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "核电站"
+														},
+														{
+															"Type": "NodeStrongA6kCloseMarker",
+															"Data": "**"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "等"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100028-24f4xks",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100028-24f4xks"
+					},
+					"Children": [
+						{
+							"ID": "20210305100028-8fi9yd6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100028-8fi9yd6",
+								"updated": "20210305100033"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "缺乏深水通道、港口疏浚成本高"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100206-1qczyxt",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100206-1qczyxt"
+					},
+					"Children": [
+						{
+							"ID": "20210305100033-gfvrsn7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100033-gfvrsn7",
+								"updated": "20210305100037"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "自然资源开发，油、气等"
+								}
+							]
+						},
+						{
+							"ID": "20210305100434-7puc5kf",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305100434-7puc5kf"
+							},
+							"Children": [
+								{
+									"ID": "20210305100433-n1ea7bw",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305100433-n1ea7bw"
+									},
+									"Children": [
+										{
+											"ID": "20210721101610-530r1xo",
+											"Type": "NodeBlockQueryEmbed",
+											"Properties": {
+												"id": "20210721101610-530r1xo"
+											},
+											"Children": [
+												{
+													"Type": "NodeOpenBrace"
+												},
+												{
+													"Type": "NodeOpenBrace"
+												},
+												{
+													"Type": "NodeBlockQueryEmbedScript",
+													"Data": "SELECT * FROM blocks WHERE id = \u0026#39;20210305100139-zbhbgz5\u0026#39;"
+												},
+												{
+													"Type": "NodeCloseBrace"
+												},
+												{
+													"Type": "NodeCloseBrace"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100215-xap4uri",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100215-xap4uri"
+					},
+					"Children": [
+						{
+							"ID": "20210305100206-b0zwald",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100206-b0zwald",
+								"updated": "20210305100215"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "临时、附属设施，如潮汐能、跨海大桥桥墩"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100326-wbcy18i",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100326-wbcy18i"
+					},
+					"Children": [
+						{
+							"ID": "20210305100215-3jm5dst",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100215-3jm5dst",
+								"updated": "20210305100325"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "国家战略、军事需求"
+								}
+							]
+						},
+						{
+							"ID": "20210305100328-cazpogy",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305100328-cazpogy"
+							},
+							"Children": [
+								{
+									"ID": "20210305100033-ozct2pt",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305100033-ozct2pt"
+									},
+									"Children": [
+										{
+											"ID": "20210305100326-ekbxfg6",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305100326-ekbxfg6",
+												"updated": "20210305100331"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "美济岛"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305100331-r72ck4b",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305100331-r72ck4b"
+									},
+									"Children": [
+										{
+											"ID": "20210305100331-zunnx3p",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305100331-zunnx3p",
+												"updated": "20210305100336"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "南威岛"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305100336-glxsqwo",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305100336-glxsqwo"
+									},
+									"Children": [
+										{
+											"ID": "20210305100336-a02skxq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305100336-a02skxq",
+												"updated": "20210305100338"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "永暑岛"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305100338-9zyhh9w",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305100338-9zyhh9w"
+									},
+									"Children": [
+										{
+											"ID": "20210305100338-m0c0od2",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305100338-m0c0od2",
+												"updated": "20210305100338"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "渚碧岛"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305100247-wygxzoq",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305100247-wygxzoq",
+				"updated": "20210305100247"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "人工岛的建设用途（功能）"
+				}
+			]
+		},
+		{
+			"ID": "20210305100351-t0w6yd1",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210305100351-t0w6yd1"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "单用途人工岛"
+				}
+			]
+		},
+		{
+			"ID": "20210305100540-115sb42",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305100540-115sb42",
+				"updated": "20210305100853"
+			},
+			"Children": [
+				{
+					"ID": "20210305100853-dbg2spt",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100853-dbg2spt"
+					},
+					"Children": [
+						{
+							"ID": "20210305100853-4r40pbz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100853-4r40pbz",
+								"updated": "20210305100855"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "一般面积较小"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100855-eurs2cv",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100855-eurs2cv"
+					},
+					"Children": [
+						{
+							"ID": "20210305100855-3gcv99m",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100855-3gcv99m",
+								"updated": "20210305100855"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海洋采矿、娱乐、垃圾处理、海水养殖、临时或辅助结构、能源岛、港口、机场"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305100840-haqz3wc",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210305100840-haqz3wc",
+				"updated": "20210305100851"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "多用途人工岛"
+				}
+			]
+		},
+		{
+			"ID": "20210305100829-4awk4yf",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305100829-4awk4yf"
+			},
+			"Children": [
+				{
+					"ID": "20210305100829-j7z72oy",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100829-j7z72oy"
+					},
+					"Children": [
+						{
+							"ID": "20210305100829-gq3d05j",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100829-gq3d05j",
+								"updated": "20210305100829"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "一般面积较大"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100831-wc43hfe",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100831-wc43hfe"
+					},
+					"Children": [
+						{
+							"ID": "20210305100831-lnv3az0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100831-lnv3az0",
+								"updated": "20210305100831"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "工业岛、城市体"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305100540-n5nzlj7",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305100540-n5nzlj7"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "人工岛的类型"
+				}
+			]
+		},
+		{
+			"ID": "20210305100618-76mvg3k",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305100618-76mvg3k",
+				"updated": "20210305100908"
+			},
+			"Children": [
+				{
+					"ID": "20210305100908-fxiu6e0",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100908-fxiu6e0"
+					},
+					"Children": [
+						{
+							"ID": "20210305100908-qt4dp2i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100908-qt4dp2i",
+								"updated": "20210305100910"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "围垦式"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100911-fvytkzx",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100911-fvytkzx"
+					},
+					"Children": [
+						{
+							"ID": "20210305100911-yqsgnu2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100911-yqsgnu2",
+								"updated": "20210305100915"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "圩区式"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100915-npaizrx",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100915-npaizrx"
+					},
+					"Children": [
+						{
+							"ID": "20210305100915-mpdejjj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100915-mpdejjj",
+								"updated": "20210305100920"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "重力式"
+								}
+							]
+						},
+						{
+							"ID": "20210305100932-0hyz83x",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305100932-0hyz83x"
+							},
+							"Children": [
+								{
+									"ID": "20210305100921-s880mwv",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305100921-s880mwv"
+									},
+									"Children": [
+										{
+											"ID": "20210305100921-etyz8su",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305100921-etyz8su",
+												"updated": "20210305100924"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "不受建设面积限制"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305100924-55uvb16",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305100924-55uvb16"
+									},
+									"Children": [
+										{
+											"ID": "20210305100924-ds6fl06",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305100924-ds6fl06",
+												"updated": "20210305100931"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "需进行海床平整"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100931-fqy0ww9",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100931-fqy0ww9"
+					},
+					"Children": [
+						{
+							"ID": "20210305100931-p712oph",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100931-p712oph",
+								"updated": "20210305100935"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "自升式"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100935-mzwotpl",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100935-mzwotpl"
+					},
+					"Children": [
+						{
+							"ID": "20210305100944-5b3o132",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100944-5b3o132"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "漂浮式"
+								}
+							]
+						},
+						{
+							"ID": "20210305100954-gbkckpa",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305100954-gbkckpa"
+							},
+							"Children": [
+								{
+									"ID": "20210305100944-ub02shw",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305100944-ub02shw"
+									},
+									"Children": [
+										{
+											"ID": "20210305100944-597rtzw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305100944-597rtzw",
+												"updated": "20210305100947"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "面积不受限制"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305100947-83ob30m",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305100947-83ob30m"
+									},
+									"Children": [
+										{
+											"ID": "20210305100947-6xyxkkz",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305100947-6xyxkkz",
+												"updated": "20210305100950"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "重心高，倾仰"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305100950-2ngn3ug",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305100950-2ngn3ug"
+									},
+									"Children": [
+										{
+											"ID": "20210305100950-exvk5fl",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305100950-exvk5fl",
+												"updated": "20210305100953"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "阻尼减小摆动幅度，采取工程措施减少相应问"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100954-thdkt63",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100954-thdkt63"
+					},
+					"Children": [
+						{
+							"ID": "20210305100954-7dgnxao",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100954-7dgnxao",
+								"updated": "20210305100957"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "桩基式"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100957-e08iuu3",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100957-e08iuu3"
+					},
+					"Children": [
+						{
+							"ID": "20210305100957-fexit8i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100957-fexit8i",
+								"updated": "20210305100959"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "顶起式"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305100618-nbiz13p",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305100618-nbiz13p",
+				"updated": "20210305100635"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "人工岛的用途"
+				}
+			]
+		},
+		{
+			"ID": "20210305100647-euzwrnk",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305100647-euzwrnk",
+				"updated": "20210305101016"
+			},
+			"Children": [
+				{
+					"ID": "20210305101016-owej9aj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101016-owej9aj"
+					},
+					"Children": [
+						{
+							"ID": "20210305101016-1v90q8r",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101016-1v90q8r",
+								"updated": "20210305101021"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海洋资源的开发"
+								}
+							]
+						},
+						{
+							"ID": "20210305101135-anupsrr",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305101135-anupsrr"
+							},
+							"Children": [
+								{
+									"ID": "20210305101021-5ff3xpv",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305101021-5ff3xpv"
+									},
+									"Children": [
+										{
+											"ID": "20210305101021-rl8xthg",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305101021-rl8xthg",
+												"updated": "20210305101437"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "平台面积小"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305101025-spehr8k",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305101025-spehr8k"
+									},
+									"Children": [
+										{
+											"ID": "20210305101025-k09rr2j",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305101025-k09rr2j",
+												"updated": "20210305101117"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "有限水深，使用"
+												},
+												{
+													"Type": "NodeBlockRef",
+													"Children": [
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeBlockRefID",
+															"Data": "20210305100908-fxiu6e0"
+														},
+														{
+															"Type": "NodeCloseParen"
+														},
+														{
+															"Type": "NodeCloseParen"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " 和 "
+												},
+												{
+													"Type": "NodeBlockRef",
+													"Children": [
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeBlockRefID",
+															"Data": "20210305100911-fvytkzx"
+														},
+														{
+															"Type": "NodeCloseParen"
+														},
+														{
+															"Type": "NodeCloseParen"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305101118-tyzfckf",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305101118-tyzfckf"
+									},
+									"Children": [
+										{
+											"ID": "20210305101118-msh0h6h",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305101118-msh0h6h",
+												"updated": "20210305101427"
+											},
+											"Children": [
+												{
+													"Type": "NodeBlockRef",
+													"Children": [
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeBlockRefID",
+															"Data": "20210305100915-npaizrx"
+														},
+														{
+															"Type": "NodeBlockRefSpace"
+														},
+														{
+															"Type": "NodeBlockRefText",
+															"Data": "重力式"
+														},
+														{
+															"Type": "NodeCloseParen"
+														},
+														{
+															"Type": "NodeCloseParen"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "  很适合，沉箱很适合油气存储库"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305101125-lxgle92",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305101125-lxgle92"
+									},
+									"Children": [
+										{
+											"ID": "20210305101125-nxe64cz",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305101125-nxe64cz",
+												"updated": "20210305101315"
+											},
+											"Children": [
+												{
+													"Type": "NodeBlockRef",
+													"Children": [
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeBlockRefID",
+															"Data": "20210305100957-e08iuu3"
+														},
+														{
+															"Type": "NodeCloseParen"
+														},
+														{
+															"Type": "NodeCloseParen"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " 可临时使用"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305101132-dpa4ru2",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305101132-dpa4ru2"
+									},
+									"Children": [
+										{
+											"ID": "20210305101132-hcp9ox5",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305101132-hcp9ox5",
+												"updated": "20210305101404"
+											},
+											"Children": [
+												{
+													"Type": "NodeBlockRef",
+													"Children": [
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeBlockRefID",
+															"Data": "20210305100935-mzwotpl"
+														},
+														{
+															"Type": "NodeBlockRefSpace"
+														},
+														{
+															"Type": "NodeBlockRefText",
+															"Data": "漂浮式"
+														},
+														{
+															"Type": "NodeCloseParen"
+														},
+														{
+															"Type": "NodeCloseParen"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " +自动控制"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305101134-1bbdpzq",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101134-1bbdpzq"
+					},
+					"Children": [
+						{
+							"ID": "20210305101134-7zw925j",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101134-7zw925j",
+								"updated": "20210305101137"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海水养殖"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305101138-xzfaqmr",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101138-xzfaqmr"
+					},
+					"Children": [
+						{
+							"ID": "20210305101138-dw6n6dp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101138-dw6n6dp",
+								"updated": "20210305101139"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "娱乐岛"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305101139-46z3fqy",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101139-46z3fqy"
+					},
+					"Children": [
+						{
+							"ID": "20210305101139-2qy23fv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101139-2qy23fv",
+								"updated": "20210305101142"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "港口"
+								}
+							]
+						},
+						{
+							"ID": "20210305101150-qdmay1n",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305101150-qdmay1n"
+							},
+							"Children": [
+								{
+									"ID": "20210305101142-7elfrcz",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305101142-7elfrcz"
+									},
+									"Children": [
+										{
+											"ID": "20210305101142-j5j2nfs",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305101142-j5j2nfs",
+												"updated": "20210305101145"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "航道、深水"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305101145-fo5b8pt",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305101145-fo5b8pt"
+									},
+									"Children": [
+										{
+											"ID": "20210305101145-abv6hgp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305101145-abv6hgp",
+												"updated": "20210305101606"
+											},
+											"Children": [
+												{
+													"Type": "NodeBlockRef",
+													"Children": [
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeBlockRefID",
+															"Data": "20210305100908-fxiu6e0"
+														},
+														{
+															"Type": "NodeCloseParen"
+														},
+														{
+															"Type": "NodeCloseParen"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305101149-zzfwq0z",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101149-zzfwq0z"
+					},
+					"Children": [
+						{
+							"ID": "20210305101149-pq2grzb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101149-pq2grzb",
+								"updated": "20210305101154"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "机场"
+								}
+							]
+						},
+						{
+							"ID": "20210305101200-4qt9ym6",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305101200-4qt9ym6"
+							},
+							"Children": [
+								{
+									"ID": "20210305101154-wxb4ekb",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305101154-wxb4ekb"
+									},
+									"Children": [
+										{
+											"ID": "20210305101154-hnxhwq6",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305101154-hnxhwq6",
+												"updated": "20210305101203"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "有足够空间，距离岸线有一定要求（噪声、交通）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305101604-9bgqj9v",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305101604-9bgqj9v"
+									},
+									"Children": [
+										{
+											"ID": "20210305101606-4ojn5ti",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305101606-4ojn5ti",
+												"updated": "20210305101615"
+											},
+											"Children": [
+												{
+													"Type": "NodeBlockRef",
+													"Children": [
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeBlockRefID",
+															"Data": "20210305100908-fxiu6e0"
+														},
+														{
+															"Type": "NodeCloseParen"
+														},
+														{
+															"Type": "NodeCloseParen"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305100647-8afyt3r",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305100647-8afyt3r",
+				"updated": "20210305100647"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "人工岛建设的核心问题（"
+				},
+				{
+					"Type": "NodeInlineMath",
+					"Children": [
+						{
+							"Type": "NodeInlineMathOpenMarker"
+						},
+						{
+							"Type": "NodeInlineMathContent",
+							"Data": "E^3S"
+						},
+						{
+							"Type": "NodeInlineMathCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "）"
+				}
+			]
+		},
+		{
+			"ID": "20210305100645-nbinz6y",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305100645-nbinz6y",
+				"updated": "20210305101655"
+			},
+			"Children": [
+				{
+					"ID": "20210305101655-5idw0t5",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101655-5idw0t5"
+					},
+					"Children": [
+						{
+							"ID": "20210305101655-ireh19q",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101655-ireh19q",
+								"updated": "20210305101658"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "经济运营情况"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305101658-xx36p65",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101658-xx36p65"
+					},
+					"Children": [
+						{
+							"ID": "20210305101658-w3myouv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101658-w3myouv",
+								"updated": "20210305101701"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "工程计算问题"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305101701-b5kpk57",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101701-b5kpk57"
+					},
+					"Children": [
+						{
+							"ID": "20210305101701-43cmlvo",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101701-43cmlvo",
+								"updated": "20210305101703"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "环境影响"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305101704-j51bb6j",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101704-j51bb6j"
+					},
+					"Children": [
+						{
+							"ID": "20210305101704-lg5gf6n",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101704-lg5gf6n",
+								"updated": "20210305101706"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "安全"
+								}
+							]
+						},
+						{
+							"ID": "20210305101707-koryjs2",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305101707-koryjs2"
+							},
+							"Children": [
+								{
+									"ID": "20210305101706-bcwwwjz",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305101706-bcwwwjz"
+									},
+									"Children": [
+										{
+											"ID": "20210305101706-vff4bjz",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305101706-vff4bjz",
+												"updated": "20210305101706"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "海岛的脆弱性"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305100645-79jmfrj",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305100645-79jmfrj",
+				"updated": "20210305100645"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "人工岛建设的关键技术"
+				}
+			]
+		},
+		{
+			"ID": "20210305100540-b5vwfk4",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305100540-b5vwfk4",
+				"updated": "20210305101711"
+			},
+			"Children": [
+				{
+					"ID": "20210305101711-nt2vxlw",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101711-nt2vxlw"
+					},
+					"Children": [
+						{
+							"ID": "20210305101711-bknjnlw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101711-bknjnlw",
+								"updated": "20210305101714"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "选址与布局"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305101714-rznmb0x",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101714-rznmb0x"
+					},
+					"Children": [
+						{
+							"ID": "20210305101714-wr9y8kh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101714-wr9y8kh",
+								"updated": "20210305101717"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "形状设计"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305101717-dg7h0ck",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101717-dg7h0ck"
+					},
+					"Children": [
+						{
+							"ID": "20210305101717-ynn4du5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101717-ynn4du5",
+								"updated": "20210305101719"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "护岸防护结构"
+								}
+							]
+						},
+						{
+							"ID": "20210305101724-6wd078o",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305101724-6wd078o"
+							},
+							"Children": [
+								{
+									"ID": "20210305101720-fb4pno1",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305101720-fb4pno1"
+									},
+									"Children": [
+										{
+											"ID": "20210305101720-up5c9gv",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305101720-up5c9gv",
+												"updated": "20210305101723"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "海堤"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305101723-lxbzkhq",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101723-lxbzkhq"
+					},
+					"Children": [
+						{
+							"ID": "20210305101723-kmkxu1u",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101723-kmkxu1u",
+								"updated": "20210305101727"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "岛域城镇方案"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305101728-z4bakau",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305101728-z4bakau"
+					},
+					"Children": [
+						{
+							"ID": "20210305101728-6arxaog",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305101728-6arxaog",
+								"updated": "20210305101803"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210305100908-fxiu6e0"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 人工岛的工程问题"
+								}
+							]
+						},
+						{
+							"ID": "20210305101804-09ta4s9",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305101804-09ta4s9"
+							},
+							"Children": [
+								{
+									"ID": "20210305101803-avvm36w",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305101803-avvm36w"
+									},
+									"Children": [
+										{
+											"ID": "20210305101803-6cboeme",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305101803-6cboeme",
+												"updated": "20210305101806"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "护岸结构（海堤）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305101806-d8htuuj",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305101806-d8htuuj"
+									},
+									"Children": [
+										{
+											"ID": "20210305101806-qnyykcj",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305101806-qnyykcj",
+												"updated": "20210305101809"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "成陆工程"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305100139-zbhbgz5",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305100139-zbhbgz5"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "绿色建造、碳中和"
+				}
+			]
+		},
+		{
+			"ID": "20210305100134-qeql47k",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305100134-qeql47k",
+				"updated": "20210305100144"
+			},
+			"Children": [
+				{
+					"ID": "20210305100144-vfwsr96",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100144-vfwsr96"
+					},
+					"Children": [
+						{
+							"ID": "20210305100144-ov55w1x",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100144-ov55w1x",
+								"updated": "20210305100147"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "减少化石能源的利用，减排"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100147-52x3lig",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100147-52x3lig"
+					},
+					"Children": [
+						{
+							"ID": "20210305100147-ozxsfwg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100147-ozxsfwg",
+								"updated": "20210305100150"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "碳汇（种植树木）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100150-jadqc6s",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100150-jadqc6s"
+					},
+					"Children": [
+						{
+							"ID": "20210305100150-aiw7j81",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100150-aiw7j81",
+								"updated": "20210305100153"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "太阳能和海上发电"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305100153-ors0mkv",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305100153-ors0mkv"
+					},
+					"Children": [
+						{
+							"ID": "20210305100153-qwpjhtl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305100153-qwpjhtl",
+								"updated": "20210305100158"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "碳排放权交易"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

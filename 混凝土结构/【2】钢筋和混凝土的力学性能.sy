@@ -1,0 +1,6931 @@
+{
+	"ID": "20210305102150-vcbvjba",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210305102150-vcbvjba",
+		"title": "【2】钢筋和混凝土的力学性能",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210305102150-92g9kmi",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210305102150-92g9kmi",
+				"updated": "20210318105549"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "钢筋和混凝土的力学性能"
+				}
+			]
+		},
+		{
+			"ID": "20210721101606-hbc53co",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721101606-hbc53co"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "[toc]"
+				}
+			]
+		},
+		{
+			"ID": "20210305102252-9f8zf4v",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305102252-9f8zf4v"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "钢筋"
+				}
+			]
+		},
+		{
+			"ID": "20210305102257-l97m6e0",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210305102257-l97m6e0",
+				"updated": "20210318112124"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "钢筋的工程表达"
+				}
+			]
+		},
+		{
+			"ID": "20210305102305-d9v5uip",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305102305-d9v5uip",
+				"updated": "20210305102914"
+			},
+			"Children": [
+				{
+					"ID": "20210305102914-1lovvkn",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305102914-1lovvkn"
+					},
+					"Children": [
+						{
+							"ID": "20210305102914-42o6c6h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305102914-42o6c6h",
+								"updated": "20210305102917"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "钢筋的外形"
+								}
+							]
+						},
+						{
+							"ID": "20210305102948-zvncdzi",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305102948-zvncdzi"
+							},
+							"Children": [
+								{
+									"ID": "20210305102917-qe3goln",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305102917-qe3goln"
+									},
+									"Children": [
+										{
+											"ID": "20210305102917-3wybwvt",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305102917-3wybwvt",
+												"updated": "20210305102919"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "光圆钢筋"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305102919-kcsuw4a",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305102919-kcsuw4a"
+									},
+									"Children": [
+										{
+											"ID": "20210305102919-jweae8i",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305102919-jweae8i",
+												"updated": "20210305102922"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "带肋钢筋"
+												}
+											]
+										},
+										{
+											"ID": "20210305102940-4j5v7jg",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210305102940-4j5v7jg"
+											},
+											"Children": [
+												{
+													"ID": "20210305102922-jf1r4yl",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210305102922-jf1r4yl"
+													},
+													"Children": [
+														{
+															"ID": "20210305102922-mjjr5d3",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210305102922-mjjr5d3",
+																"updated": "20210305102925"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "月牙肋"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210305102925-yf3pe6o",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210305102925-yf3pe6o"
+													},
+													"Children": [
+														{
+															"ID": "20210305102925-bl1rl0l",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210305102925-bl1rl0l",
+																"updated": "20210305102928"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "等高肋"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210305102929-qkl5irw",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210305102929-qkl5irw"
+													},
+													"Children": [
+														{
+															"ID": "20210305102929-xplfvdb",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210305102929-xplfvdb",
+																"updated": "20210305102932"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "可能会影响握裹力"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210305102932-x8u4qc8",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210305102932-x8u4qc8"
+													},
+													"Children": [
+														{
+															"ID": "20210305102932-rjwd0gd",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210305102932-rjwd0gd",
+																"updated": "20210305102938"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "应力集中"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305102938-lcmduqd",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305102938-lcmduqd"
+					},
+					"Children": [
+						{
+							"ID": "20210305102938-hd2ixgw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305102938-hd2ixgw",
+								"updated": "20210305102950"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "出厂形式"
+								}
+							]
+						},
+						{
+							"ID": "20210305103114-gthn8qg",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305103114-gthn8qg"
+							},
+							"Children": [
+								{
+									"ID": "20210305102950-ngd2ywi",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305102950-ngd2ywi"
+									},
+									"Children": [
+										{
+											"ID": "20210305102950-spoy9cw",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305102950-spoy9cw",
+												"updated": "20210305102953"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "直条"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305102953-fzej2j2",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305102953-fzej2j2"
+									},
+									"Children": [
+										{
+											"ID": "20210305102953-ler4wc5",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305102953-ler4wc5",
+												"updated": "20210305103112"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "盘条"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305103113-tam8llk",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305103113-tam8llk"
+					},
+					"Children": [
+						{
+							"ID": "20210305103113-6zjjcft",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305103113-6zjjcft",
+								"updated": "20210305103120"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "钢筋的直径"
+								}
+							]
+						},
+						{
+							"ID": "20210305103131-8f3vj6j",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305103131-8f3vj6j"
+							},
+							"Children": [
+								{
+									"ID": "20210305103122-8wxedl9",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103122-8wxedl9"
+									},
+									"Children": [
+										{
+											"ID": "20210305103122-72v43f8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103122-72v43f8",
+												"updated": "20210305103139"
+											},
+											"Children": [
+												{
+													"Type": "NodeInlineMath",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "d=6, 8, 10, 12, 14, 16, 18, 20, 22, 25, 28, 32, 36, 40"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305103140-uf63eu4",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103140-uf63eu4"
+									},
+									"Children": [
+										{
+											"ID": "20210305103140-mvpy0no",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103140-mvpy0no",
+												"updated": "20210305103146"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "直径按重量计算"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305102305-4g8q44z",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210305102305-4g8q44z"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "钢筋的应用"
+				}
+			]
+		},
+		{
+			"ID": "20210305102312-oby9i3d",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305102312-oby9i3d",
+				"updated": "20210305103153"
+			},
+			"Children": [
+				{
+					"ID": "20210305103153-d7xwl0z",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305103153-d7xwl0z"
+					},
+					"Children": [
+						{
+							"ID": "20210305103153-icc4ozh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305103153-icc4ozh",
+								"updated": "20210305103156"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "CRB600H"
+								}
+							]
+						},
+						{
+							"ID": "20210305103208-jj622hf",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305103208-jj622hf"
+							},
+							"Children": [
+								{
+									"ID": "20210305103156-24ca8kv",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103156-24ca8kv"
+									},
+									"Children": [
+										{
+											"ID": "20210305103156-mnbdloo",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103156-mnbdloo",
+												"updated": "20210305103158"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "用于高铁轨道板"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305103158-w44y1l0",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103158-w44y1l0"
+									},
+									"Children": [
+										{
+											"ID": "20210305103158-2a7vrdv",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103158-2a7vrdv",
+												"updated": "20210305103200"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "冷加工"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305103200-5oe6qib",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305103200-5oe6qib"
+					},
+					"Children": [
+						{
+							"ID": "20210305103200-njklyxc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305103200-njklyxc",
+								"updated": "20210305103201"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "国产2000MPa高强钢丝"
+								}
+							]
+						},
+						{
+							"ID": "20210305103210-8csvk1x",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305103210-8csvk1x"
+							},
+							"Children": [
+								{
+									"ID": "20210305103202-aucq8p8",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103202-aucq8p8"
+									},
+									"Children": [
+										{
+											"ID": "20210305103202-w4i5rfh",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103202-w4i5rfh",
+												"updated": "20210305103203"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "武汉的杨泗港桥"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305103203-y7rqasd",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305103203-y7rqasd"
+					},
+					"Children": [
+						{
+							"ID": "20210305103203-0shgo8p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305103203-0shgo8p",
+								"updated": "20210305103205"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "含矾高强抗震500MPa钢筋"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305103205-x6hdcd4",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305103205-x6hdcd4"
+					},
+					"Children": [
+						{
+							"ID": "20210305103205-cq4005p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305103205-cq4005p",
+								"updated": "20210305103206"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "高矾封闭索"
+								}
+							]
+						},
+						{
+							"ID": "20210305103213-z2ozk6x",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305103213-z2ozk6x"
+							},
+							"Children": [
+								{
+									"ID": "20210305103206-5ws6alc",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103206-5ws6alc"
+									},
+									"Children": [
+										{
+											"ID": "20210305103206-rlje6eb",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103206-rlje6eb",
+												"updated": "20210305103206"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "北京冬奥会速滑馆"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305102312-1gacp2w",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210305102312-1gacp2w"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "钢筋的应力-应变关系与受力性能"
+				}
+			]
+		},
+		{
+			"ID": "20210305102241-jhx7teq",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305102241-jhx7teq",
+				"updated": "20210305103312"
+			},
+			"Children": [
+				{
+					"ID": "20210305103312-9tlrlz1",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305103312-9tlrlz1"
+					},
+					"Children": [
+						{
+							"ID": "20210305103315-1suybgs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305103315-1suybgs",
+								"updated": "20210305103319"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "有明显屈服点的钢筋"
+								}
+							]
+						},
+						{
+							"ID": "20210305103322-082bcu7",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305103322-082bcu7"
+							},
+							"Children": [
+								{
+									"ID": "20210305103320-5n95k3o",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103320-5n95k3o"
+									},
+									"Children": [
+										{
+											"ID": "20210305103320-wlyijum",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103320-wlyijum",
+												"updated": "20210305103324"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "强度"
+												}
+											]
+										},
+										{
+											"ID": "20210305103334-eko9pw8",
+											"Type": "NodeList",
+											"ListData": {
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210305103334-eko9pw8"
+											},
+											"Children": [
+												{
+													"ID": "20210305103324-4aid97u",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210305103324-4aid97u"
+													},
+													"Children": [
+														{
+															"ID": "20210305103324-76wftel",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210305103324-76wftel",
+																"updated": "20210305103338"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "屈服强度"
+																},
+																{
+																	"Type": "NodeInlineMath",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "f_y"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"ID": "20210305103349-omwfhe6",
+															"Type": "NodeList",
+															"ListData": {
+																"Tight": true,
+																"BulletChar": 45,
+																"Padding": 2,
+																"Marker": "LQ==",
+																"Num": -1
+															},
+															"Properties": {
+																"id": "20210305103349-omwfhe6"
+															},
+															"Children": [
+																{
+																	"ID": "20210305103339-d52ii97",
+																	"Type": "NodeListItem",
+																	"Data": "-",
+																	"ListData": {
+																		"Tight": true,
+																		"BulletChar": 45,
+																		"Padding": 2,
+																		"Marker": "LQ==",
+																		"Num": -1
+																	},
+																	"Properties": {
+																		"id": "20210305103339-d52ii97"
+																	},
+																	"Children": [
+																		{
+																			"ID": "20210305103339-g57woy8",
+																			"Type": "NodeParagraph",
+																			"Properties": {
+																				"id": "20210305103339-g57woy8",
+																				"updated": "20210305103348"
+																			},
+																			"Children": [
+																				{
+																					"Type": "NodeText",
+																					"Data": "是钢筋强度的设计依据，因为钢筋屈服后将产生很大的塑性变形，卸载后塑性变形 "
+																				},
+																				{
+																					"Type": "NodeEmphasis",
+																					"Children": [
+																						{
+																							"Type": "NodeEmA6kOpenMarker",
+																							"Data": "*"
+																						},
+																						{
+																							"Type": "NodeText",
+																							"Data": "不可恢复"
+																						},
+																						{
+																							"Type": "NodeEmA6kCloseMarker",
+																							"Data": "*"
+																						}
+																					]
+																				},
+																				{
+																					"Type": "NodeText",
+																					"Data": " ，这会使得钢筋混凝土构件产生很大的残余变形和不可闭合的裂缝。"
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210305103349-82qnxhi",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210305103349-82qnxhi"
+													},
+													"Children": [
+														{
+															"ID": "20210305103349-70nz1dg",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210305103349-70nz1dg",
+																"updated": "20210305103352"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "极限强度"
+																},
+																{
+																	"Type": "NodeInlineMath",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "f_u"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"ID": "20210305103409-89c4wcu",
+															"Type": "NodeList",
+															"ListData": {
+																"Tight": true,
+																"BulletChar": 45,
+																"Padding": 2,
+																"Marker": "LQ==",
+																"Num": -1
+															},
+															"Properties": {
+																"id": "20210305103409-89c4wcu"
+															},
+															"Children": [
+																{
+																	"ID": "20210305103353-dreyort",
+																	"Type": "NodeListItem",
+																	"Data": "-",
+																	"ListData": {
+																		"Tight": true,
+																		"BulletChar": 45,
+																		"Padding": 2,
+																		"Marker": "LQ==",
+																		"Num": -1
+																	},
+																	"Properties": {
+																		"id": "20210305103353-dreyort"
+																	},
+																	"Children": [
+																		{
+																			"ID": "20210305103353-cgvnobe",
+																			"Type": "NodeParagraph",
+																			"Properties": {
+																				"id": "20210305103353-cgvnobe",
+																				"updated": "20210305103356"
+																			},
+																			"Children": [
+																				{
+																					"Type": "NodeText",
+																					"Data": "一般只在拆除或是倒塌计算时使用"
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210305103356-3egzx7z",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210305103356-3egzx7z"
+													},
+													"Children": [
+														{
+															"ID": "20210305103356-sden0wi",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210305103356-sden0wi",
+																"updated": "20210305103356"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "一般可采用双线性的理想弹塑性关系"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305102241-dfvfr0w",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210305102241-dfvfr0w",
+				"updated": "20210305102831"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\sigma = E_s\\epsilon \\qquad  \\epsilon \\leq \\epsilon_y"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210305102320-7m9gfb0",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210305102320-7m9gfb0",
+				"updated": "20210305102858"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\sigma = f_y \\qquad  \\epsilon \u003e \\epsilon_y"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210305102850-vnlij7z",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305102850-vnlij7z",
+				"updated": "20210305103417"
+			},
+			"Children": [
+				{
+					"ID": "20210305103417-tw6jir7",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305103417-tw6jir7"
+					},
+					"Children": [
+						{
+							"ID": "20210305103417-r65ltf4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305103417-r65ltf4",
+								"updated": "20210305103441"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "延性"
+								}
+							]
+						},
+						{
+							"ID": "20210305103441-2m2y0ye",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305103441-2m2y0ye"
+							},
+							"Children": [
+								{
+									"ID": "20210305103441-r98f9gg",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103441-r98f9gg"
+									},
+									"Children": [
+										{
+											"ID": "20210305103441-esj4bwx",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103441-esj4bwx",
+												"updated": "20210305103445"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "均匀延伸率（elongation strain）"
+												}
+											]
+										},
+										{
+											"ID": "20210305103512-89skdjy",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210305103512-89skdjy"
+											},
+											"Children": [
+												{
+													"ID": "20210305103446-55363pa",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210305103446-55363pa"
+													},
+													"Children": [
+														{
+															"ID": "20210305103446-8kvivcf",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210305103446-8kvivcf",
+																"updated": "20210305103503"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "最大力下总伸长率"
+																},
+																{
+																	"Type": "NodeInlineMath",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "\\delta_{gt}"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210305103503-u655m5t",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210305103503-u655m5t"
+													},
+													"Children": [
+														{
+															"ID": "20210305103503-jnaaz3x",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210305103503-jnaaz3x",
+																"updated": "20210305103503"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "若采用断后延伸率，断面产生^^颈缩^^，局部变形对其有影响"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210305103508-c4o3sd3",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210305103508-c4o3sd3"
+													},
+													"Children": [
+														{
+															"ID": "20210305103508-uaslbme",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210305103508-uaslbme",
+																"updated": "20210305103510"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "限值：HPB300不小于10%，HRB400等不小于7.5%，较高抗震性能要求的不小于9%"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305103511-yie4pli",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103511-yie4pli"
+									},
+									"Children": [
+										{
+											"ID": "20210305103511-syj1abb",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103511-syj1abb",
+												"updated": "20210305103511"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "粘接锚固性能"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305102320-ff78wti",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210305102320-ff78wti"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "钢筋的受力性能指标及取值"
+				}
+			]
+		},
+		{
+			"ID": "20210305102329-8y0hug3",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305102329-8y0hug3",
+				"updated": "20210305103226"
+			},
+			"Children": [
+				{
+					"ID": "20210305103226-eaw1iyp",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305103226-eaw1iyp"
+					},
+					"Children": [
+						{
+							"ID": "20210305103226-jsm8op8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305103226-jsm8op8"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "钢筋强度的标准值是"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "f_{y,m}-2\\sigma"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305102329-54j1utp",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210305102329-54j1utp"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "钢筋加工对性能的影响"
+				}
+			]
+		},
+		{
+			"ID": "20210305102325-vbtbz2g",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305102325-vbtbz2g",
+				"updated": "20210305103229"
+			},
+			"Children": [
+				{
+					"ID": "20210305103229-jk7pxla",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305103229-jk7pxla"
+					},
+					"Children": [
+						{
+							"ID": "20210305103229-omrqaom",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305103229-omrqaom",
+								"updated": "20210305103232"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "“瘦身”钢筋"
+								}
+							]
+						},
+						{
+							"ID": "20210305103250-kad4evg",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305103250-kad4evg"
+							},
+							"Children": [
+								{
+									"ID": "20210305103232-wgvfuje",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103232-wgvfuje"
+									},
+									"Children": [
+										{
+											"ID": "20210305103232-nosnp65",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103232-nosnp65",
+												"updated": "20210305103238"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "冷拉钢筋、冷拔钢筋、冷扭钢筋"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305103238-wxqjks9",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103238-wxqjks9"
+									},
+									"Children": [
+										{
+											"ID": "20210305103238-8rlm5id",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103238-8rlm5id",
+												"updated": "20210305103245"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "冷拉钢筋：冷拉时效"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305103245-dc8wxrt",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103245-dc8wxrt"
+									},
+									"Children": [
+										{
+											"ID": "20210305103245-rvz787y",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103245-rvz787y",
+												"updated": "20210305103249"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "预应力刻痕钢丝，预应力螺旋双绞线"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305103249-j9cxx3d",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305103249-j9cxx3d"
+					},
+					"Children": [
+						{
+							"ID": "20210305103249-i9vd8y6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305103249-i9vd8y6",
+								"updated": "20210305103252"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "钢筋的焊接"
+								}
+							]
+						},
+						{
+							"ID": "20210305103304-dk4406r",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305103304-dk4406r"
+							},
+							"Children": [
+								{
+									"ID": "20210305103253-g1x7fqh",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103253-g1x7fqh"
+									},
+									"Children": [
+										{
+											"ID": "20210305103253-2zfx618",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103253-2zfx618",
+												"updated": "20210305103255"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "高温使得局部材质发生变化"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305103255-3l3qhxp",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103255-3l3qhxp"
+									},
+									"Children": [
+										{
+											"ID": "20210305103258-2kg6ptx",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103258-2kg6ptx"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "热影响区"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305103258-2bltktc",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305103258-2bltktc"
+					},
+					"Children": [
+						{
+							"ID": "20210305103258-1vsa5ky",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305103258-1vsa5ky",
+								"updated": "20210305103301"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "起波钢筋"
+								}
+							]
+						},
+						{
+							"ID": "20210305103302-8a7wuj9",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305103302-8a7wuj9"
+							},
+							"Children": [
+								{
+									"ID": "20210305103302-knzmkql",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305103302-knzmkql"
+									},
+									"Children": [
+										{
+											"ID": "20210305103302-jy7ro1z",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305103302-jy7ro1z",
+												"updated": "20210305103302"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "变形为原先10倍"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305102325-b0cpyou",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305102325-b0cpyou"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "混凝土"
+				}
+			]
+		},
+		{
+			"ID": "20210305102336-06xvh0h",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210305102336-06xvh0h"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "混凝土的强度等级及指标"
+				}
+			]
+		},
+		{
+			"ID": "20210305102241-rd4r76v",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305102241-rd4r76v",
+				"updated": "20210305102359"
+			},
+			"Children": [
+				{
+					"ID": "20210305102359-hcmkrnu",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305102359-hcmkrnu"
+					},
+					"Children": [
+						{
+							"ID": "20210305102359-bu8q9eg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305102359-bu8q9eg",
+								"updated": "20210305102402"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "混凝土结构中，主要是利用它的抗压强度，是力学性能的重要指标"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305102403-zywc4nu",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305102403-zywc4nu"
+					},
+					"Children": [
+						{
+							"ID": "20210305102403-jtxjhvm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305102403-jtxjhvm",
+								"updated": "20210305102403"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "边长"
+								},
+								{
+									"Type": "NodeMark",
+									"Children": [
+										{
+											"Type": "NodeMark2OpenMarker",
+											"Data": "=="
+										},
+										{
+											"Type": "NodeText",
+											"Data": "150mm"
+										},
+										{
+											"Type": "NodeMark2CloseMarker",
+											"Data": "=="
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "立方体标准试件，标准条件下养护28天，用标准实验方法测得的具有95%保证率的立方体抗压强度，用符号"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "C"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "表示，单位MPa"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305102241-4tl566s",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210305102241-4tl566s"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "f_{cu,k}=f_{cu,m}(1-1.645\\delta)"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210305102241-g4ekviu",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210305102241-g4ekviu"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "C30混凝土："
+				}
+			]
+		},
+		{
+			"ID": "20210305102241-owhyv5s",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210305102241-owhyv5s"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "f_{cu,k}=30MPa"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210305102241-ossgq53",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305102241-ossgq53",
+				"updated": "20210311101340"
+			},
+			"Children": [
+				{
+					"ID": "20210305102419-v00uhdy",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305102419-v00uhdy"
+					},
+					"Children": [
+						{
+							"ID": "20210305102419-91rw19m",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305102419-91rw19m",
+								"updated": "20210305102426"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "轴心抗压强度，符号 "
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "f_c"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						},
+						{
+							"ID": "20210305102643-lixxzt4",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305102643-lixxzt4"
+							},
+							"Children": [
+								{
+									"ID": "20210305102426-lac9bqr",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305102426-lac9bqr"
+									},
+									"Children": [
+										{
+											"ID": "20210305102426-qgonni2",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305102426-qgonni2",
+												"updated": "20210318111206"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "通常取"
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": " 150mm\\times 150mm \\times 300mm"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305102439-8ud7bpt",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305102439-8ud7bpt"
+									},
+									"Children": [
+										{
+											"ID": "20210305102439-tgn69du",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305102439-tgn69du",
+												"updated": "20210305102559"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "《规范》规定：小于C50级的的混凝土 "
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "f_c=k_1 f_{cu}"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305102600-dx2q86d",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305102600-dx2q86d"
+									},
+									"Children": [
+										{
+											"ID": "20210305102600-2r991k1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305102600-2r991k1",
+												"updated": "20210305102604"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "100mm立方体强度与标准立方体强度之间的换算关系"
+												}
+											]
+										},
+										{
+											"ID": "20210305102624-2m82af5",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210305102624-2m82af5"
+											},
+											"Children": [
+												{
+													"ID": "20210305102605-zohctcj",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210305102605-zohctcj"
+													},
+													"Children": [
+														{
+															"ID": "20210305102605-rtthii9",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210305102605-rtthii9",
+																"updated": "20210305102618"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "f_{cu}^{150}=\\mu f_{cu}^{100}"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210311101329-b5clkbo",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210311101329-b5clkbo"
+													},
+													"Children": [
+														{
+															"ID": "20210311101329-wsiq9bf",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210311101329-wsiq9bf",
+																"updated": "20210311101405"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": " \\mu\\times f_{cu, m, 100}=\\ f_{cu,m}"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210305102619-z52a56o",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210305102619-z52a56o"
+													},
+													"Children": [
+														{
+															"ID": "20210305102619-y6v85rm",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210305102619-y6v85rm",
+																"updated": "20210305102622"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "小于C50的混凝土，修正系数 "
+																},
+																{
+																	"Type": "NodeInlineMath",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "\\mu=0.95"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": "，混凝土强度提高 "
+																},
+																{
+																	"Type": "NodeInlineMath",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "\\mu"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": " 会降低"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305102623-8xewr45",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305102623-8xewr45"
+									},
+									"Children": [
+										{
+											"ID": "20210305102623-aq9xln0",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305102623-aq9xln0",
+												"updated": "20210305102628"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "圆柱体与立方体之间强度换算关系"
+												}
+											]
+										},
+										{
+											"ID": "20210305102642-tu4chb8",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210305102642-tu4chb8"
+											},
+											"Children": [
+												{
+													"ID": "20210305102629-uw0ol5e",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210305102629-uw0ol5e"
+													},
+													"Children": [
+														{
+															"ID": "20210305102629-wf7qx58",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210305102629-wf7qx58",
+																"updated": "20210305102716"
+															},
+															"Children": [
+																{
+																	"Type": "NodeInlineMath",
+																	"Children": [
+																		{
+																			"Type": "NodeInlineMathOpenMarker"
+																		},
+																		{
+																			"Type": "NodeInlineMathContent",
+																			"Data": "f_c'=(0.79 \\sim 0.81)f_{cu}"
+																		},
+																		{
+																			"Type": "NodeInlineMathCloseMarker"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311101027-3t5lszm",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210311101027-3t5lszm",
+				"updated": "20210311101036"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "符号辨析"
+				}
+			]
+		},
+		{
+			"ID": "20210311101036-9bilywc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210311101036-9bilywc",
+				"updated": "20210311101224"
+			},
+			"Children": [
+				{
+					"Type": "NodeInlineMath",
+					"Children": [
+						{
+							"Type": "NodeInlineMathOpenMarker"
+						},
+						{
+							"Type": "NodeInlineMathContent",
+							"Data": "f_{cu, m, 100},\\ f_{cu,m},\\ f_{c,m},\\ f_{c,m}'"
+						},
+						{
+							"Type": "NodeInlineMathCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311101235-w9pui4h",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210311101235-w9pui4h",
+				"updated": "20210311101435"
+			},
+			"Children": [
+				{
+					"Type": "NodeInlineMath",
+					"Children": [
+						{
+							"Type": "NodeInlineMathOpenMarker"
+						},
+						{
+							"Type": "NodeInlineMathContent",
+							"Data": "f_{cu,k}"
+						},
+						{
+							"Type": "NodeInlineMathCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "为混凝土强度等级"
+				}
+			]
+		},
+		{
+			"ID": "20210311101450-b7bdi97",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210311101450-b7bdi97",
+				"updated": "20210311101538"
+			},
+			"Children": [
+				{
+					"Type": "NodeInlineMath",
+					"Children": [
+						{
+							"Type": "NodeInlineMathOpenMarker"
+						},
+						{
+							"Type": "NodeInlineMathContent",
+							"Data": "f_{c,k}=0.88f_{cu,k}"
+						},
+						{
+							"Type": "NodeInlineMathCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311101611-rz0432k",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210311101611-rz0432k",
+				"updated": "20210311101611"
+			},
+			"Children": [
+				{
+					"ID": "20210311101611-9m4b0bc",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311101611-9m4b0bc"
+					},
+					"Children": [
+						{
+							"ID": "20210311101611-a3oekkp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311101611-a3oekkp",
+								"updated": "20210311101653"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "0.88为一个经验系数，根据试验和真实事件标定"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311101718-tmn4a5l",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210311101718-tmn4a5l",
+				"updated": "20210311101805"
+			},
+			"Children": [
+				{
+					"Type": "NodeInlineMath",
+					"Children": [
+						{
+							"Type": "NodeInlineMathOpenMarker"
+						},
+						{
+							"Type": "NodeInlineMathContent",
+							"Data": "\\displaystyle \\frac{f_{c,k}}{1.4} = f_c"
+						},
+						{
+							"Type": "NodeInlineMathCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311101807-60u6w37",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210311101807-60u6w37",
+				"updated": "20210311102800"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "抗压指标"
+				}
+			]
+		},
+		{
+			"ID": "20210311102800-mfd7jqp",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210311102800-mfd7jqp",
+				"updated": "20210311102807"
+			},
+			"Children": [
+				{
+					"ID": "20210311102807-xr9g7za",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311102807-xr9g7za"
+					},
+					"Children": [
+						{
+							"ID": "20210311102807-1vc4a8s",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311102807-1vc4a8s",
+								"updated": "20210311102821"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "符号："
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "f_t"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311102822-6ucohh1",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311102822-6ucohh1"
+					},
+					"Children": [
+						{
+							"ID": "20210311102822-rrcgf3q",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311102822-rrcgf3q",
+								"updated": "20210311102857"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "混凝土构件的开裂、裂缝、变形、受剪、受扭、受冲切"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311102910-47j2y7x",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311102910-47j2y7x"
+					},
+					"Children": [
+						{
+							"ID": "20210311102910-hx3b29i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311102910-hx3b29i",
+								"updated": "20210311102917"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "劈拉试验"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311103111-dzryuy4",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210311103111-dzryuy4",
+				"updated": "20210311103131"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "f_{sp}=\\frac{2P}{\\pi a^2}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210305102641-s39e7zj",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210305102641-s39e7zj",
+				"updated": "20210311103154"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "f_{sp}=0.19f_{cu}^{3/4}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210311103158-8le5i2t",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210311103158-8le5i2t",
+				"updated": "20210311103419"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "混凝土的弹性模量"
+				}
+			]
+		},
+		{
+			"ID": "20210311103421-292eol1",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210311103421-292eol1",
+				"updated": "20210311103429"
+			},
+			"Children": [
+				{
+					"ID": "20210311103429-pq5pi3h",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311103429-pq5pi3h"
+					},
+					"Children": [
+						{
+							"ID": "20210311103429-wn0ahlq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311103429-wn0ahlq",
+								"updated": "20210311104811"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "原点切线模量"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "E_c"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311103434-5xtrkm7",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311103434-5xtrkm7"
+					},
+					"Children": [
+						{
+							"ID": "20210311103434-axac9sd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311103434-axac9sd",
+								"updated": "20210311104819"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "割线模量"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "E_c'"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311103436-gbnpld7",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311103436-gbnpld7"
+					},
+					"Children": [
+						{
+							"ID": "20210311103436-yni213r",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311103436-yni213r",
+								"updated": "20210311104825"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "任何一点的切线模量"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "E_c''"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311103458-fb0obtm",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311103458-fb0obtm"
+					},
+					"Children": [
+						{
+							"ID": "20210311103458-mysozrj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311103458-mysozrj",
+								"updated": "20210311104015"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "弹性系数"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\nu"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "随应力增大而减小"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311104131-sn7nif3",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210311104131-sn7nif3",
+				"updated": "20210311104231"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "E_c=\\frac{10^5}{2.2+\\frac{34.74}{f_{cu}}}(N/mm^2)"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210311104209-pq6nd3z",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210311104209-pq6nd3z",
+				"updated": "20210311104855"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "混凝土的破坏机理和应力应变关系"
+				}
+			]
+		},
+		{
+			"ID": "20210311104856-b0n37gd",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210311104856-b0n37gd",
+				"updated": "20210311104859"
+			},
+			"Children": [
+				{
+					"ID": "20210311104859-n94jfwg",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311104859-n94jfwg"
+					},
+					"Children": [
+						{
+							"ID": "20210311104859-fwwrsm9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311104859-fwwrsm9",
+								"updated": "20210311104925"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "f_c\u003cf_{cu}"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "？"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311104924-75z4udt",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311104924-75z4udt"
+					},
+					"Children": [
+						{
+							"ID": "20210311104925-bo7c1jd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311104925-bo7c1jd",
+								"updated": "20210311105119"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "环箍效应，涂润滑剂"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311105119-23n1xcm",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311105119-23n1xcm"
+					},
+					"Children": [
+						{
+							"ID": "20210311105119-xbaen9k",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311105119-xbaen9k",
+								"updated": "20210311105329"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "混凝土强度高（C100等），摩擦力基本不变，环箍效应变弱，因此破坏亦不成"
+								},
+								{
+									"Type": "NodeStrong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "倒四棱锥"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311105302-tmbvo3t",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311105302-tmbvo3t"
+					},
+					"Children": [
+						{
+							"ID": "20210311105302-80fblci",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311105302-80fblci",
+								"updated": "20210311105545"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "过渡区ITZ与微裂纹"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311111015-2c4e5og",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311111015-2c4e5og"
+					},
+					"Children": [
+						{
+							"ID": "20210311111015-jj20kce",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311111015-jj20kce",
+								"updated": "20210311111018"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "应力应变曲线"
+								}
+							]
+						},
+						{
+							"ID": "20210311111021-8l28a6x",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210311111021-8l28a6x"
+							},
+							"Children": [
+								{
+									"ID": "20210311105546-kw78dm5",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210311105546-kw78dm5"
+									},
+									"Children": [
+										{
+											"ID": "20210311105546-sufsmmy",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210311105546-sufsmmy",
+												"updated": "20210311111024"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "在A点之前，微裂纹没有明显发展，混凝土主要发生弹性变形"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210311111024-xzq18r0",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210311111024-xzq18r0"
+									},
+									"Children": [
+										{
+											"ID": "20210311111024-oct79z1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210311111024-oct79z1",
+												"updated": "20210311111027"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "A点之后，压应力增大，裂缝开始发展，产生部分塑性变形"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210311111028-pviak82",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210311111028-pviak82"
+									},
+									"Children": [
+										{
+											"ID": "20210311111028-ato266j",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210311111028-ato266j",
+												"updated": "20210311111032"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "B点，内部一些微裂纹相互连通，裂纹发展已经不稳定"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210311111033-ciyym73",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210311111033-ciyym73"
+									},
+									"Children": [
+										{
+											"ID": "20210311111033-y11poqk",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210311111033-y11poqk",
+												"updated": "20210311111035"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "达到C点，内部微裂纹联通形成破坏面"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210311111036-e9h1x4m",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210311111036-e9h1x4m"
+									},
+									"Children": [
+										{
+											"ID": "20210311111036-7fgd6gm",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210311111036-7fgd6gm",
+												"updated": "20210311111036"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "C点的纵向应变称为峰值应变"
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\epsilon_0"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "，约为0.002"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311111039-em6tevf",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311111039-em6tevf"
+					},
+					"Children": [
+						{
+							"ID": "20210311111038-q5qbcl9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311111038-q5qbcl9",
+								"updated": "20210311111047"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "混凝土的泊松比较钢材更大"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311111047-7tq7wd4",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311111047-7tq7wd4"
+					},
+					"Children": [
+						{
+							"ID": "20210311111047-ggrb78o",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311111047-ggrb78o",
+								"updated": "20210311111111"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "抗压时开始时体积收缩，后来体积膨胀"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311111119-ejyy2qy",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311111119-ejyy2qy"
+					},
+					"Children": [
+						{
+							"ID": "20210311111119-ezqoo6k",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311111119-ezqoo6k",
+								"updated": "20210311112137"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "横向变形加以约束，则混凝土的微裂纹发展受到限制，从而提升混凝土的强度"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311112139-kzstuxt",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210311112139-kzstuxt",
+				"updated": "20210311112724"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\epsilon_{t0}=\\frac{f_t}{E_c'}=\\frac{f_t}{0.5E_c}=\\frac{2f_t}{E_c}=150\\sim300\\mu\\epsilon"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210311112433-19s1lw3",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210311112433-19s1lw3",
+				"updated": "20210311112823"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "150\\sim300\\mu\\epsilon=\\epsilon_{t0}\u003c\u003c\\epsilon_y=1200\\sim2000\\mu\\epsilon"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210311112828-5asymjs",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210311112828-5asymjs",
+				"updated": "20210311113738"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "新型混凝土"
+				}
+			]
+		},
+		{
+			"ID": "20210311113739-vsoqq9m",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210311113739-vsoqq9m",
+				"updated": "20210311113759"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "超高性能水泥基材料（UHPC）"
+				}
+			]
+		},
+		{
+			"ID": "20210311113819-vpzyp45",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210311113819-vpzyp45",
+				"updated": "20210311113820"
+			},
+			"Children": [
+				{
+					"ID": "20210311113820-pwjtfar",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311113820-pwjtfar"
+					},
+					"Children": [
+						{
+							"ID": "20210311113820-02pahve",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311113820-02pahve",
+								"updated": "20210311113827"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "抗压性能\u003e150MPa"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311113844-txteb40",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311113844-txteb40"
+					},
+					"Children": [
+						{
+							"ID": "20210311113844-07as0tp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311113844-07as0tp",
+								"updated": "20210311113907"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "使用硅灰，粒径比水泥小一个数量级，颗粒堆积更加密实"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311114015-ytmuxiw",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311114015-ytmuxiw"
+					},
+					"Children": [
+						{
+							"ID": "20210311114015-p9nmchz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311114015-p9nmchz",
+								"updated": "20210311114035"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "添加纤维，保证抗拉（增加韧性）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311114203-yf1npoy",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311114203-yf1npoy"
+					},
+					"Children": [
+						{
+							"ID": "20210311114203-0n9vfh6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311114203-0n9vfh6",
+								"updated": "20210311114223"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "1994年，基于颗粒堆积优化材料"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311114252-gbh7xzs",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311114252-gbh7xzs"
+					},
+					"Children": [
+						{
+							"ID": "20210311114252-a4bhgel",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311114252-a4bhgel",
+								"updated": "20210311114324"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "峰值应变"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": " 3500\\mu\\epsilon"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311113800-8cayljs",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210311113800-8cayljs",
+				"updated": "20210311113815"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "工程水泥基复合材料（ECC）"
+				}
+			]
+		},
+		{
+			"ID": "20210311113830-57dc9t4",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210311113830-57dc9t4",
+				"updated": "20210311113832"
+			},
+			"Children": [
+				{
+					"ID": "20210311113832-cxewifg",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311113832-cxewifg"
+					},
+					"Children": [
+						{
+							"ID": "20210311113832-jufmaw0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311113832-jufmaw0",
+								"updated": "20210311113841"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "极限拉应变\u003e3%"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311114048-k758jb0",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311114048-k758jb0"
+					},
+					"Children": [
+						{
+							"ID": "20210311114048-oj81c38",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311114048-oj81c38",
+								"updated": "20210311114055"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "无机纤维、短纤维、PVA纤维"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311114055-9v596jf",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311114055-9v596jf"
+					},
+					"Children": [
+						{
+							"ID": "20210311114055-2dp6az4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311114055-2dp6az4",
+								"updated": "20210311114104"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "改善混凝土的脆性"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311114104-fhi1jsz",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311114104-fhi1jsz"
+					},
+					"Children": [
+						{
+							"ID": "20210311114104-7fvpmjk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311114104-7fvpmjk",
+								"updated": "20210311114115"
+							},
+							"Children": [
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "超高延性混凝土"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311114117-kert1w2",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311114117-kert1w2"
+					},
+					"Children": [
+						{
+							"ID": "20210311114117-6izt8ox",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311114117-6izt8ox",
+								"updated": "20210311114158"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "90年代出现"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311114518-k1r5r7u",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210311114518-k1r5r7u",
+				"updated": "20210311115143"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "复杂应力下混凝土的受力性能"
+				}
+			]
+		},
+		{
+			"ID": "20210311115143-dzvvhs3",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210311115143-dzvvhs3",
+				"updated": "20210311115154"
+			},
+			"Children": [
+				{
+					"ID": "20210311115154-f3bonz6",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311115154-f3bonz6"
+					},
+					"Children": [
+						{
+							"ID": "20210311115154-8e9onp6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311115154-8e9onp6",
+								"updated": "20210311115240"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "主应力以压为正，且"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\sigma_1 \\geq\\sigma_2\\geq\\sigma_3 "
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311115244-39y5101",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311115244-39y5101"
+					},
+					"Children": [
+						{
+							"ID": "20210311115244-95vvz15",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311115244-95vvz15",
+								"updated": "20210318095738"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "相应的三轴强度记为"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "f_1,\\ f_2,\\ f_3"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "，也以压为正"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311115334-3cja4vo",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311115334-3cja4vo"
+					},
+					"Children": [
+						{
+							"ID": "20210311115334-d4hi4es",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311115334-d4hi4es",
+								"updated": "20210311115436"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "各主应力满足"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "|\\sigma_i|\\leq|f_i|"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "，认为混凝土多轴强度满足要求"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210311120243-9w4sg20",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311120243-9w4sg20"
+					},
+					"Children": [
+						{
+							"ID": "20210311120243-6wfsnfb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311120243-6wfsnfb",
+								"updated": "20210311120301"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "三轴应力状态："
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311120301-ilasvkh",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210311120301-ilasvkh",
+				"updated": "20210311120324"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "f_1=f_c'+4.1\\sigma_2"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210311120327-ftw0onk",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210311120327-ftw0onk",
+				"updated": "20210311120521"
+			},
+			"Children": [
+				{
+					"ID": "20210311120521-0pcv8ur",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311120521-0pcv8ur"
+					},
+					"Children": [
+						{
+							"ID": "20210311120521-r75fv24",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311120521-r75fv24",
+								"updated": "20210311120525"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "主动约束"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311120527-3w2y503",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210311120527-3w2y503",
+				"updated": "20210311120542"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "f_{c1}'=f_c'+4\\sigma_2"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210311120544-pal6fe8",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210311120544-pal6fe8",
+				"updated": "20210311120546"
+			},
+			"Children": [
+				{
+					"ID": "20210311120546-jjyexc0",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311120546-jjyexc0"
+					},
+					"Children": [
+						{
+							"ID": "20210311120546-s8opff5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311120546-s8opff5",
+								"updated": "20210311120554"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "被动约束"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311120555-aes2hhg",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210311120555-aes2hhg",
+				"updated": "20210311120630"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "f_{c1}'=f_c'+(3.2\\sim3.5)\\sigma_2"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210311120631-d89uxub",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210311120631-d89uxub",
+				"updated": "20210311120651"
+			},
+			"Children": [
+				{
+					"ID": "20210311120651-vj6a92y",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210311120651-vj6a92y"
+					},
+					"Children": [
+						{
+							"ID": "20210311120651-bibp2cy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210311120651-bibp2cy",
+								"updated": "20210311120654"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Popovics"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210311120657-w5g3pfy",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210311120657-w5g3pfy",
+				"updated": "20210311120853"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\frac{\\sigma_c}{f_{cc}^{'*}}=\\frac{\\left(\\frac{\\epsilon_c}{\\epsilon^*_{cc}}\\right)^r}{r-1+\\left(\\frac{\\epsilon_c}{\\epsilon^*_{cc}}\\right)^r}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210311120855-i9qwyxm",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210311120855-i9qwyxm",
+				"updated": "20210311121002"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "r=-\\frac{E_c}{E_c-\\frac{f_{cc}^{'*}}{\\epsilon^*_{cc}}}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210311125514-dbe6lb2",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210311125514-dbe6lb2",
+				"updated": "20210318095047"
+			},
+			"Children": [
+				{
+					"ID": "20210318095047-dxbfwzj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318095047-dxbfwzj"
+					},
+					"Children": [
+						{
+							"ID": "20210318095047-quz7r4a",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318095047-quz7r4a",
+								"updated": "20210318095050"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Richart"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210318095053-lh4llt0",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210318095053-lh4llt0",
+				"updated": "20210318095130"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "f_{cc}^{'*}=f_{c0}'+k_1f_1"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210318095133-f8qw031",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210318095133-f8qw031",
+				"updated": "20210318100513"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\epsilon_{cc}^*=\\epsilon_{c0}\\left[1+5\\left(\\frac{f_{cc}^{'*}}{f_{c0}'}-1\\right)\\right]"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210318100505-wq8ra7t",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210318100505-wq8ra7t",
+				"updated": "20210318100526"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "混凝土的收缩（shrinkage）"
+				}
+			]
+		},
+		{
+			"ID": "20210318095505-5t6k7om",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210318095505-5t6k7om",
+				"updated": "20210318095511"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e "
+				},
+				{
+					"ID": "20210318095509-ghwbenw",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210318095509-ghwbenw",
+						"updated": "20210318095516"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "混凝土在空气中硬化时体积会缩小，这种现象称为混凝土的"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "收缩"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "。"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210318095516-yp650ub",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210318095516-yp650ub",
+				"updated": "20210318101012"
+			},
+			"Children": [
+				{
+					"ID": "20210318101000-hkaoxhf",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318101000-hkaoxhf"
+					},
+					"Children": [
+						{
+							"ID": "20210318101000-hb2pxk9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318101000-hb2pxk9",
+								"updated": "20210318101120"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "收缩是混凝土在不受外力情况下体积变化产生的变形"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210318101122-mvcg0cl",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210318101122-mvcg0cl",
+				"updated": "20210318101127"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Properties": {
+						"parent-style": "display: block; text-align: center;",
+						"style": "width: 360.76px;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang",
+							"Data": "!"
+						},
+						{
+							"Type": "NodeOpenBracket",
+							"Data": "["
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket",
+							"Data": "]"
+						},
+						{
+							"Type": "NodeOpenParen",
+							"Data": "("
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20210318101127-5ci74x3.png"
+						},
+						{
+							"Type": "NodeCloseParen",
+							"Data": ")"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: parent-style=\"display: block; text-align: center;\" style=\"width: 360.76px;\" style=\"width: 360.76px;\"}"
+				}
+			]
+		},
+		{
+			"ID": "20210318101131-van4r7u",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210318101131-van4r7u",
+				"updated": "20210318101429"
+			},
+			"Children": [
+				{
+					"ID": "20210318101332-7418lqn",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318101332-7418lqn"
+					},
+					"Children": [
+						{
+							"ID": "20210318101332-vmdx11s",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318101332-vmdx11s",
+								"updated": "20210318101355"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "当这种自发的变形受到外部（支座）或内部（钢筋）的约束时，将使混凝土中产生拉应力，甚至引起混凝土的开裂"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318101342-kfhs80w",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318101342-kfhs80w"
+					},
+					"Children": [
+						{
+							"ID": "20210318101342-c39czgg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318101342-c39czgg",
+								"updated": "20210318101354"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "混凝土收缩会使预应力混凝土构件产生预应力损失"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318101427-xdsxto1",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318101427-xdsxto1"
+					},
+					"Children": [
+						{
+							"ID": "20210318101427-gdpn1hx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318101427-gdpn1hx",
+								"updated": "20210318101434"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "某些对跨度比较敏感的超静定结构（如拱结构），收缩也会引起不利的内力"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210318101721-o93kcvt",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210318101721-o93kcvt",
+				"updated": "20210318102524"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "收缩机理"
+				}
+			]
+		},
+		{
+			"ID": "20210318101726-keshwta",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210318101726-keshwta",
+				"updated": "20210318102450"
+			},
+			"Children": [
+				{
+					"ID": "20210318101741-e61qipe",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318101741-e61qipe"
+					},
+					"Children": [
+						{
+							"ID": "20210318101741-naw029p",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318101741-naw029p",
+								"updated": "20210318101742"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "塑性收缩（养护阶段中流动，蒸发、压实）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318101743-j074zbh",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318101743-j074zbh"
+					},
+					"Children": [
+						{
+							"ID": "20210318101743-tykt564",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318101743-tykt564",
+								"updated": "20210318101801"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "化学减缩（7%~9%，化学反应）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318101801-hgfobet",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318101801-hgfobet"
+					},
+					"Children": [
+						{
+							"ID": "20210318101801-7g6e5tm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318101801-7g6e5tm",
+								"updated": "20210318101803"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "自收缩（无水分散失，毛细孔负压）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318101803-iihoxr9",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318101803-iihoxr9"
+					},
+					"Children": [
+						{
+							"ID": "20210318101803-yv5mrzk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318101803-yv5mrzk",
+								"updated": "20210318101805"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "干燥收缩（由表及里，表面失水）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318101805-e6or1jq",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318101805-e6or1jq"
+					},
+					"Children": [
+						{
+							"ID": "20210318101805-m2br52d",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318101805-m2br52d",
+								"updated": "20210318101806"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "温度收缩（水化热，热胀冷缩）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318101807-vx5moow",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318101807-vx5moow"
+					},
+					"Children": [
+						{
+							"ID": "20210318101807-dw1ljzx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318101807-dw1ljzx",
+								"updated": "20210318101807"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "碳化收缩（湿度中等）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318101854-oh0jfnb",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318101854-oh0jfnb"
+					},
+					"Children": [
+						{
+							"ID": "20210318101854-b23b1ot",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318101854-b23b1ot",
+								"updated": "20210318101951"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "收缩量约为"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "(2\\sim5)\\times10^{-4}\\mu\\epsilon"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318101954-0eb4pnr",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318101954-0eb4pnr"
+					},
+					"Children": [
+						{
+							"ID": "20210318101954-u04b3el",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318101954-u04b3el",
+								"updated": "20210318102017"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "故长度方向"
+								},
+								{
+									"Type": "NodeStrong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "超过10m"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "时，应当考虑收缩的影响"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318102019-ucji5st",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318102019-ucji5st"
+					},
+					"Children": [
+						{
+							"ID": "20210318102019-0uzu7u7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318102019-0uzu7u7",
+								"updated": "20210318102108"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "早期收缩变形发展较快，两周可完成全部收缩的25%，一个月可完成50%，以后发展逐渐减慢，整个收缩过程可延续两年以上"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318102448-xbgy51p",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318102448-xbgy51p"
+					},
+					"Children": [
+						{
+							"ID": "20210318102448-mjs5n5t",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318102448-mjs5n5t",
+								"updated": "20210318102513"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "减小开裂的措施：伸缩缝、施工缝、配筋"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210318102913-29bffog",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210318102913-29bffog",
+				"updated": "20210318102926"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "影响因素"
+				}
+			]
+		},
+		{
+			"ID": "20210318102927-qt2v9dc",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210318102927-qt2v9dc",
+				"updated": "20210318102933"
+			},
+			"Children": [
+				{
+					"ID": "20210318102933-0z0bymr",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318102933-0z0bymr"
+					},
+					"Children": [
+						{
+							"ID": "20210318102933-kgl3qjf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318102933-kgl3qjf",
+								"updated": "20210318102935"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "水泥用量多、水灰比越大，收缩越大"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318102935-09q503n",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318102935-09q503n"
+					},
+					"Children": [
+						{
+							"ID": "20210318102935-aap2ykj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318102935-aap2ykj",
+								"updated": "20210318102942"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "骨料弹性模量高、级配好，收缩就小"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318102937-usd9tok",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318102937-usd9tok"
+					},
+					"Children": [
+						{
+							"ID": "20210318102937-u3mp19d",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318102937-u3mp19d",
+								"updated": "20210318102943"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "干燥失水及高温环境，收缩大"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318102940-3ludve9",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318102940-3ludve9"
+					},
+					"Children": [
+						{
+							"ID": "20210318102940-npa6da1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318102940-npa6da1",
+								"updated": "20210318102947"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "小尺寸构件收缩大，大尺寸构件收缩小"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318102947-u3y5i64",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318102947-u3y5i64"
+					},
+					"Children": [
+						{
+							"ID": "20210318102947-56473tg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318102947-56473tg",
+								"updated": "20210318102949"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "高强混凝土收缩大"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318102950-cv20h8x",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318102950-cv20h8x"
+					},
+					"Children": [
+						{
+							"ID": "20210318102950-6rsspm8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318102950-6rsspm8",
+								"updated": "20210318102950"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "影响收缩的因素多且复杂，要精确计算尚有一定的困难"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210318100533-blyiv8m",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210318100533-blyiv8m",
+				"updated": "20210318100547"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "混凝土的徐变（creep）"
+				}
+			]
+		},
+		{
+			"ID": "20210318102902-pbkowui",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210318102902-pbkowui",
+				"updated": "20210318103114"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e "
+				},
+				{
+					"ID": "20210318103044-cq6mbfk",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210318103044-cq6mbfk",
+						"updated": "20210318103228"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "混凝土在"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "荷载的长期作用"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "下，"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "其变形随时间而不断增长"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "的现象称为"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "徐变"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "。"
+						}
+					]
+				},
+				{
+					"ID": "20210318103104-h2auju3",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210318103104-h2auju3",
+						"updated": "20210318103120"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "徐变会使结构的变形增大，特别是自重为主的大跨结构"
+						}
+					]
+				},
+				{
+					"ID": "20210318103121-7u42616",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210318103121-7u42616",
+						"updated": "20210318103128"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "徐变会引起预应力损失"
+						}
+					]
+				},
+				{
+					"ID": "20210318103128-9pndh1w",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210318103128-9pndh1w",
+						"updated": "20210318103132"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "在长期高应力作用下，徐变甚至会导致破坏"
+						}
+					]
+				},
+				{
+					"ID": "20210318103132-0vz9eg8",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210318103132-0vz9eg8",
+						"updated": "20210318103136"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "不过，徐变有利于结构构件产生内（应）力重分布，降低结构的受力（如支座不均匀沉降），减小大体积混凝土的温度应力，受拉徐变可延缓收缩裂缝的出现。"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210318103137-vc9lbyv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210318103137-vc9lbyv",
+				"updated": "20210318103402"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "机理"
+				}
+			]
+		},
+		{
+			"ID": "20210318103402-dx1yzdw",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210318103402-dx1yzdw",
+				"updated": "20210318103403"
+			},
+			"Children": [
+				{
+					"ID": "20210318103403-mh2g6se",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318103403-mh2g6se"
+					},
+					"Children": [
+						{
+							"ID": "20210318103403-pkx5qz8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318103403-pkx5qz8",
+								"updated": "20210318103431"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "水泥石中的凝胶体C-S-H产生的黏性流动（纳米尺度上的相对滑动）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318103432-5zsl3ki",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318103432-5zsl3ki"
+					},
+					"Children": [
+						{
+							"ID": "20210318103432-agw5n1f",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318103432-agw5n1f",
+								"updated": "20210318104359"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "骨料和水泥石结合面裂缝的持续发展？？"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318103446-psf4to6",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318103446-psf4to6"
+					},
+					"Children": [
+						{
+							"ID": "20210318103446-oc3gm3h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318103446-oc3gm3h",
+								"updated": "20210318104401"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "混凝土在本身重力作用下发生的塑性变形（类似与土的固结）？？？"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210318104804-ffjzquy",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210318104804-ffjzquy",
+				"updated": "20210318104808"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "徐变关系"
+				}
+			]
+		},
+		{
+			"ID": "20210318104405-yaefik1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210318104405-yaefik1",
+				"updated": "20210318104707"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Properties": {
+						"parent-style": "display: block; text-align: center;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang",
+							"Data": "!"
+						},
+						{
+							"Type": "NodeOpenBracket",
+							"Data": "["
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket",
+							"Data": "]"
+						},
+						{
+							"Type": "NodeOpenParen",
+							"Data": "("
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20210318104707-xtgpht3.png"
+						},
+						{
+							"Type": "NodeCloseParen",
+							"Data": ")"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: parent-style=\"display: block; text-align: center;\"}"
+				}
+			]
+		},
+		{
+			"ID": "20210318104711-fz8h1ss",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210318104711-fz8h1ss",
+				"updated": "20210318104719"
+			},
+			"Children": [
+				{
+					"ID": "20210318104719-vsusgs3",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318104719-vsusgs3"
+					},
+					"Children": [
+						{
+							"ID": "20210318104719-gef7j42",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318104719-gef7j42",
+								"updated": "20210318104730"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "sh——收缩"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318104733-93fuhww",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318104733-93fuhww"
+					},
+					"Children": [
+						{
+							"ID": "20210318104733-0qfe77i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318104733-0qfe77i",
+								"updated": "20210318104742"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "e1——弹性应变"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318104742-23z8gsc",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318104742-23z8gsc"
+					},
+					"Children": [
+						{
+							"ID": "20210318104742-p6f3g80",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318104742-p6f3g80",
+								"updated": "20210318104749"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "cr——徐变量"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318104750-q85r7a6",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318104750-q85r7a6"
+					},
+					"Children": [
+						{
+							"ID": "20210318104750-mby6n7r",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318104750-mby6n7r",
+								"updated": "20210318104822"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "徐变量大约为弹性应变的2~3倍"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210318105122-2mvu1u4",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210318105122-2mvu1u4",
+				"updated": "20210318105130"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "徐变系数"
+				}
+			]
+		},
+		{
+			"ID": "20210318105131-qz94tuc",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210318105131-qz94tuc",
+				"updated": "20210318105458"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\varphi(t,t_0)=\\frac{\\epsilon_{cr}(t,t_0)}{\\epsilon_{el}}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210318105214-4jiwedv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210318105214-4jiwedv",
+				"updated": "20210318105542"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "当初始应力小于0.5fc时，徐变在2年以后可趋于稳定，最终的徐变系数"
+				},
+				{
+					"Type": "NodeInlineMath",
+					"Children": [
+						{
+							"Type": "NodeInlineMathOpenMarker"
+						},
+						{
+							"Type": "NodeInlineMathContent",
+							"Data": "\\varphi=2\\sim4"
+						},
+						{
+							"Type": "NodeInlineMathCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "。"
+				}
+			]
+		},
+		{
+			"ID": "20210318105543-noi5fso",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210318105543-noi5fso",
+				"updated": "20210318105556"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "影响因素"
+				}
+			]
+		},
+		{
+			"ID": "20210318105556-ezroa84",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210318105556-ezroa84",
+				"updated": "20210318105609"
+			},
+			"Children": [
+				{
+					"ID": "20210318105609-9axhjqg",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318105609-9axhjqg"
+					},
+					"Children": [
+						{
+							"ID": "20210318105609-bpv8v22",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318105609-bpv8v22"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "内在因素："
+								}
+							]
+						},
+						{
+							"ID": "20210318105612-4ng6vcv",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210318105612-4ng6vcv"
+							},
+							"Children": [
+								{
+									"ID": "20210318105612-fmf343d",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210318105612-fmf343d"
+									},
+									"Children": [
+										{
+											"ID": "20210318105612-6q9z0ri",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210318105612-6q9z0ri",
+												"updated": "20210318105659"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "混凝土的组成和配比"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210318105614-jrfgti8",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210318105614-jrfgti8"
+									},
+									"Children": [
+										{
+											"ID": "20210318105614-5179kby",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210318105614-5179kby",
+												"updated": "20210318105658"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "骨料的弹性模量越大，体积比越大，徐变就越小"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210318105617-69a8v93",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210318105617-69a8v93"
+									},
+									"Children": [
+										{
+											"ID": "20210318105617-gno4a7v",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210318105617-gno4a7v",
+												"updated": "20210318105657"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "水灰比越小，徐变也越小"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210318105627-8yx912v",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210318105627-8yx912v",
+				"updated": "20210318105628"
+			},
+			"Children": [
+				{
+					"ID": "20210318105620-inmtbhs",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318105620-inmtbhs",
+						"updated": "20210318105620"
+					},
+					"Children": [
+						{
+							"ID": "20210318105621-m9xopr2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318105621-m9xopr2",
+								"updated": "20210318105621"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "环境影响："
+								}
+							]
+						},
+						{
+							"ID": "20210318105641-c5wjovi",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210318105641-c5wjovi"
+							},
+							"Children": [
+								{
+									"ID": "20210318105641-yzvfg81",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210318105641-yzvfg81",
+										"updated": "20210318105620"
+									},
+									"Children": [
+										{
+											"ID": "20210318105641-1cfb48c",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210318105641-1cfb48c",
+												"updated": "20210318105656"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "包括养护和使用条件"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210318105644-ulvb4d8",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210318105644-ulvb4d8",
+										"updated": "20210318105620"
+									},
+									"Children": [
+										{
+											"ID": "20210318105644-htsv6vt",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210318105644-htsv6vt",
+												"updated": "20210318105650"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "受荷前养护温湿度越高，水泥水化作用越充分，徐变就越小。采用蒸汽养护可使徐变减少(20~35)%"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210318105652-jlvnv4t",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210318105652-jlvnv4t",
+										"updated": "20210318105620"
+									},
+									"Children": [
+										{
+											"ID": "20210318105652-fr5t882",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210318105652-fr5t882",
+												"updated": "20210318105652"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "受荷后环境温度越高，相对湿度越小，徐变就越大"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210318105711-k6w02er",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210318105711-k6w02er",
+				"updated": "20210318105726"
+			},
+			"Children": [
+				{
+					"ID": "20210318105726-y02mm0t",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318105726-y02mm0t"
+					},
+					"Children": [
+						{
+							"ID": "20210318105726-oehxfw8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318105726-oehxfw8",
+								"updated": "20210318105728"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "应力条件"
+								}
+							]
+						},
+						{
+							"ID": "20210318105734-xkgv0xu",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210318105734-xkgv0xu"
+							},
+							"Children": [
+								{
+									"ID": "20210318105732-ko62ap4",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210318105732-ko62ap4"
+									},
+									"Children": [
+										{
+											"ID": "20210318105732-tahiabo",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210318105732-tahiabo",
+												"updated": "20210318105828"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "是指初应力水平"
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "\\sigma_i/f_c"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "和加荷时混凝土的龄期"
+												},
+												{
+													"Type": "NodeInlineMath",
+													"Children": [
+														{
+															"Type": "NodeInlineMathOpenMarker"
+														},
+														{
+															"Type": "NodeInlineMathContent",
+															"Data": "t_0"
+														},
+														{
+															"Type": "NodeInlineMathCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210318105916-wzjw051",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210318105916-wzjw051",
+				"updated": "20210318105925"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "混凝土的选用"
+				}
+			]
+		},
+		{
+			"ID": "20210318105926-owokyhi",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210318105926-owokyhi",
+				"updated": "20210318105946"
+			},
+			"Children": [
+				{
+					"ID": "20210318105946-cb9t5yd",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318105946-cb9t5yd"
+					},
+					"Children": [
+						{
+							"ID": "20210318105946-u2qzye9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318105946-u2qzye9",
+								"updated": "20210318105949"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "素混凝土结构的强度等级不应低于C15"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318105950-9v9iue1",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318105950-9v9iue1"
+					},
+					"Children": [
+						{
+							"ID": "20210318105950-75zy2vv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318105950-75zy2vv",
+								"updated": "20210318105955"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "钢筋混凝土结构的混凝土强度等级不应低于C20"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318105953-26zjj3d",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318105953-26zjj3d"
+					},
+					"Children": [
+						{
+							"ID": "20210318105953-dwwuhol",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318105953-dwwuhol",
+								"updated": "20210318105958"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "采用400MPa 级钢筋时混凝土强度等级不应低于C25"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318105959-ag0tu5s",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318105959-ag0tu5s"
+					},
+					"Children": [
+						{
+							"ID": "20210318105959-n3rszdc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318105959-n3rszdc",
+								"updated": "20210318110001"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "采用500MPa 级钢筋时混凝土强度等级不应低于C30"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318110002-o056d4a",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318110002-o056d4a"
+					},
+					"Children": [
+						{
+							"ID": "20210318110002-l9eelzw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318110002-l9eelzw",
+								"updated": "20210318110007"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "承受重复荷载的钢筋混凝土构件，混凝土强度等级不应低于C25"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210318110008-9kbrn38",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210318110008-9kbrn38"
+					},
+					"Children": [
+						{
+							"ID": "20210318110008-xmd5nuh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210318110008-xmd5nuh",
+								"updated": "20210318110011"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "预应力混凝土结构的混凝土强度等级不宜低于C40，且不应低于C30"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210318110013-nepbjyc",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210318110013-nepbjyc",
+				"updated": "20210318110216"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "问题答疑"
+				}
+			]
+		},
+		{
+			"ID": "20210318110216-4zlc27m",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210318110216-4zlc27m"
+			}
+		}
+	]
+}

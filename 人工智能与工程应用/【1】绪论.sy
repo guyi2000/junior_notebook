@@ -1,0 +1,116 @@
+{
+	"ID": "20210305105256-zdnmnp6",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210305105256-zdnmnp6",
+		"title": "【1】绪论",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210305105256-7jffi5y",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210305105256-7jffi5y",
+				"updated": "20210305105300"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "绪论"
+				}
+			]
+		},
+		{
+			"ID": "20210305105302-i19fsgg",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305105302-i19fsgg",
+				"updated": "20210305105308"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "三大经典算法"
+				}
+			]
+		},
+		{
+			"ID": "20210305105308-07mlk92",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210305105308-07mlk92",
+				"updated": "20210305105317"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "关联规则"
+				}
+			]
+		},
+		{
+			"ID": "20210305105318-v78ckpv",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305105318-v78ckpv",
+				"updated": "20210305105319"
+			},
+			"Children": [
+				{
+					"ID": "20210305105319-c6jnn1p",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305105319-c6jnn1p"
+					},
+					"Children": [
+						{
+							"ID": "20210305105319-l65y219",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305105319-l65y219",
+								"updated": "20210305105323"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Hash树结构"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

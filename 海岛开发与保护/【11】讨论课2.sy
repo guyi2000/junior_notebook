@@ -1,0 +1,518 @@
+{
+	"ID": "20210511204804-s3uulew",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210511204804-s3uulew",
+		"title": "【11】讨论课2",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210511204804-gy3nvul",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210511204804-gy3nvul",
+				"updated": "20210511204808"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "讨论课2"
+				}
+			]
+		},
+		{
+			"ID": "20210721101558-bulkz97",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721101558-bulkz97"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "[toc]"
+				}
+			]
+		},
+		{
+			"ID": "20210511204818-es3wef2",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210511204818-es3wef2",
+				"updated": "20210511204825"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "题目"
+				}
+			]
+		},
+		{
+			"ID": "20210511204826-pgzfev4",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210511204826-pgzfev4",
+				"updated": "20210511204934"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e "
+				},
+				{
+					"ID": "20210511204935-ci5hq38",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210511204935-ci5hq38",
+						"updated": "20210511205015"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "随机分组，4名同学1个小组，每组第一位同学为组长，分组准备ppt，展示和讨论18分钟"
+						}
+					]
+				},
+				{
+					"ID": "20210511204935-362skuz",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210511204935-362skuz",
+						"updated": "20210511204948"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "评分：同学互评"
+						}
+					]
+				},
+				{
+					"ID": "20210511204935-4qu7l6o",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210511204935-4qu7l6o",
+						"updated": "20210511205043"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "展示时间："
+						}
+					]
+				},
+				{
+					"ID": "20210511204935-b10cqix",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210511204935-b10cqix",
+						"updated": "20210511205028"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "第13周（5月18日）：1，3，5，7，9组"
+						}
+					]
+				},
+				{
+					"ID": "20210511204935-h9hv3u0",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210511204935-h9hv3u0",
+						"updated": "20210511205035"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "第14周（5月25日）：2，4，6，8，10组"
+						}
+					]
+				},
+				{
+					"ID": "20210511204935-s12uzez",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210511204935-s12uzez"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "研究主题："
+						}
+					]
+				},
+				{
+					"ID": "20210511204935-gcycq41",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210511204935-gcycq41",
+						"updated": "20210511205303"
+					},
+					"Children": [
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "第1，6，7，10组：人工岛建设的技术挑战"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210511204935-09pqznm",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210511204935-09pqznm",
+						"updated": "20210511205047"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "第2，5，9组：无居民海岛开发的挑战（开发模式、制度、经济等方面）"
+						}
+					]
+				},
+				{
+					"ID": "20210511204935-lctzb9h",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210511204935-lctzb9h",
+						"updated": "20210511205054"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "第3，4，8组：无居民海岛开发的挑战（资源、环境、生态等方面）"
+						}
+					]
+				},
+				{
+					"ID": "20210511204935-cs55vnj",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210511204935-cs55vnj",
+						"updated": "20210513200253"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "聚焦某一个问题来开展调查、分析、研究，避免选题过大过宽。"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "提出问题，有自己的分析和见解。"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210511205133-2d7m6eu",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210511205133-2d7m6eu",
+				"updated": "20210513192012"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "选题"
+				}
+			]
+		},
+		{
+			"ID": "20210513192012-w40xfpv",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210513192012-w40xfpv",
+				"updated": "20210513192013"
+			},
+			"Children": [
+				{
+					"ID": "20210513192013-vj7roqo",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210513192013-vj7roqo"
+					},
+					"Children": [
+						{
+							"ID": "20210513192013-tvt9ee0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210513192013-tvt9ee0",
+								"updated": "20210513192019"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "生态环境"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210513192020-g28gm5m",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210513192020-g28gm5m"
+					},
+					"Children": [
+						{
+							"ID": "20210513192020-vnh6jn1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210513192020-vnh6jn1",
+								"updated": "20210513192028"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "沉降"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210513192029-4u9uzdz",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210513192029-4u9uzdz"
+					},
+					"Children": [
+						{
+							"ID": "20210513192029-7tnlurt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210513192029-7tnlurt",
+								"updated": "20210513192033"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "材料——珊瑚砂"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210513195652-2o21pf8",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210513195652-2o21pf8",
+				"updated": "20210513195654"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "思路"
+				}
+			]
+		},
+		{
+			"ID": "20210513195654-39il9vi",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210513195654-39il9vi",
+				"updated": "20210513195655"
+			},
+			"Children": [
+				{
+					"ID": "20210513195655-pdhbiob",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210513195655-pdhbiob"
+					},
+					"Children": [
+						{
+							"ID": "20210513195655-zj5wf9b",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210513195655-zj5wf9b",
+								"updated": "20210513200418"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "人工岛建设的技术挑战-\u003e材料方面-\u003e混凝土面临的问题（胶凝材料、骨料、后期养护、制备等等方面分别分析）-\u003e珊瑚砂混凝土、海水海砂混凝土等-\u003e未来发展（见解）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210513200050-puzct9x",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210513200050-puzct9x"
+					},
+					"Children": [
+						{
+							"ID": "20210513200050-f7j8p8w",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210513200050-f7j8p8w",
+								"updated": "20210513200054"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "数据说明"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210513200117-wg4tg3g",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210513200117-wg4tg3g"
+					},
+					"Children": [
+						{
+							"ID": "20210513200117-not3nsk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210513200117-not3nsk",
+								"updated": "20210513200132"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "介绍珊瑚砂混凝土、海水海砂混凝土（"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210513200440-p6x1sxh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210513200440-p6x1sxh"
+			}
+		}
+	]
+}

@@ -1,0 +1,404 @@
+{
+	"ID": "20210314220110-zlip6z2",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210314220110-zlip6z2",
+		"title": "【1】第一次支书例会",
+		"type": "doc",
+		"updated": "20210721102126"
+	},
+	"Children": [
+		{
+			"ID": "20210314220110-tzo58ig",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210314220110-tzo58ig",
+				"updated": "20210314220116"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "第一次支书例会"
+				}
+			]
+		},
+		{
+			"ID": "20210314220116-zdaklkr",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210314220116-zdaklkr",
+				"updated": "20210314220127"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "会议流程"
+				}
+			]
+		},
+		{
+			"ID": "20210314220127-14z6w3l",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210314220127-14z6w3l",
+				"updated": "20210721102126"
+			},
+			"Children": [
+				{
+					"ID": "20210314221151-gz9xvry",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210314221151-gz9xvry",
+						"updated": "20210721102126"
+					},
+					"Children": [
+						{
+							"ID": "20210314221151-erbqa5a",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210314221151-erbqa5a",
+								"updated": "20210314221154"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "主题团日"
+								}
+							]
+						},
+						{
+							"ID": "20210314221337-38mz84a",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Tight": true,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20210314221337-38mz84a",
+								"updated": "20210721102126"
+							},
+							"Children": [
+								{
+									"ID": "20210314221337-ee49xoe",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20210314221337-ee49xoe",
+										"updated": "20210721102126"
+									},
+									"Children": [
+										{
+											"ID": "20210314221337-xuqi7cx",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210314221337-xuqi7cx",
+												"updated": "20210721102126"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "下周三 "
+												},
+												{
+													"Type": "NodeMark",
+													"Data": "mark",
+													"Children": [
+														{
+															"Type": "NodeMark2OpenMarker"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "终稿"
+														},
+														{
+															"Type": "NodeMark2CloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210314221341-u87e4ic",
+									"Type": "NodeListItem",
+									"Data": "2",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 2,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mg==",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20210314221341-u87e4ic"
+									},
+									"Children": [
+										{
+											"ID": "20210314221341-wp50ufq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210314221341-wp50ufq",
+												"updated": "20210314221504"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "下周末 提交最终版"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210314221446-qfe6t4n",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210314221446-qfe6t4n"
+					},
+					"Children": [
+						{
+							"ID": "20210314221447-50pcmvr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210314221447-50pcmvr",
+								"updated": "20210314221451"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "支部事业"
+								}
+							]
+						},
+						{
+							"ID": "20210314221532-94tlytk",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Tight": true,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20210314221532-94tlytk"
+							},
+							"Children": [
+								{
+									"ID": "20210314221532-6rgcgzg",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20210314221532-6rgcgzg"
+									},
+									"Children": [
+										{
+											"ID": "20210314221532-9oe0vn7",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210314221532-9oe0vn7",
+												"updated": "20210314221600"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "未来发展思考（职业选择、未来发展）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210314221703-9plxzj6",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210314221703-9plxzj6"
+					},
+					"Children": [
+						{
+							"ID": "20210314221600-hkbya2n",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210314221600-hkbya2n",
+								"updated": "20210314221707"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "宣传方面"
+								}
+							]
+						},
+						{
+							"ID": "20210314221707-8myolnd",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Tight": true,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20210314221707-8myolnd"
+							},
+							"Children": [
+								{
+									"ID": "20210314221707-t68bhb2",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20210314221707-t68bhb2"
+									},
+									"Children": [
+										{
+											"ID": "20210314221707-xpxwi1c",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210314221707-xpxwi1c",
+												"updated": "20210314221739"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "投水木华声（交付组织组）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210314221809-ljtt96w",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210314221809-ljtt96w"
+					},
+					"Children": [
+						{
+							"ID": "20210314221808-71iwfmk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210314221808-71iwfmk",
+								"updated": "20210315175902"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "团务"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

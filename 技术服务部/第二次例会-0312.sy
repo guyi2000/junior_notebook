@@ -1,0 +1,618 @@
+{
+	"ID": "20210310152357-flggnp5",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210310152357-flggnp5",
+		"title": "第二次例会-0312",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210310152357-xmtvwt7",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210310152357-xmtvwt7",
+				"updated": "20210310153011"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "第二次例会"
+				}
+			]
+		},
+		{
+			"ID": "20210310153020-cib6ixo",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210310153020-cib6ixo",
+				"updated": "20210310153027"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"CodeMarkerLen": 1,
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker",
+							"Data": "`"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "2021-03-12"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker",
+							"Data": "`"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210310153028-i36ye0j",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210310153028-i36ye0j",
+				"updated": "20210310153038"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "会议流程"
+				}
+			]
+		},
+		{
+			"ID": "20210310153038-bquj13p",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210310153038-bquj13p",
+				"updated": "20210310153039"
+			},
+			"Children": [
+				{
+					"ID": "20210310153039-saxthkk",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210310153039-saxthkk"
+					},
+					"Children": [
+						{
+							"ID": "20210310153039-tol9vhs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210310153039-tol9vhs",
+								"updated": "20210310153058"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "解决招新时新部员的一些问题"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210310153058-gv80h8r",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210310153058-gv80h8r"
+					},
+					"Children": [
+						{
+							"ID": "20210310153058-iyl9qdt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210310153058-iyl9qdt",
+								"updated": "20210310153105"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "工作汇报"
+								}
+							]
+						},
+						{
+							"ID": "20210310153137-62rmrh3",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Tight": true,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20210310153137-62rmrh3"
+							},
+							"Children": [
+								{
+									"ID": "20210310153136-pgy4nxs",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20210310153136-pgy4nxs"
+									},
+									"Children": [
+										{
+											"ID": "20210310153136-jisy77z",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210310153136-jisy77z",
+												"updated": "20210310153146"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "学习资料工作汇报"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210310153146-e317q5a",
+									"Type": "NodeListItem",
+									"Data": "2",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 2,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mg==",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20210310153146-e317q5a"
+									},
+									"Children": [
+										{
+											"ID": "20210310153146-9h472s5",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210310153146-9h472s5",
+												"updated": "20210310153206"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "网站技术学习汇报"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210310153209-q5gvm2c",
+									"Type": "NodeListItem",
+									"Data": "3",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 3,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mw==",
+										"Num": 3
+									},
+									"Properties": {
+										"id": "20210310153209-q5gvm2c"
+									},
+									"Children": [
+										{
+											"ID": "20210310153209-oliihh7",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210310153209-oliihh7",
+												"updated": "20210310153215"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "技术贴工作汇报"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210310153218-ns0ffc7",
+									"Type": "NodeListItem",
+									"Data": "4",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 4,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "NA==",
+										"Num": 4
+									},
+									"Properties": {
+										"id": "20210310153218-ns0ffc7"
+									},
+									"Children": [
+										{
+											"ID": "20210310153218-7ifn0jq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210310153218-7ifn0jq",
+												"updated": "20210310153701"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "常务工作汇报（包括成员加入仓库情况，需要成员阅读的相关内容）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210310153121-lzl88s5",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210310153121-lzl88s5"
+					},
+					"Children": [
+						{
+							"ID": "20210310153121-j4wfm8a",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210310153121-j4wfm8a",
+								"updated": "20210310153125"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "工作安排"
+								}
+							]
+						},
+						{
+							"ID": "20210310153248-hxjsmst",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Tight": true,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20210310153248-hxjsmst"
+							},
+							"Children": [
+								{
+									"ID": "20210310153247-wt2o56h",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20210310153247-wt2o56h"
+									},
+									"Children": [
+										{
+											"ID": "20210310153247-1q3yr82",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210310153247-1q3yr82",
+												"updated": "20210310153251"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "网站进一步安排"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210310153252-ktpwb5o",
+									"Type": "NodeListItem",
+									"Data": "2",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 2,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mg==",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20210310153252-ktpwb5o"
+									},
+									"Children": [
+										{
+											"ID": "20210310153252-86h5iyi",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210310153252-86h5iyi",
+												"updated": "20210310153302"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "技术贴推出（瑞嵩、佳友）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210310153125-t6lbqtb",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210310153125-t6lbqtb"
+					},
+					"Children": [
+						{
+							"ID": "20210310153125-kky4wfm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210310153125-kky4wfm",
+								"updated": "20210310153135"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "技术学习征集"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210310153355-88jd9fm",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210310153355-88jd9fm",
+				"updated": "20210310153408"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "注意"
+				}
+			]
+		},
+		{
+			"ID": "20210310153409-r91z9p1",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210310153409-r91z9p1",
+				"updated": "20210310153410"
+			},
+			"Children": [
+				{
+					"ID": "20210310153410-lzzb1pc",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210310153410-lzzb1pc"
+					},
+					"Children": [
+						{
+							"ID": "20210310153410-3jgwmgr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210310153410-3jgwmgr",
+								"updated": "20210310153426"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "水木华声公众号审稿人"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210310153427-u4f2295",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210310153427-u4f2295"
+					},
+					"Children": [
+						{
+							"ID": "20210310153427-gnol9dy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210310153427-gnol9dy",
+								"updated": "20210310153446"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "技术贴推出的环境要求"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210310153641-4e543eo",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210310153641-4e543eo"
+					},
+					"Children": [
+						{
+							"ID": "20210310153641-7ut7k5v",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210310153641-7ut7k5v",
+								"updated": "20210312221703"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Gitee项目仓库使用、"
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "cloud"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "清华网盘使用"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210312221709-sy1jh7u",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210312221709-sy1jh7u"
+			}
+		}
+	]
+}

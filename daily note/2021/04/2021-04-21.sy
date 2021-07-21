@@ -1,0 +1,1195 @@
+{
+	"ID": "20210421085832-3sf0qur",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210421085832-3sf0qur",
+		"title": "2021-04-21",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210423174012-zdis4vn",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210423174012-zdis4vn",
+				"updated": "20210425140332"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "基于深度迁移学习的土木工程类本构关系构建"
+				}
+			]
+		},
+		{
+			"ID": "20210421091454-nh98c16",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210421091454-nh98c16",
+				"updated": "20210421091457"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "文献调研"
+				}
+			]
+		},
+		{
+			"ID": "20210421091458-oimi0jd",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210421091458-oimi0jd",
+				"updated": "20210421092441"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "技术路线"
+				}
+			]
+		},
+		{
+			"ID": "20210421092511-ghtgmut",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210421092511-ghtgmut"
+			},
+			"Children": [
+				{
+					"ID": "20210421092445-6zn7k50",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210421092445-6zn7k50"
+					},
+					"Children": [
+						{
+							"ID": "20210421092445-do8mfll",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421092445-do8mfll",
+								"updated": "20210421092448"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "在大型数据集上训练一个模型，在自己构建的小型数据集上finetuning"
+								}
+							]
+						},
+						{
+							"ID": "20210421092520-7ck56uw",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210421092520-7ck56uw",
+								"updated": "20210421092521"
+							},
+							"Children": [
+								{
+									"ID": "20210421092521-242y08t",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210421092521-242y08t"
+									},
+									"Children": [
+										{
+											"ID": "20210421092521-g2om0ds",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210421092521-g2om0ds",
+												"updated": "20210421092551"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Teacher，assistant，student（可进行分阶段迁移）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210421092621-nr18sjp",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210421092621-nr18sjp"
+									},
+									"Children": [
+										{
+											"ID": "20210421092621-r3emlkv",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210421092621-r3emlkv",
+												"updated": "20210421092805"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "BERT（Transformer）"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210421092448-p6el2jy",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210421092448-p6el2jy"
+					},
+					"Children": [
+						{
+							"ID": "20210421092448-szd0863",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421092448-szd0863",
+								"updated": "20210421092452"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "自建数据集，利用与预训练模型进行迁移学习"
+								}
+							]
+						},
+						{
+							"ID": "20210421092511-7kwzj3v",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210421092511-7kwzj3v"
+							},
+							"Children": [
+								{
+									"ID": "20210421092456-bpy2bgw",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210421092456-bpy2bgw"
+									},
+									"Children": [
+										{
+											"ID": "20210421092456-v5mwqz8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210421092456-v5mwqz8",
+												"updated": "20210421092508"
+											},
+											"Children": [
+												{
+													"Type": "NodeMark",
+													"Children": [
+														{
+															"Type": "NodeMark2OpenMarker",
+															"Data": "=="
+														},
+														{
+															"Type": "NodeText",
+															"Data": "打标签的简单极限就是无监督（自监督）？"
+														},
+														{
+															"Type": "NodeMark2CloseMarker",
+															"Data": "=="
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210421092509-yfpl8zh",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 3,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "Mw==",
+				"Num": 3
+			},
+			"Properties": {
+				"id": "20210421092509-yfpl8zh",
+				"updated": "20210421092512"
+			},
+			"Children": [
+				{
+					"ID": "20210421092512-ljbgj8u",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210421092512-ljbgj8u"
+					},
+					"Children": [
+						{
+							"ID": "20210421092512-6ro4gja",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421092512-6ro4gja"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "自建数据集，预训练与实际训练划分，预训练和目标任务难度没有差异但数据规模和质量有所差异"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210421090943-ns0givt",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210421090943-ns0givt",
+				"updated": "20210421092901"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "对抗迁移学习网络"
+				}
+			]
+		},
+		{
+			"ID": "20210421092903-f37yo3g",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210421092903-f37yo3g",
+				"updated": "20210421092927"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "计算"
+				}
+			]
+		},
+		{
+			"ID": "20210421092927-mrxelhu",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210421092927-mrxelhu",
+				"updated": "20210421093037"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "FR/FU"
+				}
+			]
+		},
+		{
+			"ID": "20210421093750-vwcwifi",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210421093750-vwcwifi",
+				"updated": "20210421093942"
+			},
+			"Children": [
+				{
+					"ID": "20210421093942-0u6eehs",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210421093942-0u6eehs"
+					},
+					"Children": [
+						{
+							"ID": "20210421093942-2vbtyo1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421093942-2vbtyo1",
+								"updated": "20210421094010"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "通过牺牲耗能抗震设计思路，主动设计薄弱构件"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210421094317-s9d3xzz",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210421094317-s9d3xzz"
+					},
+					"Children": [
+						{
+							"ID": "20210421094317-84yecvc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421094317-84yecvc",
+								"updated": "20210421094327"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "钢结构节点研究——牺牲连接处"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210421094615-0fzsbxq",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210421094615-0fzsbxq"
+					},
+					"Children": [
+						{
+							"ID": "20210421094615-7w61hqx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421094615-7w61hqx",
+								"updated": "20210421095447"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "苏军：大纵深对战原则"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210421095448-ntah53a",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210421095448-ntah53a",
+				"updated": "20210421095454"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "标准自动识别？"
+				}
+			]
+		},
+		{
+			"ID": "20210421095454-ws85lal",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210421095454-ws85lal",
+				"updated": "20210421095458"
+			},
+			"Children": [
+				{
+					"ID": "20210421095458-7cpfnbl",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210421095458-7cpfnbl"
+					},
+					"Children": [
+						{
+							"ID": "20210421095458-nvhatf6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421095458-nvhatf6",
+								"updated": "20210421095502"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "本体完善"
+								}
+							]
+						},
+						{
+							"ID": "20210421095504-1ihpg17",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210421095504-1ihpg17",
+								"updated": "20210421095505"
+							},
+							"Children": [
+								{
+									"ID": "20210421095505-72hylh1",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210421095505-72hylh1"
+									},
+									"Children": [
+										{
+											"ID": "20210421095505-e8ldl32",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210421095505-e8ldl32",
+												"updated": "20210421095512"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "针对工作计划"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210421095740-q2m7flc",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 2,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "Mg==",
+				"Num": 2
+			},
+			"Properties": {
+				"id": "20210421095740-q2m7flc",
+				"updated": "20210421095758"
+			},
+			"Children": [
+				{
+					"ID": "20210421095758-lun79b8",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210421095758-lun79b8"
+					},
+					"Children": [
+						{
+							"ID": "20210421095758-aqt3xmc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421095758-aqt3xmc",
+								"updated": "20210421095958"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "python调用OWL"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210421095801-v17slvq",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210421095801-v17slvq"
+					},
+					"Children": [
+						{
+							"ID": "20210421095801-1j2m9r8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421095801-1j2m9r8",
+								"updated": "20210421095814"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "本体实体连接的gold standard"
+								}
+							]
+						},
+						{
+							"ID": "20210421095815-p5g2yoq",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210421095815-p5g2yoq",
+								"updated": "20210421095819"
+							},
+							"Children": [
+								{
+									"ID": "20210421095819-gjttrdl",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210421095819-gjttrdl"
+									},
+									"Children": [
+										{
+											"ID": "20210421095819-6y5lh6n",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210421095819-6y5lh6n",
+												"updated": "20210421095836"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "BERT识别"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210421100015-k3631wl",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 4,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "NA==",
+				"Num": 4
+			},
+			"Properties": {
+				"id": "20210421100015-k3631wl",
+				"updated": "20210421100022"
+			},
+			"Children": [
+				{
+					"ID": "20210421100022-4327d87",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210421100022-4327d87"
+					},
+					"Children": [
+						{
+							"ID": "20210421100022-lqo0wqk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421100022-lqo0wqk",
+								"updated": "20210421100243"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "拓展Sparql"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210421100313-as39syr",
+					"Type": "NodeListItem",
+					"Data": "5",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 5,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NQ==",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20210421100313-as39syr"
+					},
+					"Children": [
+						{
+							"ID": "20210421100313-coravtq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421100313-coravtq",
+								"updated": "20210421100322"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "基于word2vec的实体连接方法"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210421100731-32irqaa",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210421100731-32irqaa",
+				"updated": "20210421100751"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "基于深度学习的节点钢配置"
+				}
+			]
+		},
+		{
+			"ID": "20210421100751-ydj47v3",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210421100751-ydj47v3",
+				"updated": "20210421101309"
+			},
+			"Children": [
+				{
+					"ID": "20210421101309-xpkcq9o",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210421101309-xpkcq9o"
+					},
+					"Children": [
+						{
+							"ID": "20210421101309-gvqclsc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421101309-gvqclsc",
+								"updated": "20210421101335"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "单智能体模拟放置钢筋（芯片放置问题）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210421101509-e0zljq6",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210421101509-e0zljq6"
+					},
+					"Children": [
+						{
+							"ID": "20210421101509-cql7jmm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421101509-cql7jmm",
+								"updated": "20210421101812"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "多智能体代理钢筋"
+								}
+							]
+						},
+						{
+							"ID": "20210421101835-2n8ytqe",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210421101835-2n8ytqe"
+							},
+							"Children": [
+								{
+									"ID": "20210421101813-j1md6hi",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210421101813-j1md6hi"
+									},
+									"Children": [
+										{
+											"ID": "20210421101813-vjdxwzp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210421101813-vjdxwzp",
+												"updated": "20210421101842"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "局部agent状态"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210421101842-meivgap",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210421101842-meivgap"
+									},
+									"Children": [
+										{
+											"ID": "20210421101842-ooo0igh",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210421101842-ooo0igh",
+												"updated": "20210421101846"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "PPO算法"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210421101849-ylxeszk",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210421101849-ylxeszk"
+									},
+									"Children": [
+										{
+											"ID": "20210421101849-ekvmj82",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210421101849-ekvmj82",
+												"updated": "20210421101906"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "多层钢筋"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210421101917-h9x9gi0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210421101917-h9x9gi0",
+				"updated": "20210421103459"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "已有设计结果作为先验知识学习"
+				}
+			]
+		},
+		{
+			"ID": "20210421103711-5j3fbqf",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210421103711-5j3fbqf",
+				"updated": "20210421103721"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "智能户型设计"
+				}
+			]
+		},
+		{
+			"ID": "20210421103722-l7jvc0j",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210421103722-l7jvc0j",
+				"updated": "20210421103855"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "House-GAN"
+				}
+			]
+		},
+		{
+			"ID": "20210421104044-7svf9uf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210421104044-7svf9uf",
+				"updated": "20210421104048"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "sg2img"
+				}
+			]
+		},
+		{
+			"ID": "20210421103902-whuxm6p",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210421103902-whuxm6p",
+				"updated": "20210421104328"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "从图的抽象关系到现实图片"
+				}
+			]
+		},
+		{
+			"ID": "20210421104419-clg6ggf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210421104419-clg6ggf",
+				"updated": "20210421104633"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "House-GAN与何田丰文章融合"
+				}
+			]
+		},
+		{
+			"ID": "20210421105150-sduqt2f",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210421105150-sduqt2f",
+				"updated": "20210421105634"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "PPT"
+				}
+			]
+		},
+		{
+			"ID": "20210421105156-xdyie56",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210421105156-xdyie56",
+				"updated": "20210421105200"
+			},
+			"Children": [
+				{
+					"ID": "20210421105200-wj633iu",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210421105200-wj633iu"
+					},
+					"Children": [
+						{
+							"ID": "20210421105200-vosx8zw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210421105200-vosx8zw",
+								"updated": "20210421105449"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "注重逻辑——务要讲清楚"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

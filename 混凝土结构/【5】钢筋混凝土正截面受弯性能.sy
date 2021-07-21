@@ -1,0 +1,543 @@
+{
+	"ID": "20210415094845-av5hnjs",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210415094845-av5hnjs",
+		"title": "【5】钢筋混凝土正截面受弯性能",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210415094845-zamjx6r",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210415094845-zamjx6r",
+				"updated": "20210415094853"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "钢筋混凝土正截面受弯性能"
+				}
+			]
+		},
+		{
+			"ID": "20210721101607-hj91mjo",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721101607-hj91mjo"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "[toc]"
+				}
+			]
+		},
+		{
+			"ID": "20210415094903-melhbsx",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210415094903-melhbsx",
+				"updated": "20210415095509"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "正截面承载力计算——适筋梁极限弯矩"
+				}
+			]
+		},
+		{
+			"ID": "20210415095510-cxo9caw",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210415095510-cxo9caw",
+				"updated": "20210415095516"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "基本假定"
+				}
+			]
+		},
+		{
+			"ID": "20210415095516-hpyp8o9",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210415095516-hpyp8o9",
+				"updated": "20210415095519"
+			},
+			"Children": [
+				{
+					"ID": "20210415095519-p2zlycb",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210415095519-p2zlycb"
+					},
+					"Children": [
+						{
+							"ID": "20210415095519-fqr5u52",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210415095519-fqr5u52",
+								"updated": "20210415095526"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "截面应变保持平面"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210415095526-ovwqrwm",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210415095526-ovwqrwm"
+					},
+					"Children": [
+						{
+							"ID": "20210415095526-slg2011",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210415095526-slg2011",
+								"updated": "20210415095531"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "不考虑混凝土抗拉强度"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210415095531-u7fpwoj",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210415095531-u7fpwoj"
+					},
+					"Children": [
+						{
+							"ID": "20210415095531-amgc8rh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210415095531-amgc8rh",
+								"updated": "20210415095539"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "混凝土的受压应力-应变关系"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210415095539-hyfd0g6",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210415095539-hyfd0g6"
+					},
+					"Children": [
+						{
+							"ID": "20210415095539-r8mp2pf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210415095539-r8mp2pf",
+								"updated": "20210415095557"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "钢筋的应力-应变关系，受拉钢筋的极限拉应变取0.01"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210415095558-znhgt8d",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210415095558-znhgt8d",
+				"updated": "20210415095754"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "配筋率的问题"
+				}
+			]
+		},
+		{
+			"ID": "20210415095754-lvbh9qz",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210415095754-lvbh9qz",
+				"updated": "20210415095807"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\rho=\\frac{A_s}{bh}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210415095810-bw9gg08",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210415095810-bw9gg08",
+				"updated": "20210415095826"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\rho=\\frac{A_s}{bh_0}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210415095828-o6ehkc7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210415095828-o6ehkc7",
+				"updated": "20210415095930"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "上式与开裂及经济性相关"
+				}
+			]
+		},
+		{
+			"ID": "20210415095839-4rfev2y",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210415095839-4rfev2y",
+				"updated": "20210415095857"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "下式常与承载力相关"
+				}
+			]
+		},
+		{
+			"ID": "20210415095903-jto0k02",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210415095903-jto0k02",
+				"updated": "20210415102742"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "关键问题"
+				}
+			]
+		},
+		{
+			"ID": "20210415102742-n2u974p",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210415102742-n2u974p",
+				"updated": "20210415102752"
+			},
+			"Children": [
+				{
+					"ID": "20210415102752-5mp5m6n",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210415102752-5mp5m6n"
+					},
+					"Children": [
+						{
+							"ID": "20210415102752-hww94se",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210415102752-hww94se",
+								"updated": "20210415102936"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "平截面假定（"
+								},
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\varepsilon \\rightarrow \\sigma"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": ")"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210415102933-upf5i6c",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210415102933-upf5i6c"
+					},
+					"Children": [
+						{
+							"ID": "20210415102936-q8od594",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210415102936-q8od594",
+								"updated": "20210415105315"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "将复杂的曲线变为等效矩形"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210415103653-ju5bsj9",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210415103653-ju5bsj9",
+				"updated": "20210415110247"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\xi=\\frac{x}{h_0}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210415110249-qu9400i",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 3,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "Mw==",
+				"Num": 3
+			},
+			"Properties": {
+				"id": "20210415110249-qu9400i",
+				"updated": "20210415110253"
+			},
+			"Children": [
+				{
+					"ID": "20210415110253-4jlsfen",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210415110253-4jlsfen"
+					},
+					"Children": [
+						{
+							"ID": "20210415110253-g9jergt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210415110253-g9jergt",
+								"updated": "20210415110306"
+							},
+							"Children": [
+								{
+									"Type": "NodeInlineMath",
+									"Children": [
+										{
+											"Type": "NodeInlineMathOpenMarker"
+										},
+										{
+											"Type": "NodeInlineMathContent",
+											"Data": "\\xi"
+										},
+										{
+											"Type": "NodeInlineMathCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "为相对受拉区高度"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210415110640-nemo06x",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210415110640-nemo06x"
+			}
+		},
+		{
+			"ID": "20210415111754-d4b2zuo",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210415111754-d4b2zuo"
+			}
+		}
+	]
+}

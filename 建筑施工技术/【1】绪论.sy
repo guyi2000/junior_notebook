@@ -1,0 +1,622 @@
+{
+	"ID": "20210305095435-5ttcbbs",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210305095435-5ttcbbs",
+		"title": "【1】绪论",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210305095435-8mqp17z",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210305095435-8mqp17z"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "绪论"
+				}
+			]
+		},
+		{
+			"ID": "20210721101553-nyzgklx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721101553-nyzgklx"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "[toc]"
+				}
+			]
+		},
+		{
+			"ID": "20210305095435-42kqkkl",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305095435-42kqkkl"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "土木工程施工"
+				}
+			]
+		},
+		{
+			"ID": "20210305095435-59fmei1",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305095435-59fmei1"
+			},
+			"Children": [
+				{
+					"ID": "20210305095435-mwonbd1",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305095435-mwonbd1"
+					},
+					"Children": [
+						{
+							"ID": "20210305095435-cq1b7xw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305095435-cq1b7xw"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "工程施工 = 科学 + 技术 + 管理"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305095435-v2fczw9",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305095435-v2fczw9"
+					},
+					"Children": [
+						{
+							"ID": "20210305095435-amugoab",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305095435-amugoab"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "智能建造是建筑业的新方向新动能"
+								}
+							]
+						},
+						{
+							"ID": "20210305095435-60nxzfd",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305095435-60nxzfd"
+							},
+							"Children": [
+								{
+									"ID": "20210305095435-l7laaoo",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305095435-l7laaoo"
+									},
+									"Children": [
+										{
+											"ID": "20210305095435-nl85304",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305095435-nl85304"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "以工业化为手段、以信息化为技术支撑、以绿色建造为发展方向"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305095435-kbqt8rb",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305095435-kbqt8rb"
+									},
+									"Children": [
+										{
+											"ID": "20210305095435-bkgjcr4",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305095435-bkgjcr4"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "有效发挥信息共享和集成优势"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210305095435-5u6su7t",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305095435-5u6su7t"
+					},
+					"Children": [
+						{
+							"ID": "20210305095435-p4t7owa",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305095435-p4t7owa"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "“智慧工地”"
+								}
+							]
+						},
+						{
+							"ID": "20210305095435-6nuqlt0",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210305095435-6nuqlt0"
+							},
+							"Children": [
+								{
+									"ID": "20210305095435-3ffsq9e",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305095435-3ffsq9e"
+									},
+									"Children": [
+										{
+											"ID": "20210305095435-92xlesa",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305095435-92xlesa"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "协同与信息共享"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305095435-wvmm5rf",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305095435-wvmm5rf"
+									},
+									"Children": [
+										{
+											"ID": "20210305095435-iv9kms3",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305095435-iv9kms3"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "数字化、在线化、智能化、精细化"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210305095435-p6ot3pg",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210305095435-p6ot3pg"
+									},
+									"Children": [
+										{
+											"ID": "20210305095435-w8l9uvo",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210305095435-w8l9uvo"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "劳务、质量安全、智能监控、进度管理、施工模拟"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305095435-l95mirt",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305095435-l95mirt"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "课程对象"
+				}
+			]
+		},
+		{
+			"ID": "20210305095435-qw36chj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210305095435-qw36chj"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Children": [
+						{
+							"Type": "NodeBang",
+							"Data": "!"
+						},
+						{
+							"Type": "NodeOpenBracket",
+							"Data": "["
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image-20210224163131362"
+						},
+						{
+							"Type": "NodeCloseBracket",
+							"Data": "]"
+						},
+						{
+							"Type": "NodeOpenParen",
+							"Data": "("
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "%E3%80%901%E3%80%91%E7%BB%AA%E8%AE%BA.assets/image-20210224163131362.png"
+						},
+						{
+							"Type": "NodeCloseParen",
+							"Data": ")"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305095435-3pm12hc",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305095435-3pm12hc"
+			},
+			"Children": [
+				{
+					"ID": "20210305095435-epantu5",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305095435-epantu5"
+					},
+					"Children": [
+						{
+							"ID": "20210305095435-tro2nv0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305095435-tro2nv0"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "“"
+								},
+								{
+									"Type": "NodeStrong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "备料"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "” + "
+								},
+								{
+									"Type": "NodeStrong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "有效组织"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305095435-gap98l5",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210305095435-gap98l5"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "课程内容"
+				}
+			]
+		},
+		{
+			"ID": "20210305095437-j0299l6",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210305095437-j0299l6",
+				"updated": "20210305095833"
+			},
+			"Children": [
+				{
+					"ID": "20210305095435-r8ev8o2",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210305095435-r8ev8o2"
+					},
+					"Children": [
+						{
+							"ID": "20210305095435-ego0hkj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210305095435-ego0hkj",
+								"updated": "20210305101907"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "主要"
+								},
+								{
+									"Type": "NodeStrong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "工种工程"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "的"
+								},
+								{
+									"Type": "NodeMark",
+									"Children": [
+										{
+											"Type": "NodeMark2OpenMarker",
+											"Data": "=="
+										},
+										{
+											"Type": "NodeText",
+											"Data": "施工特点"
+										},
+										{
+											"Type": "NodeMark2CloseMarker",
+											"Data": "=="
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "和"
+								},
+								{
+									"Type": "NodeMark",
+									"Children": [
+										{
+											"Type": "NodeMark2OpenMarker",
+											"Data": "=="
+										},
+										{
+											"Type": "NodeText",
+											"Data": "具体施工方法"
+										},
+										{
+											"Type": "NodeMark2CloseMarker",
+											"Data": "=="
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210305233121-sm9ns5o",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210305233121-sm9ns5o"
+			}
+		}
+	]
+}

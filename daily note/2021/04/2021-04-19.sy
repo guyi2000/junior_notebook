@@ -1,0 +1,58 @@
+{
+	"ID": "20210419113747-04s2311",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210419113747-04s2311",
+		"title": "2021-04-19",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210419113747-yehczkj",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210419113747-yehczkj",
+				"updated": "20210419113940"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\varphi=\\frac{\\sigma_0}{f_y}=\\frac{1}{2\\lambda^2_n}\\left[(1+\\varepsilon_0+\\lambda_n^2)-\\sqrt{(1+\\varepsilon_0+\\lambda_n^2 )^2 -4\\lambda_n^2}\\right]"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210419113927-s9bc7ps",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210419113927-s9bc7ps",
+				"updated": "20210419114031"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "\\lambda_n=\\frac{\\lambda}{\\pi}\\sqrt{\\frac{f_y}{E}}=\\sqrt{\\frac{Af_y}{N_{cr}}}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210419192012-y4vcqc0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210419192012-y4vcqc0"
+			}
+		}
+	]
+}

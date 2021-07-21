@@ -1,0 +1,1799 @@
+{
+	"ID": "20210327021333-pf1ziu9",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210327021333-pf1ziu9",
+		"title": "week5",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210327021149-crwz2yx",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210327021149-crwz2yx",
+				"updated": "20210327012448"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "装配式建筑施工"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-p4cimcs",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210327021149-p4cimcs",
+				"updated": "20210326232031"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "装配式建筑施工流程"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-otnv7lf",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210327021149-otnv7lf",
+				"updated": "20210326232407"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "外墙安装"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-b6v7pir",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210327021149-b6v7pir",
+				"updated": "20210326232416"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "预制墙板吊装"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-uchmtk8",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210327021149-uchmtk8",
+				"updated": "20210326232103"
+			},
+			"Children": [
+				{
+					"ID": "20210327021149-hfdke33",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-hfdke33"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-sysoy0i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-sysoy0i",
+								"updated": "20210326232107"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "测量放线"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-90gdluw",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-90gdluw"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-3izypi2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-3izypi2",
+								"updated": "20210326232128"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "复核预留钢筋定位和垂直度"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-8m2zdol",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-8m2zdol"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-658w7vt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-658w7vt",
+								"updated": "20210326232152"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "放置钢垫片，用水准仪复核标高"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-0ap5f9q",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-0ap5f9q"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-gtv3ncz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-gtv3ncz",
+								"updated": "20210326232223"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "距楼面1m高度时采用人工手扶缓慢下落"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-hh8vw8n",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-hh8vw8n"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-rmmodfy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-rmmodfy",
+								"updated": "20210326232243"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "用镜子观察预留钢筋是否对孔"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-692xu9j",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-692xu9j"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-suq16rb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-suq16rb",
+								"updated": "20210326232300"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "正确对孔后缓慢下落就位"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-tu37d0f",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-tu37d0f"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-dsdlce2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-dsdlce2",
+								"updated": "20210326232320"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "安装斜支撑、7字码"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-kqdlybs",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-kqdlybs"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-xfm7kwm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-xfm7kwm",
+								"updated": "20210326232337"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "校正墙体定位和垂直度"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-s5vumdd",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-s5vumdd"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-5i8iyiq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-5i8iyiq",
+								"updated": "20210326232349"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "摘钩"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-ckk8yuc",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210327021149-ckk8yuc",
+				"updated": "20210326232423"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "塞缝"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-2y93e6i",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210327021149-2y93e6i",
+				"updated": "20210326232439"
+			},
+			"Children": [
+				{
+					"ID": "20210327021149-sfz5i9l",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-sfz5i9l"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-r8wau3h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-r8wau3h",
+								"updated": "20210326232458"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "采用干硬性水泥砂浆灌浆料进行封堵和分仓"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-avcq0cg",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210327021149-avcq0cg",
+				"updated": "20210327012420"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "套筒灌浆"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-wo3mntn",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210327021149-wo3mntn",
+				"updated": "20210326232615"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "整体自升式爬架"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-r7hhs5i",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210327021149-r7hhs5i",
+				"updated": "20210326232637"
+			},
+			"Children": [
+				{
+					"ID": "20210327021149-9p2ky3a",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-9p2ky3a"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-usgplqc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-usgplqc",
+								"updated": "20210326232642"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "预制剪力墙预埋套筒"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-vokbruw",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-vokbruw"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-onmn5qi",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-onmn5qi",
+								"updated": "20210326232709"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "爬架附着件-爬架导座"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-7m1x9fb",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210327021149-7m1x9fb",
+				"updated": "20210326232727"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "铝模安装、加固"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-lw403gu",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210327021149-lw403gu",
+				"updated": "20210326232748"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "叠合墙板安装"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-yv2kvwg",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210327021149-yv2kvwg",
+				"updated": "20210326232753"
+			},
+			"Children": [
+				{
+					"ID": "20210327021149-7rdwcsn",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-7rdwcsn"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-k0bfzdj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-k0bfzdj",
+								"updated": "20210326232809"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "外墙安装同时将叠合梁、板支撑安装完毕"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-5sred9a",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-5sred9a"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-jjjvno0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-jjjvno0",
+								"updated": "20210326232836"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "依次吊装叠合梁、板到预先指定位置"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-4rq1lm6",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-4rq1lm6"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-m8fp77q",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-m8fp77q",
+								"updated": "20210326232856"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "穿插钢筋绑扎、水电管线预留预埋"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-lvhokw3",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-lvhokw3"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-d87qrqr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-d87qrqr",
+								"updated": "20210327012405"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "绑扎板面钢筋"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-sr7des1",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210327021149-sr7des1",
+				"updated": "20210327013142"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "精度要求和控制方法"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-6feosao",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210327021149-6feosao",
+				"updated": "20210327013152"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "精度要求"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-pvw6s52",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210327021149-pvw6s52",
+				"updated": "20210327013144"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Children": [
+						{
+							"Type": "NodeBang",
+							"Data": "!"
+						},
+						{
+							"Type": "NodeOpenBracket",
+							"Data": "["
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket",
+							"Data": "]"
+						},
+						{
+							"Type": "NodeOpenParen",
+							"Data": "("
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20210327012737-qmu6g1u.png"
+						},
+						{
+							"Type": "NodeCloseParen",
+							"Data": ")"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-4f4qniw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210327021149-4f4qniw",
+				"updated": "20210327012748"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Children": [
+						{
+							"Type": "NodeBang",
+							"Data": "!"
+						},
+						{
+							"Type": "NodeOpenBracket",
+							"Data": "["
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image.png"
+						},
+						{
+							"Type": "NodeCloseBracket",
+							"Data": "]"
+						},
+						{
+							"Type": "NodeOpenParen",
+							"Data": "("
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20210327012731-1ni9stj.png"
+						},
+						{
+							"Type": "NodeCloseParen",
+							"Data": ")"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-ht09fa7",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210327021149-ht09fa7",
+				"updated": "20210327013200"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "精度控制方法"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-f6ug3ct",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210327021149-f6ug3ct",
+				"updated": "20210327013202"
+			},
+			"Children": [
+				{
+					"ID": "20210327021149-jd5p80w",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-jd5p80w"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-tr3yho4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-tr3yho4",
+								"updated": "20210327013833"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "测量：卷尺、水平尺、铅锤、水准仪"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-x5a7ehc",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-x5a7ehc"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-uu9z6r5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-uu9z6r5",
+								"updated": "20210327014326"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "调整：斜支撑、L形卡码"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-vfc6y9i",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210327021149-vfc6y9i",
+				"updated": "20210327014006"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "存在的问题"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-79m4ik9",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210327021149-79m4ik9",
+				"updated": "20210327014012"
+			},
+			"Children": [
+				{
+					"ID": "20210327021149-gktulmt",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-gktulmt"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-pjbgflc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-pjbgflc",
+								"updated": "20210327014039"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "使用AR进行模型实时显示的必要性"
+								}
+							]
+						},
+						{
+							"ID": "20210327021149-tiqkgsq",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210327021149-tiqkgsq"
+							},
+							"Children": [
+								{
+									"ID": "20210327021149-vmjupwp",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210327021149-vmjupwp"
+									},
+									"Children": [
+										{
+											"ID": "20210327021149-3jsrvdy",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210327021149-3jsrvdy",
+												"updated": "20210327014550"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "模型实时显示的主要作用：面向人的可视化"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210327021149-urkge47",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210327021149-urkge47"
+									},
+									"Children": [
+										{
+											"ID": "20210327021149-p99te9j",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210327021149-p99te9j",
+												"updated": "20210327014715"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "给出辅助安装指导意见的目的：绕开人的经验判断，直接给出调整意见"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-hh9yrcb",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-hh9yrcb"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-6s68e82",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-6s68e82",
+								"updated": "20210327014213"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "“辅助安装的指导意见”的具体程度"
+								}
+							]
+						},
+						{
+							"ID": "20210327021149-9041kf5",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210327021149-9041kf5"
+							},
+							"Children": [
+								{
+									"ID": "20210327021149-voxvbs3",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210327021149-voxvbs3"
+									},
+									"Children": [
+										{
+											"ID": "20210327021149-gkpso79",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210327021149-gkpso79",
+												"updated": "20210327014413"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "具体到效果层面——“墙板顺时针微调1度”——指导与操作割裂，仍需加入经验判断"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210327021149-wsumuz8",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210327021149-wsumuz8"
+									},
+									"Children": [
+										{
+											"ID": "20210327021149-usfn2ne",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210327021149-usfn2ne",
+												"updated": "20210327020837"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "具体到操作层面——“2号斜支撑拧3圈”——更智能，但需要与具体的调节方式联系起来"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-y3zykfh",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210327021149-y3zykfh",
+				"updated": "20210327014810"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "目前对实现方式的一些想法"
+				}
+			]
+		},
+		{
+			"ID": "20210327021149-t0ioqew",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210327021149-t0ioqew",
+				"updated": "20210327014812"
+			},
+			"Children": [
+				{
+					"ID": "20210327021149-53nidjm",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-53nidjm"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-6fho23x",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-6fho23x",
+								"updated": "20210327014858"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "基本思路"
+								}
+							]
+						},
+						{
+							"ID": "20210327021149-3tsfozc",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210327021149-3tsfozc"
+							},
+							"Children": [
+								{
+									"ID": "20210327021149-g6gt13c",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210327021149-g6gt13c"
+									},
+									"Children": [
+										{
+											"ID": "20210327021149-u0djvs8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210327021149-u0djvs8",
+												"updated": "20210327014903"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "在刚性构件上选取两个控制点形成特征向量，表示构件的空间位置；"
+												}
+											]
+										},
+										{
+											"ID": "20210327021149-mze9cxr",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210327021149-mze9cxr"
+											},
+											"Children": [
+												{
+													"ID": "20210327021149-gjjhuvi",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210327021149-gjjhuvi"
+													},
+													"Children": [
+														{
+															"ID": "20210327021149-vqrki6g",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210327021149-vqrki6g",
+																"updated": "20210327015430"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "设计阶段，在构件信息中附加"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210327021149-5me525i",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210327021149-5me525i"
+													},
+													"Children": [
+														{
+															"ID": "20210327021149-yo7rxxm",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210327021149-yo7rxxm",
+																"updated": "20210327015559"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "或直接选取构件角点等"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210327021149-vcw83xx",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210327021149-vcw83xx"
+									},
+									"Children": [
+										{
+											"ID": "20210327021149-agar5dp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210327021149-agar5dp",
+												"updated": "20210327015405"
+											},
+											"Children": [
+												{
+													"Type": "NodeMark",
+													"Children": [
+														{
+															"Type": "NodeMark2OpenMarker",
+															"Data": "=="
+														},
+														{
+															"Type": "NodeText",
+															"Data": "实时捕捉"
+														},
+														{
+															"Type": "NodeMark2CloseMarker",
+															"Data": "=="
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "控制点的实际空间位置，直接比对实际的特征向量和理论的特征向量；"
+												}
+											]
+										},
+										{
+											"ID": "20210327021149-42lb0kl",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210327021149-42lb0kl"
+											},
+											"Children": [
+												{
+													"ID": "20210327021149-xdo78nz",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210327021149-xdo78nz"
+													},
+													"Children": [
+														{
+															"ID": "20210327021149-65xfrer",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210327021149-65xfrer",
+																"updated": "20210327015555"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "如何识别控制点：预埋标记or直接识别构件角点"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210327021149-k1ssxp7",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210327021149-k1ssxp7"
+													},
+													"Children": [
+														{
+															"ID": "20210327021149-8878od5",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210327021149-8878od5",
+																"updated": "20210327015644"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "如何定位控制点：激光测距？深感相机？"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210327021149-lqldq0e",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210327021149-lqldq0e"
+									},
+									"Children": [
+										{
+											"ID": "20210327021149-03movw9",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210327021149-03movw9",
+												"updated": "20210327015721"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "依据规范和要求，对两个向量之间的偏差设定限值；"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210327021149-0veg8gh",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210327021149-0veg8gh"
+									},
+									"Children": [
+										{
+											"ID": "20210327021149-spx6e6v",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210327021149-spx6e6v",
+												"updated": "20210327015118"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "根据两个向量之间的偏差，分解得到构件的最优调整策略；"
+												}
+											]
+										},
+										{
+											"ID": "20210327021149-hy4r12q",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210327021149-hy4r12q"
+											},
+											"Children": [
+												{
+													"ID": "20210327021149-xd1dbi2",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210327021149-xd1dbi2"
+													},
+													"Children": [
+														{
+															"ID": "20210327021149-pax8dzo",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210327021149-pax8dzo",
+																"updated": "20210327015951"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "算法实现"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210327021149-n5p1zct",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210327021149-n5p1zct"
+									},
+									"Children": [
+										{
+											"ID": "20210327021149-otbkwea",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210327021149-otbkwea",
+												"updated": "20210327015206"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "（进一步地）将调整策略与实际采用的调整方法对应（如斜支撑），给出“傻瓜式”的操作指导。"
+												}
+											]
+										},
+										{
+											"ID": "20210327021149-gwxxujx",
+											"Type": "NodeList",
+											"ListData": {
+												"Tight": true,
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210327021149-gwxxujx"
+											},
+											"Children": [
+												{
+													"ID": "20210327021149-25v5oua",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"Tight": true,
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210327021149-25v5oua"
+													},
+													"Children": [
+														{
+															"ID": "20210327021149-n63mj0m",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210327021149-n63mj0m",
+																"updated": "20210327020018"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "可能需要新纳入较多信息"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210327021149-xxtto8k",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210327021149-xxtto8k"
+					},
+					"Children": [
+						{
+							"ID": "20210327021149-e96w9bc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210327021149-e96w9bc",
+								"updated": "20210327015217"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "需要考虑的问题"
+								}
+							]
+						},
+						{
+							"ID": "20210327021149-0qpe0b0",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210327021149-0qpe0b0"
+							},
+							"Children": [
+								{
+									"ID": "20210327021149-tsmmt6l",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210327021149-tsmmt6l"
+									},
+									"Children": [
+										{
+											"ID": "20210327021149-zz1davp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210327021149-zz1davp",
+												"updated": "20210327020819"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "考虑预制构件的制造误差，可能需要选取两个以上的控制点，用于核验"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

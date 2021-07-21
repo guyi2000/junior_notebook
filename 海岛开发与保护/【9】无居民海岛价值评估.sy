@@ -1,0 +1,3554 @@
+{
+	"ID": "20210427192118-dw9l6zd",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210427192118-dw9l6zd",
+		"title": "【9】无居民海岛价值评估",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210427192118-ugnwctv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210427192118-ugnwctv",
+				"updated": "20210427192134"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "无居民海岛价值评估"
+				}
+			]
+		},
+		{
+			"ID": "20210721101605-6jyc3oy",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721101605-6jyc3oy"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "[toc]"
+				}
+			]
+		},
+		{
+			"ID": "20210427192134-3hadj8k",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210427192134-3hadj8k",
+				"updated": "20210427193855"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "为什么"
+				}
+			]
+		},
+		{
+			"ID": "20210427192139-ldf7nqe",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210427192139-ldf7nqe",
+				"updated": "20210427192141"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e "
+				},
+				{
+					"ID": "20210427192141-at2zxzl",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210427192141-at2zxzl",
+						"updated": "20210427192300"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "《中华人民共和国海岛保护法》实施前，大部分海岛是"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "无偿或低偿"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "使用，海岛未能实现其经济价值，造成了国有资源型资产流失。"
+						}
+					]
+				},
+				{
+					"ID": "20210427192311-xhpchls",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210427192311-xhpchls",
+						"updated": "20210427192509"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "2018年，国家海洋局发布《关于海域、无居民海岛有偿使用的意见》，明确到2020年，基本建立"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "保护优先、产权明晰、权能丰富、规则完善、监管有效"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "的海域、无居民海岛有偿使用制度。"
+						}
+					]
+				},
+				{
+					"ID": "20210427192355-6bydwig",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210427192355-6bydwig",
+						"updated": "20210427192531"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "完善用海用岛市场化配置制度……"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "制定海域、无居民海岛招拍挂出让管理办法"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，明确……"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427192304-i7sk86u",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210427192304-i7sk86u",
+				"updated": "20210427192550"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "目的"
+				}
+			]
+		},
+		{
+			"ID": "20210427192551-o7xpq6x",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210427192551-o7xpq6x",
+				"updated": "20210427192552"
+			},
+			"Children": [
+				{
+					"ID": "20210427192552-zv91e5z",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210427192552-zv91e5z"
+					},
+					"Children": [
+						{
+							"ID": "20210427192552-ne7rlmx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427192552-ne7rlmx",
+								"updated": "20210427192559"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海岛开发与利用的前提"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427192620-qot1c3s",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210427192620-qot1c3s",
+				"updated": "20210427192621"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e "
+				},
+				{
+					"ID": "20210427192621-ui5th60",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210427192621-ui5th60",
+						"updated": "20210427192646"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "只有在对海岛进行价值评估的前提下，才能合理进行海岛开发"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427192647-xcyw2gc",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 2,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "Mg==",
+				"Num": 2
+			},
+			"Properties": {
+				"id": "20210427192647-xcyw2gc",
+				"updated": "20210427192648"
+			},
+			"Children": [
+				{
+					"ID": "20210427192648-m63w26y",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210427192648-m63w26y"
+					},
+					"Children": [
+						{
+							"ID": "20210427192648-8q5ln4l",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427192648-8q5ln4l",
+								"updated": "20210427192705"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "维护国家与用岛人权益"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427192716-zlv1jge",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210427192716-zlv1jge",
+				"updated": "20210427192717"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e "
+				},
+				{
+					"ID": "20210427192717-geehegz",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210427192717-geehegz",
+						"updated": "20210427192937"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "为了维护海岛国家所有权和用岛单位使用权的利益，客观上要求具有"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "中立立场"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "的评估单位，采用统一的评估原则、程序、方法，公开、公正地评估海岛价值，既能对海岛的开发和利用有个方向性的认识，又能有效维护利益各方的合法权益。"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427192906-vgez0ul",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210427192906-vgez0ul",
+				"updated": "20210427192908"
+			},
+			"Children": [
+				{
+					"ID": "20210427192908-fqz9kfb",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427192908-fqz9kfb"
+					},
+					"Children": [
+						{
+							"ID": "20210427192908-mpmk5y8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427192908-mpmk5y8",
+								"updated": "20210427192914"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "评估单位的报酬"
+								}
+							]
+						},
+						{
+							"ID": "20210427192919-8xz1ida",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210427192919-8xz1ida"
+							},
+							"Children": [
+								{
+									"ID": "20210427192918-ew3yb9i",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210427192918-ew3yb9i"
+									},
+									"Children": [
+										{
+											"ID": "20210427192918-gw5kmof",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427192918-gw5kmof",
+												"updated": "20210427192933"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "国家支付与用岛人支付均不合理"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427192944-f8mqjn0",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 3,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "Mw==",
+				"Num": 3
+			},
+			"Properties": {
+				"id": "20210427192944-f8mqjn0",
+				"updated": "20210427193206"
+			},
+			"Children": [
+				{
+					"ID": "20210427193206-12t1t9a",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210427193206-12t1t9a"
+					},
+					"Children": [
+						{
+							"ID": "20210427193206-69hs1yj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427193206-69hs1yj",
+								"updated": "20210427193217"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "促进海岛资源生态保护的重要手段"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427193222-s5yfshr",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210427193222-s5yfshr",
+				"updated": "20210427193224"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e "
+				},
+				{
+					"ID": "20210427193224-ew2jtvi",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210427193224-ew2jtvi",
+						"updated": "20210427193344"
+					},
+					"Children": [
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "海岛价值的核心"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "是其拥有陆地环境所不具有的"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "海岛生态价值"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "。"
+						}
+					]
+				},
+				{
+					"ID": "20210427193250-7wq5hgq",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210427193250-7wq5hgq",
+						"updated": "20210427193347"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "通过海岛价值全面的评估，"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "调节海岛环境保护与开发利用之间的矛盾，提高海岛资源的使用效益，能更好地保护海岛生态，实现海岛资源的可持续利用。"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427193438-2qkj2i6",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210427193438-2qkj2i6",
+				"updated": "20210427193444"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "原则"
+				}
+			]
+		},
+		{
+			"ID": "20210427193445-nsftgpl",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210427193445-nsftgpl",
+				"updated": "20210427193449"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"CodeMarkerLen": 1,
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker",
+							"Data": "`"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "科学调查"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker",
+							"Data": "`"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427193449-zn43xy2",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20210427193449-zn43xy2",
+				"updated": "20210427193451"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e "
+				},
+				{
+					"ID": "20210427193451-qy8svxa",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210427193451-qy8svxa",
+						"updated": "20210427193658"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "海岛价值评估是一项科学性非常强的工作，每个海岛都有自己的特点，对海岛进行评估，"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "需要进行详细的科学调查和论证"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "，而不能简单地以资料为依据。"
+						}
+					]
+				},
+				{
+					"ID": "20210427193549-y33iw40",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20210427193549-y33iw40",
+						"updated": "20210427193647"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "对海岛开发的具体内容、开发规模、开发方式、经济效益以及岛屿开发后的变化情况、岛屿对周围环境的影响等方面做出详细的论证，"
+						},
+						{
+							"Type": "NodeStrong",
+							"Children": [
+								{
+									"Type": "NodeStrongA6kOpenMarker",
+									"Data": "**"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "以促进海岛资源的持续利用"
+								},
+								{
+									"Type": "NodeStrongA6kCloseMarker",
+									"Data": "**"
+								}
+							]
+						},
+						{
+							"Type": "NodeText",
+							"Data": "。"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427193824-vjvex7g",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210427193824-vjvex7g",
+				"updated": "20210427194016"
+			},
+			"Children": [
+				{
+					"ID": "20210427194016-r3k6938",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427194016-r3k6938"
+					},
+					"Children": [
+						{
+							"ID": "20210427194016-2q1h5tq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427194016-2q1h5tq",
+								"updated": "20210427194049"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海岛价值评估专业机构缺乏"
+								}
+							]
+						},
+						{
+							"ID": "20210427194028-p8bj6q0",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210427194028-p8bj6q0"
+							},
+							"Children": [
+								{
+									"ID": "20210427194027-ce4joya",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210427194027-ce4joya"
+									},
+									"Children": [
+										{
+											"ID": "20210427194027-5e2sou9",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427194027-5e2sou9",
+												"updated": "20210427194033"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "先进仪器"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210427194034-3ee2j4u",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210427194034-3ee2j4u"
+									},
+									"Children": [
+										{
+											"ID": "20210427194034-t274urq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427194034-t274urq",
+												"updated": "20210427194038"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "专业团队"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210427194038-hijx387",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210427194038-hijx387"
+									},
+									"Children": [
+										{
+											"ID": "20210427194038-cqsxyht",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427194038-cqsxyht",
+												"updated": "20210427194040"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "科学方法"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427194050-38qhf62",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210427194050-38qhf62",
+				"updated": "20210427194053"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "内容"
+				}
+			]
+		},
+		{
+			"ID": "20210427194055-06bbtm7",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210427194055-06bbtm7",
+				"updated": "20210427194056"
+			},
+			"Children": [
+				{
+					"ID": "20210427194056-nhpqaap",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210427194056-nhpqaap"
+					},
+					"Children": [
+						{
+							"ID": "20210427194056-0a92ms7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427194056-0a92ms7",
+								"updated": "20210427194437"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海岛价值评估的内容复杂"
+								}
+							]
+						},
+						{
+							"ID": "20210427194438-8tbwsmu",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210427194438-8tbwsmu",
+								"updated": "20210427194439"
+							},
+							"Children": [
+								{
+									"ID": "20210427194439-p3jadbv",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210427194439-p3jadbv"
+									},
+									"Children": [
+										{
+											"ID": "20210427194439-lg1ckwy",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427194439-lg1ckwy",
+												"updated": "20210427194507"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "不仅包括岛上各种资源的评估，还包括海岛生态资源的评估"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427194513-1zsmhhg",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210427194513-1zsmhhg"
+					},
+					"Children": [
+						{
+							"ID": "20210427194513-viovwvh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427194513-viovwvh",
+								"updated": "20210427194527"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海岛价值评估的内容呈现多样性、关联性"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427194537-61z1z7g",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210427194537-61z1z7g",
+				"updated": "20210427194546"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "具体内容"
+				}
+			]
+		},
+		{
+			"ID": "20210427194547-x5pmrxs",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210427194547-x5pmrxs",
+				"updated": "20210427194548"
+			},
+			"Children": [
+				{
+					"ID": "20210427194548-xtlqgr1",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210427194548-xtlqgr1"
+					},
+					"Children": [
+						{
+							"ID": "20210427194548-5ajs5zq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427194548-5ajs5zq",
+								"updated": "20210427194552"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "经济资源"
+								}
+							]
+						},
+						{
+							"ID": "20210427194820-rt4i1kr",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20210427194820-rt4i1kr",
+								"updated": "20210427194822"
+							},
+							"Children": [
+								{
+									"ID": "20210427194822-1q5wzmv",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20210427194822-1q5wzmv"
+									},
+									"Children": [
+										{
+											"ID": "20210427194822-5yj3ioq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427194822-5yj3ioq",
+												"updated": "20210427194825"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "淡水资源"
+												}
+											]
+										},
+										{
+											"ID": "20210427194826-h88h53t",
+											"Type": "NodeList",
+											"ListData": {
+												"BulletChar": 45,
+												"Padding": 2,
+												"Marker": "LQ==",
+												"Num": -1
+											},
+											"Properties": {
+												"id": "20210427194826-h88h53t",
+												"updated": "20210427194827"
+											},
+											"Children": [
+												{
+													"ID": "20210427194827-s83nw1v",
+													"Type": "NodeListItem",
+													"Data": "-",
+													"ListData": {
+														"BulletChar": 45,
+														"Padding": 2,
+														"Marker": "LQ==",
+														"Num": -1
+													},
+													"Properties": {
+														"id": "20210427194827-s83nw1v"
+													},
+													"Children": [
+														{
+															"ID": "20210427194827-vbzxk8g",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210427194827-vbzxk8g",
+																"updated": "20210427194837"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "可供利用或有可能被利用的水源"
+																}
+															]
+														},
+														{
+															"ID": "20210427195149-4bq49ht",
+															"Type": "NodeList",
+															"ListData": {
+																"Typ": 1,
+																"Tight": true,
+																"Start": 1,
+																"Delimiter": 46,
+																"Padding": 3,
+																"Marker": "MQ==",
+																"Num": 1
+															},
+															"Properties": {
+																"id": "20210427195149-4bq49ht",
+																"updated": "20210427195825"
+															},
+															"Children": [
+																{
+																	"ID": "20210427195825-1kh48w9",
+																	"Type": "NodeListItem",
+																	"Data": "1",
+																	"ListData": {
+																		"Typ": 1,
+																		"Tight": true,
+																		"Start": 1,
+																		"Delimiter": 46,
+																		"Padding": 3,
+																		"Marker": "MQ==",
+																		"Num": 1
+																	},
+																	"Properties": {
+																		"id": "20210427195825-1kh48w9"
+																	},
+																	"Children": [
+																		{
+																			"ID": "20210427195825-i9bnlr9",
+																			"Type": "NodeParagraph",
+																			"Properties": {
+																				"id": "20210427195825-i9bnlr9",
+																				"updated": "20210427195827"
+																			},
+																			"Children": [
+																				{
+																					"Type": "NodeText",
+																					"Data": "可以按照社会的需要提供或有可能提供的水量"
+																				}
+																			]
+																		}
+																	]
+																},
+																{
+																	"ID": "20210427195828-9twxtt2",
+																	"Type": "NodeListItem",
+																	"Data": "2",
+																	"ListData": {
+																		"Typ": 1,
+																		"Tight": true,
+																		"Start": 2,
+																		"Delimiter": 46,
+																		"Padding": 3,
+																		"Marker": "Mg==",
+																		"Num": 2
+																	},
+																	"Properties": {
+																		"id": "20210427195828-9twxtt2"
+																	},
+																	"Children": [
+																		{
+																			"ID": "20210427195828-g7hal05",
+																			"Type": "NodeParagraph",
+																			"Properties": {
+																				"id": "20210427195828-g7hal05",
+																				"updated": "20210427195830"
+																			},
+																			"Children": [
+																				{
+																					"Type": "NodeText",
+																					"Data": "水量有可靠的来源，且来源可以通过循环不断得到更新或补充"
+																				}
+																			]
+																		}
+																	]
+																},
+																{
+																	"ID": "20210427195830-6j7tvzw",
+																	"Type": "NodeListItem",
+																	"Data": "3",
+																	"ListData": {
+																		"Typ": 1,
+																		"Tight": true,
+																		"Start": 3,
+																		"Delimiter": 46,
+																		"Padding": 3,
+																		"Marker": "Mw==",
+																		"Num": 3
+																	},
+																	"Properties": {
+																		"id": "20210427195830-6j7tvzw"
+																	},
+																	"Children": [
+																		{
+																			"ID": "20210427195830-bsxelzy",
+																			"Type": "NodeParagraph",
+																			"Properties": {
+																				"id": "20210427195830-bsxelzy",
+																				"updated": "20210427195831"
+																			},
+																			"Children": [
+																				{
+																					"Type": "NodeText",
+																					"Data": "水量可以由人工控制"
+																				}
+																			]
+																		}
+																	]
+																},
+																{
+																	"ID": "20210427195832-qwez1pe",
+																	"Type": "NodeListItem",
+																	"Data": "4",
+																	"ListData": {
+																		"Typ": 1,
+																		"Tight": true,
+																		"Start": 4,
+																		"Delimiter": 46,
+																		"Padding": 3,
+																		"Marker": "NA==",
+																		"Num": 4
+																	},
+																	"Properties": {
+																		"id": "20210427195832-qwez1pe"
+																	},
+																	"Children": [
+																		{
+																			"ID": "20210427195832-1e5cp1e",
+																			"Type": "NodeParagraph",
+																			"Properties": {
+																				"id": "20210427195832-1e5cp1e",
+																				"updated": "20210427195832"
+																			},
+																			"Children": [
+																				{
+																					"Type": "NodeText",
+																					"Data": "水量及其水质能够适应用水要求"
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210427195448-cv3om84",
+									"Type": "NodeListItem",
+									"Data": "2",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 2,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mg==",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20210427195448-cv3om84"
+									},
+									"Children": [
+										{
+											"ID": "20210427195447-3dp17va",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427195447-3dp17va",
+												"updated": "20210427195517"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "海洋生物资源（渔业资源）。已被利用或尚未开发利用但具有经济价值的水生动植物资源"
+												}
+											]
+										},
+										{
+											"ID": "20210427195525-nmldo9s",
+											"Type": "NodeList",
+											"ListData": {
+												"Typ": 1,
+												"Tight": true,
+												"Start": 1,
+												"Delimiter": 46,
+												"Padding": 3,
+												"Marker": "MQ==",
+												"Num": 1
+											},
+											"Properties": {
+												"id": "20210427195525-nmldo9s"
+											},
+											"Children": [
+												{
+													"ID": "20210427195523-zwbw7d9",
+													"Type": "NodeListItem",
+													"Data": "1",
+													"ListData": {
+														"Typ": 1,
+														"Tight": true,
+														"Start": 1,
+														"Delimiter": 46,
+														"Padding": 3,
+														"Marker": "MQ==",
+														"Num": 1
+													},
+													"Properties": {
+														"id": "20210427195523-zwbw7d9"
+													},
+													"Children": [
+														{
+															"ID": "20210427195523-g9jjd19",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210427195523-g9jjd19",
+																"updated": "20210427195539"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "一定面积的滩涂，海底平坦"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210427195539-x7tr0k1",
+													"Type": "NodeListItem",
+													"Data": "2",
+													"ListData": {
+														"Typ": 1,
+														"Tight": true,
+														"Start": 2,
+														"Delimiter": 46,
+														"Padding": 3,
+														"Marker": "Mg==",
+														"Num": 2
+													},
+													"Properties": {
+														"id": "20210427195539-x7tr0k1"
+													},
+													"Children": [
+														{
+															"ID": "20210427195539-g5gjclo",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210427195539-g5gjclo",
+																"updated": "20210427195548"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "周边海域的初级生产力高"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210427195548-n61xpi4",
+													"Type": "NodeListItem",
+													"Data": "3",
+													"ListData": {
+														"Typ": 1,
+														"Tight": true,
+														"Start": 3,
+														"Delimiter": 46,
+														"Padding": 3,
+														"Marker": "Mw==",
+														"Num": 3
+													},
+													"Properties": {
+														"id": "20210427195548-n61xpi4"
+													},
+													"Children": [
+														{
+															"ID": "20210427195548-10438xy",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210427195548-10438xy",
+																"updated": "20210427195605"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "海域风浪小，避风浪条件佳"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210427195606-13xnqcu",
+													"Type": "NodeListItem",
+													"Data": "4",
+													"ListData": {
+														"Typ": 1,
+														"Tight": true,
+														"Start": 4,
+														"Delimiter": 46,
+														"Padding": 3,
+														"Marker": "NA==",
+														"Num": 4
+													},
+													"Properties": {
+														"id": "20210427195606-13xnqcu"
+													},
+													"Children": [
+														{
+															"ID": "20210427195606-vd5aymb",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210427195606-vd5aymb",
+																"updated": "20210427195632"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "水深适中，水交换条件好，海水水质符合国家一类海水标准"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210427195632-a1pg8e2",
+													"Type": "NodeListItem",
+													"Data": "5",
+													"ListData": {
+														"Typ": 1,
+														"Tight": true,
+														"Start": 5,
+														"Delimiter": 46,
+														"Padding": 3,
+														"Marker": "NQ==",
+														"Num": 5
+													},
+													"Properties": {
+														"id": "20210427195632-a1pg8e2"
+													},
+													"Children": [
+														{
+															"ID": "20210427195632-qs1iuf9",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210427195632-qs1iuf9",
+																"updated": "20210427195636"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "海上运输业发达"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210427195638-w7nf68x",
+									"Type": "NodeListItem",
+									"Data": "3",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 3,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mw==",
+										"Num": 3
+									},
+									"Properties": {
+										"id": "20210427195638-w7nf68x"
+									},
+									"Children": [
+										{
+											"ID": "20210427195637-nwc81hq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427195637-nwc81hq",
+												"updated": "20210427195644"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "港口资源"
+												}
+											]
+										},
+										{
+											"ID": "20210427195659-iwd0uk2",
+											"Type": "NodeList",
+											"ListData": {
+												"Typ": 1,
+												"Tight": true,
+												"Start": 1,
+												"Delimiter": 46,
+												"Padding": 3,
+												"Marker": "MQ==",
+												"Num": 1
+											},
+											"Properties": {
+												"id": "20210427195659-iwd0uk2"
+											},
+											"Children": [
+												{
+													"ID": "20210427195658-fxylmvc",
+													"Type": "NodeListItem",
+													"Data": "1",
+													"ListData": {
+														"Typ": 1,
+														"Tight": true,
+														"Start": 1,
+														"Delimiter": 46,
+														"Padding": 3,
+														"Marker": "MQ==",
+														"Num": 1
+													},
+													"Properties": {
+														"id": "20210427195658-fxylmvc"
+													},
+													"Children": [
+														{
+															"ID": "20210427195658-0fd8tis",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210427195658-0fd8tis",
+																"updated": "20210427195721"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "是否具备优良的港口岸线条件"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210427195721-6zcbl82",
+													"Type": "NodeListItem",
+													"Data": "2",
+													"ListData": {
+														"Typ": 1,
+														"Tight": true,
+														"Start": 2,
+														"Delimiter": 46,
+														"Padding": 3,
+														"Marker": "Mg==",
+														"Num": 2
+													},
+													"Properties": {
+														"id": "20210427195721-6zcbl82"
+													},
+													"Children": [
+														{
+															"ID": "20210427195721-zxacy53",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210427195721-zxacy53",
+																"updated": "20210427195745"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "周边经济发展对开发无居民海岛港口是否有需求"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210427195746-52yui5y",
+													"Type": "NodeListItem",
+													"Data": "3",
+													"ListData": {
+														"Typ": 1,
+														"Tight": true,
+														"Start": 3,
+														"Delimiter": 46,
+														"Padding": 3,
+														"Marker": "Mw==",
+														"Num": 3
+													},
+													"Properties": {
+														"id": "20210427195746-52yui5y"
+													},
+													"Children": [
+														{
+															"ID": "20210427195746-ut1m1qt",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210427195746-ut1m1qt",
+																"updated": "20210427195755"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "海岛旅游资源开发是否需要建设港口"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210427195755-hs0jkn0",
+													"Type": "NodeListItem",
+													"Data": "4",
+													"ListData": {
+														"Typ": 1,
+														"Tight": true,
+														"Start": 4,
+														"Delimiter": 46,
+														"Padding": 3,
+														"Marker": "NA==",
+														"Num": 4
+													},
+													"Properties": {
+														"id": "20210427195755-hs0jkn0"
+													},
+													"Children": [
+														{
+															"ID": "20210427195755-w8k7ek0",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210427195755-w8k7ek0",
+																"updated": "20210427195810"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "是否具建设港口的经济价值"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210427195835-47ft86m",
+									"Type": "NodeListItem",
+									"Data": "4",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 4,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "NA==",
+										"Num": 4
+									},
+									"Properties": {
+										"id": "20210427195835-47ft86m"
+									},
+									"Children": [
+										{
+											"ID": "20210427195835-a3x5bzr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427195835-a3x5bzr",
+												"updated": "20210427195925"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "海岛旅游资源。指海岛能对游客产生吸引力的各种独特生态环境和自然资源的总和"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427194552-j0rgj5i",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210427194552-j0rgj5i"
+					},
+					"Children": [
+						{
+							"ID": "20210427194552-d0ujfyv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427194552-d0ujfyv",
+								"updated": "20210427194555"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "生态系统"
+								}
+							]
+						},
+						{
+							"ID": "20210427200048-azcv29y",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Tight": true,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20210427200048-azcv29y"
+							},
+							"Children": [
+								{
+									"ID": "20210427200048-aw5m6hf",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20210427200048-aw5m6hf"
+									},
+									"Children": [
+										{
+											"ID": "20210427200048-ie7slev",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427200048-ie7slev",
+												"updated": "20210427200147"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "海岛为海水所包围，与其他陆地区域相对隔绝，很少甚至没有人类活动干扰，每个海岛的自然环境条件具有唯一性，原始性和地域性特征"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210427200129-udrbk7y",
+									"Type": "NodeListItem",
+									"Data": "2",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 2,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mg==",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20210427200129-udrbk7y"
+									},
+									"Children": [
+										{
+											"ID": "20210427200129-k6nogff",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427200129-k6nogff",
+												"updated": "20210427200134"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "多种海洋生物"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427194555-tgw5lgy",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210427194555-tgw5lgy"
+					},
+					"Children": [
+						{
+							"ID": "20210427194555-q4sa51q",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427194555-q4sa51q",
+								"updated": "20210427194606"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "社会文化价值和科学文化价值"
+								}
+							]
+						},
+						{
+							"ID": "20210427200158-padlf9d",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Tight": true,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20210427200158-padlf9d"
+							},
+							"Children": [
+								{
+									"ID": "20210427200157-srqfebb",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20210427200157-srqfebb"
+									},
+									"Children": [
+										{
+											"ID": "20210427200157-791vmwx",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427200157-791vmwx",
+												"updated": "20210427200202"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "自然历史遗迹"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210427200204-brsqn5j",
+									"Type": "NodeListItem",
+									"Data": "2",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 2,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mg==",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20210427200204-brsqn5j"
+									},
+									"Children": [
+										{
+											"ID": "20210427200204-s7g8wz8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427200204-s7g8wz8",
+												"updated": "20210427200208"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "人类历史遗迹"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210427200208-zerm7xs",
+									"Type": "NodeListItem",
+									"Data": "3",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 3,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mw==",
+										"Num": 3
+									},
+									"Properties": {
+										"id": "20210427200208-zerm7xs"
+									},
+									"Children": [
+										{
+											"ID": "20210427200208-nxge1ip",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427200208-nxge1ip",
+												"updated": "20210427200212"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "遗留的军事设施"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427194606-aku89os",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210427194606-aku89os"
+					},
+					"Children": [
+						{
+							"ID": "20210427194606-mfxnmc8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427194606-mfxnmc8",
+								"updated": "20210427200355"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "战略价值"
+								},
+								{
+									"Type": "NodeSoftBreak",
+									"Data": "\n"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "对维护国家权益、巩固国防安全、促进国家经济发展具有重大影响的海岛"
+								}
+							]
+						},
+						{
+							"ID": "20210427200359-3uvr6ni",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210427200359-3uvr6ni",
+								"updated": "20210427200405"
+							},
+							"Children": [
+								{
+									"ID": "20210427200405-uaxb8b0",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210427200405-uaxb8b0"
+									},
+									"Children": [
+										{
+											"ID": "20210427200405-6f62vf9",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427200405-6f62vf9",
+												"updated": "20210427200411"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "海洋权益价值海岛"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210427200411-k6wrfj0",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210427200411-k6wrfj0"
+									},
+									"Children": [
+										{
+											"ID": "20210427200411-o19agg9",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427200411-o19agg9",
+												"updated": "20210427200416"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "国防安全价值海岛"
+												}
+											]
+										},
+										{
+											"ID": "20210427200443-zo6zo93",
+											"Type": "NodeList",
+											"ListData": {
+												"Typ": 1,
+												"Tight": true,
+												"Start": 1,
+												"Delimiter": 46,
+												"Padding": 3,
+												"Marker": "MQ==",
+												"Num": 1
+											},
+											"Properties": {
+												"id": "20210427200443-zo6zo93",
+												"updated": "20210427200445"
+											},
+											"Children": [
+												{
+													"ID": "20210427200445-m0o9u1p",
+													"Type": "NodeListItem",
+													"Data": "1",
+													"ListData": {
+														"Typ": 1,
+														"Tight": true,
+														"Start": 1,
+														"Delimiter": 46,
+														"Padding": 3,
+														"Marker": "MQ==",
+														"Num": 1
+													},
+													"Properties": {
+														"id": "20210427200445-m0o9u1p"
+													},
+													"Children": [
+														{
+															"ID": "20210427200445-b5egilr",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210427200445-b5egilr",
+																"updated": "20210427200451"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "军事海岛"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210427200451-y0m7if4",
+													"Type": "NodeListItem",
+													"Data": "2",
+													"ListData": {
+														"Typ": 1,
+														"Tight": true,
+														"Start": 2,
+														"Delimiter": 46,
+														"Padding": 3,
+														"Marker": "Mg==",
+														"Num": 2
+													},
+													"Properties": {
+														"id": "20210427200451-y0m7if4"
+													},
+													"Children": [
+														{
+															"ID": "20210427200451-d9uk7us",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210427200451-d9uk7us",
+																"updated": "20210427200456"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "国防前哨"
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20210427200457-w4h54ke",
+													"Type": "NodeListItem",
+													"Data": "3",
+													"ListData": {
+														"Typ": 1,
+														"Tight": true,
+														"Start": 3,
+														"Delimiter": 46,
+														"Padding": 3,
+														"Marker": "Mw==",
+														"Num": 3
+													},
+													"Properties": {
+														"id": "20210427200457-w4h54ke"
+													},
+													"Children": [
+														{
+															"ID": "20210427200457-2ykg6qb",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20210427200457-2ykg6qb",
+																"updated": "20210427200525"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "部分建有导航灯塔、海洋观测站设施的海岛"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427194609-a3nk8cr",
+					"Type": "NodeListItem",
+					"Data": "5",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 5,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NQ==",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20210427194609-a3nk8cr"
+					},
+					"Children": [
+						{
+							"ID": "20210427194609-dd90zcw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427194609-dd90zcw",
+								"updated": "20210427200624"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海岛社会环境"
+								},
+								{
+									"Type": "NodeSoftBreak",
+									"Data": "\n"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "海岛周边的社会经济发展、基础设施状况和开发海岛的科技水平，对海岛的保护和开发会产生重要的影响。"
+								}
+							]
+						},
+						{
+							"ID": "20210427200528-ke24g89",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1,
+								"Tight": true,
+								"Start": 1,
+								"Delimiter": 46,
+								"Padding": 3,
+								"Marker": "MQ==",
+								"Num": 1
+							},
+							"Properties": {
+								"id": "20210427200528-ke24g89"
+							},
+							"Children": [
+								{
+									"ID": "20210427200527-mdc0965",
+									"Type": "NodeListItem",
+									"Data": "1",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 1,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "MQ==",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20210427200527-mdc0965"
+									},
+									"Children": [
+										{
+											"ID": "20210427200527-0pyyw7v",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427200527-0pyyw7v",
+												"updated": "20210427200536"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "基础设施情况"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210427200537-xbitody",
+									"Type": "NodeListItem",
+									"Data": "2",
+									"ListData": {
+										"Typ": 1,
+										"Tight": true,
+										"Start": 2,
+										"Delimiter": 46,
+										"Padding": 3,
+										"Marker": "Mg==",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20210427200537-xbitody"
+									},
+									"Children": [
+										{
+											"ID": "20210427200537-rpk1tkm",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427200537-rpk1tkm",
+												"updated": "20210427200540"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "社会经济条件"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427195950-b267zp6",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210427195950-b267zp6",
+				"updated": "20210427201826"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "商品价格确定方法"
+				}
+			]
+		},
+		{
+			"ID": "20210427201826-cm02t8r",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210427201826-cm02t8r",
+				"updated": "20210427201829"
+			},
+			"Children": [
+				{
+					"ID": "20210427201829-8ixe1tj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427201829-8ixe1tj"
+					},
+					"Children": [
+						{
+							"ID": "20210427201829-lkmb6oq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427201829-lkmb6oq",
+								"updated": "20210427201831"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "成本法"
+								}
+							]
+						},
+						{
+							"ID": "20210427201904-wk0oe7z",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210427201904-wk0oe7z"
+							},
+							"Children": [
+								{
+									"ID": "20210427201904-npwajtx",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210427201904-npwajtx"
+									},
+									"Children": [
+										{
+											"ID": "20210427201904-71e19rx",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427201904-71e19rx",
+												"updated": "20210427201916"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "估算评估对象的重置成本"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210427201918-f8423t1",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210427201918-f8423t1"
+									},
+									"Children": [
+										{
+											"ID": "20210427201918-1o9k4gx",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427201918-1o9k4gx",
+												"updated": "20210427201941"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "扣减实体性贬值、功能性贬值和经济型贬值，确定评估对象的价值"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427201831-9ij3ojj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427201831-9ij3ojj"
+					},
+					"Children": [
+						{
+							"ID": "20210427201831-26bxjb6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427201831-26bxjb6",
+								"updated": "20210427201834"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "收益法"
+								}
+							]
+						},
+						{
+							"ID": "20210427201944-lraypov",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210427201944-lraypov"
+							},
+							"Children": [
+								{
+									"ID": "20210427201943-11pkwu3",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210427201943-11pkwu3"
+									},
+									"Children": [
+										{
+											"ID": "20210427201943-18cl0v3",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427201943-18cl0v3",
+												"updated": "20210427201958"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "根据评估对象未来为其使用方带来的预期收益"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210427201959-d8l8124",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210427201959-d8l8124"
+									},
+									"Children": [
+										{
+											"ID": "20210427201959-sodyt0x",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427201959-sodyt0x",
+												"updated": "20210427202019"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "用适当的折现率折现，累加得出基准日的现值"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427201834-v7j1wto",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427201834-v7j1wto"
+					},
+					"Children": [
+						{
+							"ID": "20210427201834-zn5s0sx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427201834-zn5s0sx",
+								"updated": "20210427201837"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "市场法"
+								}
+							]
+						},
+						{
+							"ID": "20210427202021-bz49os3",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210427202021-bz49os3"
+							},
+							"Children": [
+								{
+									"ID": "20210427202021-iuvtwtv",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210427202021-iuvtwtv"
+									},
+									"Children": [
+										{
+											"ID": "20210427202021-zfiqiem",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210427202021-zfiqiem",
+												"updated": "20210427202027"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "通过市场调查"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427202433-mvhz5mn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210427202433-mvhz5mn",
+				"updated": "20210427202439"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "如何使用？"
+				}
+			]
+		},
+		{
+			"ID": "20210427203659-rm72l6y",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210427203659-rm72l6y",
+				"updated": "20210427203719"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20210427201834-v7j1wto"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "市场法"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427202439-gqs9qm8",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210427202439-gqs9qm8",
+				"updated": "20210427202444"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "P'=P\\times K_1\\times K_2 \\times K_3 \\times K_4 \\times K_5"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210427202519-hag54pi",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210427202519-hag54pi",
+				"updated": "20210427202848"
+			},
+			"Children": [
+				{
+					"ID": "20210427202848-fop40us",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427202848-fop40us"
+					},
+					"Children": [
+						{
+							"ID": "20210427202848-vkv78ea",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427202848-vkv78ea",
+								"updated": "20210427202854"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "时间修正系数"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427202854-wxyiika",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427202854-wxyiika"
+					},
+					"Children": [
+						{
+							"ID": "20210427202854-efsgh3l",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427202854-efsgh3l",
+								"updated": "20210427202859"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "个别因素修正系数"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427203027-ncogfp1",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210427203027-ncogfp1",
+				"updated": "20210427203215"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20210427201831-9ij3ojj"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "收益法"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427203215-h73iv2u",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210427203215-h73iv2u",
+				"updated": "20210427203219"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "P=\\sum_{i=1}^n\\frac{A_i}{(1+r_1)(1+r_2)\\cdots(1+r_i)}"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210427203326-o58wgxq",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210427203326-o58wgxq",
+				"updated": "20210427203331"
+			},
+			"Children": [
+				{
+					"ID": "20210427203331-m8u3tqc",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427203331-m8u3tqc"
+					},
+					"Children": [
+						{
+							"ID": "20210427203331-vyyzr1f",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427203331-vyyzr1f",
+								"updated": "20210427203353"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "需要估算还原利率以及对象纯收益"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427203359-2to2cst",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427203359-2to2cst"
+					},
+					"Children": [
+						{
+							"ID": "20210427203359-1b4ku3f",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427203359-1b4ku3f",
+								"updated": "20210427203417"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "A"
+								},
+								{
+									"Type": "NodeSub",
+									"Children": [
+										{
+											"Type": "NodeSubOpenMarker",
+											"Data": "~"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "i"
+										},
+										{
+											"Type": "NodeSubCloseMarker",
+											"Data": "~"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "为评估对象年纯收益"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427203433-ikwvn9p",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210427203433-ikwvn9p"
+			}
+		},
+		{
+			"ID": "20210427203113-5zl0hmz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210427203113-5zl0hmz",
+				"updated": "20210427203659"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20210427201829-8ixe1tj"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "成本法"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427203710-k92iktz",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210427203710-k92iktz",
+				"updated": "20210427203730"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "P=P_0 +C+I+R"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210427203742-080zsaa",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210427203742-080zsaa",
+				"updated": "20210427203758"
+			},
+			"Children": [
+				{
+					"ID": "20210427203758-w4r1b68",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427203758-w4r1b68"
+					},
+					"Children": [
+						{
+							"ID": "20210427203758-q0y4xel",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427203758-q0y4xel",
+								"updated": "20210427203820"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "P"
+								},
+								{
+									"Type": "NodeSub",
+									"Children": [
+										{
+											"Type": "NodeSubOpenMarker",
+											"Data": "~"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "0"
+										},
+										{
+											"Type": "NodeSubCloseMarker",
+											"Data": "~"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "为毗邻地区相同面积的海域使用权取得成本"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427203821-bn7rlxh",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427203821-bn7rlxh"
+					},
+					"Children": [
+						{
+							"ID": "20210427203821-e0rpesq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427203821-e0rpesq",
+								"updated": "20210427203834"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "C为建造类似用途人工岛工程成本"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427203835-tny18km",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427203835-tny18km"
+					},
+					"Children": [
+						{
+							"ID": "20210427203835-l16axdy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427203835-l16axdy",
+								"updated": "20210427203846"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "I为建造类似用途人工岛所需资金成本"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427203846-qruqn6k",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427203846-qruqn6k"
+					},
+					"Children": [
+						{
+							"ID": "20210427203846-pha9l4b",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427203846-pha9l4b",
+								"updated": "20210427203903"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "R为建造类似用途人工岛项目利润"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427204149-vv04hur",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210427204149-vv04hur",
+				"updated": "20210427204503"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "技术难点"
+				}
+			]
+		},
+		{
+			"ID": "20210427204503-ml8ym3y",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210427204503-ml8ym3y",
+				"updated": "20210427204535"
+			},
+			"Children": [
+				{
+					"ID": "20210427204535-ogs5pwj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427204535-ogs5pwj"
+					},
+					"Children": [
+						{
+							"ID": "20210427204535-d99nxuu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427204535-d99nxuu",
+								"updated": "20210427204547"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210427203659-rm72l6y"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "主要难点在于寻找合适的比较案例，确定比较因素的修正幅度"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427204547-a9zbq9d",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427204547-a9zbq9d"
+					},
+					"Children": [
+						{
+							"ID": "20210427204547-4exnxwa",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427204547-4exnxwa",
+								"updated": "20210427204610"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210427203027-ncogfp1"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "主要技术难点是毛收益、成本和折现率等参数的确定"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210427204610-4d71sff",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210427204610-4d71sff"
+					},
+					"Children": [
+						{
+							"ID": "20210427204610-5wn03dz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210427204610-5wn03dz",
+								"updated": "20210427204640"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210427203113-5zl0hmz"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "主要技术难点是建造类似用途人工岛所需要的工程量、工期和行业利润等参数的把握"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210427204746-a7hfy5p",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210427204746-a7hfy5p",
+				"updated": "20210427204846"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "例：综合评估方法"
+				}
+			]
+		},
+		{
+			"ID": "20210427204848-bsiokkx",
+			"Type": "NodeMathBlock",
+			"Properties": {
+				"id": "20210427204848-bsiokkx",
+				"updated": "20210427204850"
+			},
+			"Children": [
+				{
+					"Type": "NodeMathBlockOpenMarker"
+				},
+				{
+					"Type": "NodeMathBlockContent",
+					"Data": "Y=\\sum_{k=1}^m\\left[W_k\\times \\sum_{j=1}^n(W_{kj}\\times Y_j)\\right]"
+				},
+				{
+					"Type": "NodeMathBlockCloseMarker"
+				}
+			]
+		},
+		{
+			"ID": "20210427205320-hedqbfv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210427205320-hedqbfv"
+			}
+		}
+	]
+}

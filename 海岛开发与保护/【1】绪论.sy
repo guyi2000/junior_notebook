@@ -1,0 +1,2440 @@
+{
+	"ID": "20210304222714-j71cgli",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210304222714-j71cgli",
+		"title": "【1】绪论",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210304222714-b29p6q8",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210304222714-b29p6q8"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "# "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "绪论"
+				}
+			]
+		},
+		{
+			"ID": "20210721101559-2z5w4i6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721101559-2z5w4i6"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "[toc]"
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-6r1vamk",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222714-6r1vamk"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "考评方式"
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-y4y29iv",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222714-y4y29iv"
+			},
+			"Children": [
+				{
+					"ID": "20210304222714-73gurrz",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-73gurrz"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-jp6iplx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-jp6iplx"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "课堂表现：10"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-igcaem6",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-igcaem6"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-oft5ztz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-oft5ztz"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "小论文：30（海岛开发相关）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-qhal6rc",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-qhal6rc"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-tlhb3e2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-tlhb3e2"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "小组研究与展示：20+20+20"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-zi7pwui",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222714-zi7pwui"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "海岛开发的基本概念"
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-3ttqpu3",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210304222714-3ttqpu3"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "什么是海岛"
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-pvq1r7l",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222714-pvq1r7l"
+			},
+			"Children": [
+				{
+					"ID": "20210304222714-kgnhimq",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-kgnhimq"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-5mlw4yr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-5mlw4yr"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "散布于海洋中，面积不小于500m"
+								},
+								{
+									"Type": "NodeSup",
+									"Children": [
+										{
+											"Type": "NodeSupOpenMarker",
+											"Data": "^"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "2"
+										},
+										{
+											"Type": "NodeSupCloseMarker",
+											"Data": "^"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "的小块陆地"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-tqcvxlt",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-tqcvxlt"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-dnfrwx1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-dnfrwx1"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "岛屿是"
+								},
+								{
+									"Type": "NodeMark",
+									"Children": [
+										{
+											"Type": "NodeMark2OpenMarker",
+											"Data": "=="
+										},
+										{
+											"Type": "NodeText",
+											"Data": "四面环水"
+										},
+										{
+											"Type": "NodeMark2CloseMarker",
+											"Data": "=="
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "且在"
+								},
+								{
+									"Type": "NodeMark",
+									"Children": [
+										{
+											"Type": "NodeMark2OpenMarker",
+											"Data": "=="
+										},
+										{
+											"Type": "NodeText",
+											"Data": "高潮时高于水面"
+										},
+										{
+											"Type": "NodeMark2CloseMarker",
+											"Data": "=="
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "的"
+								},
+								{
+									"Type": "NodeMark",
+									"Children": [
+										{
+											"Type": "NodeMark2OpenMarker",
+											"Data": "=="
+										},
+										{
+											"Type": "NodeText",
+											"Data": "自然形成"
+										},
+										{
+											"Type": "NodeMark2CloseMarker",
+											"Data": "=="
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "的陆地区域（《联合国海洋法公约》121条）"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-tupmlbl",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-tupmlbl"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-uj1cwvm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-uj1cwvm"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "世界范围内：20w+，总面积996.35w+km"
+								},
+								{
+									"Type": "NodeSup",
+									"Children": [
+										{
+											"Type": "NodeSupOpenMarker",
+											"Data": "^"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "2"
+										},
+										{
+											"Type": "NodeSupCloseMarker",
+											"Data": "^"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "，"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-jn23mch",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210304222714-jn23mch"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "分类"
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-y8udwr7",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222714-y8udwr7"
+			},
+			"Children": [
+				{
+					"ID": "20210304222714-7cirdbj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-7cirdbj"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-3bwjtad",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-3bwjtad"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "成因"
+								}
+							]
+						},
+						{
+							"ID": "20210304222714-1873gcb",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222714-1873gcb"
+							},
+							"Children": [
+								{
+									"ID": "20210304222714-l7ngohc",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-l7ngohc"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-8v93l9f",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-8v93l9f"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "大陆岛、火山岛、珊瑚岛、冲击岛"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-k7vegge",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-k7vegge"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-e9vkbrd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-e9vkbrd"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "形态"
+								}
+							]
+						},
+						{
+							"ID": "20210304222714-4kdcnd6",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222714-4kdcnd6"
+							},
+							"Children": [
+								{
+									"ID": "20210304222714-i6g8fam",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-i6g8fam"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-h6xso11",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-h6xso11"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "群岛（马来群岛，最大）、列岛（为群岛的一种）、岛"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-rp2wylb",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-rp2wylb"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-z2lm40f",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-z2lm40f"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "距离大陆远近："
+								}
+							]
+						},
+						{
+							"ID": "20210304222714-5n3cqvb",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222714-5n3cqvb"
+							},
+							"Children": [
+								{
+									"ID": "20210304222714-phhgck7",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-phhgck7"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-c3d8ubi",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-c3d8ubi"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "陆连岛、沿岸岛、近岸岛、远岸岛"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-0ulcejj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-0ulcejj"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-dxcyzpu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-dxcyzpu"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "常住人口："
+								}
+							]
+						},
+						{
+							"ID": "20210304222714-1u99tue",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222714-1u99tue"
+							},
+							"Children": [
+								{
+									"ID": "20210304222714-zn8z0um",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-zn8z0um"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-k2u0cti",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-k2u0cti"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "有人岛、无人岛"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-2jyk9gw",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-2jyk9gw"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-u1nfron",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-u1nfron"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "有无淡水资源："
+								}
+							]
+						},
+						{
+							"ID": "20210304222714-fnu7xpy",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222714-fnu7xpy"
+							},
+							"Children": [
+								{
+									"ID": "20210304222714-ph6ydfg",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-ph6ydfg"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-w03vahk",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-w03vahk"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "有淡水岛、无淡水岛"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-s08i9bd",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210304222714-s08i9bd"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "大陆岛"
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-xti12us",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222714-xti12us"
+			},
+			"Children": [
+				{
+					"ID": "20210304222714-pqu7850",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-pqu7850"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-r26ltkl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-r26ltkl"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "地质构造与大陆"
+								},
+								{
+									"Type": "NodeStrong",
+									"Children": [
+										{
+											"Type": "NodeStrongA6kOpenMarker",
+											"Data": "**"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "相近"
+										},
+										{
+											"Type": "NodeStrongA6kCloseMarker",
+											"Data": "**"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-jyuhyy3",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210304222714-jyuhyy3"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "火山岛"
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-mcp0ru2",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222714-mcp0ru2"
+			},
+			"Children": [
+				{
+					"ID": "20210304222714-d5s6huk",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-d5s6huk"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-b5fdyh4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-b5fdyh4"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海底火山不断喷发，岩浆冷却、堆积"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-d5ngdrg",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-d5ngdrg"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-4jc0drs",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-4jc0drs"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "地形比较崎岖、陡峭"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-qdf8y0k",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-qdf8y0k"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-5k5ci9o",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-5k5ci9o"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "面积较小"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-q3a4o35",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-q3a4o35"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-o3adz9w",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-o3adz9w"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "阿留申群岛、夏威夷群岛"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-xwsxsg6",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210304222714-xwsxsg6"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "珊瑚岛"
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-oqdbdnr",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222714-oqdbdnr"
+			},
+			"Children": [
+				{
+					"ID": "20210304222714-p8bxdsb",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-p8bxdsb"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-u94xjcx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-u94xjcx"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "珊瑚虫的残骸形成"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-w8linns",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-w8linns"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-k949ezr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-k949ezr"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "形成时间较长"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-55ktgtd",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-55ktgtd"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-craursi",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-craursi"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "马尔代夫、大堡礁"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-zixf819",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210304222714-zixf819"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "#### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "冲击岛"
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-ybhh69i",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222714-ybhh69i"
+			},
+			"Children": [
+				{
+					"ID": "20210304222714-uf3cw6f",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-uf3cw6f"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-kglkmdt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-kglkmdt"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "河流冲击、堆积而成"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-m61r0dy",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210304222714-m61r0dy"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "海岛的特点"
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-j29yy35",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222714-j29yy35"
+			},
+			"Children": [
+				{
+					"ID": "20210304222714-q7t7usi",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-q7t7usi"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-rkamfe1",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-rkamfe1"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "资源丰富"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-wi50x1i",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-wi50x1i"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-uyal7sf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-uyal7sf"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "独立性"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-x61sedt",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-x61sedt"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-cn4udil",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-cn4udil"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "完整性"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-dlybzut",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-dlybzut"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-vwwwkos",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-vwwwkos"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "脆弱性"
+								}
+							]
+						},
+						{
+							"ID": "20210304222714-97gcfst",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222714-97gcfst"
+							},
+							"Children": [
+								{
+									"ID": "20210304222714-k70fpps",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-k70fpps"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-ceigylb",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-ceigylb"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "海洋环境条件严酷"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222714-ppatycv",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-ppatycv"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-rumjzr7",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-rumjzr7"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "植被贫乏单一"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222714-w9sbkyi",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-w9sbkyi"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-8fel7bf",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-8fel7bf"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "常受到地震、海啸"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222714-9ro3lf9",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-9ro3lf9"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-wq68kru",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-wq68kru"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "台风和风暴潮"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-id5hna4",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222714-id5hna4"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "课程目的"
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-0jhbwoa",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222714-0jhbwoa"
+			},
+			"Children": [
+				{
+					"ID": "20210304222714-ufw0042",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-ufw0042"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-at9ds4b",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-at9ds4b"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海洋战略对国家而言十分重要"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-kj6d4kb",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-kj6d4kb"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-c58vazn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-c58vazn"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "专属经济区（EEZ）——勘探、开发、养护和管理海床"
+								}
+							]
+						},
+						{
+							"ID": "20210304222714-14isefc",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222714-14isefc"
+							},
+							"Children": [
+								{
+									"ID": "20210304222714-eodn525",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-eodn525"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-xqnqbpj",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-xqnqbpj"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "生产能源"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222714-9i1viw7",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-9i1viw7"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-9fiwqee",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-9fiwqee"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "建设人工岛"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-60rkjm7",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-60rkjm7"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-tsckpgz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-tsckpgz"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "人工岛的建设"
+								}
+							]
+						},
+						{
+							"ID": "20210304222714-mdtxhni",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222714-mdtxhni"
+							},
+							"Children": [
+								{
+									"ID": "20210304222714-uu3zstn",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-uu3zstn"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-xambcw7",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-xambcw7"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "机场、城镇开发（经济用地）"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222714-xr26zrz",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-xr26zrz"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-t7frhna",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-t7frhna"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "新加坡与香港"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222714-s5sg2d9",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-s5sg2d9"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-6d12wkf",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-6d12wkf"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "建设材料来源；新型筑岛材料；长期沉降、淹没；岸线保护、侵蚀"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-etep5yk",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-etep5yk"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-dvlydib",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-dvlydib"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "天然海岛"
+								}
+							]
+						},
+						{
+							"ID": "20210304222714-hu6wgk4",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222714-hu6wgk4"
+							},
+							"Children": [
+								{
+									"ID": "20210304222714-0j715p1",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-0j715p1"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-4cq3sss",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-4cq3sss"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "资源价值：港址、土地、景观、养殖、油气、矿物；因岛制宜"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222714-z0o63ug",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-z0o63ug"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-jho5y63",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-jho5y63"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "经济价值：对区域经济发展的促进"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222714-ivawx74",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-ivawx74"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-746rbjl",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-746rbjl"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "生态环境价值："
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222714-idkmu5g",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-idkmu5g"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-o0sfury",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-o0sfury"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "科学研究价值：考古遗迹、古建筑、宗教庙宇、纪念故址；海岛的形成和变迁"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-bq9nq9z",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-bq9nq9z"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-sawnqke",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-sawnqke"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "问题："
+								}
+							]
+						},
+						{
+							"ID": "20210304222714-0753glm",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222714-0753glm"
+							},
+							"Children": [
+								{
+									"ID": "20210304222714-use75vo",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-use75vo"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-e7hp6lp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-e7hp6lp"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "海岛资源值不值得"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222714-nz6y9eh",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-nz6y9eh"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-s6pf447",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-s6pf447"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "开发模式"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222714-6a69186",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-6a69186"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-a3kc89e",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-a3kc89e"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "环境生态保护"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210304222714-bqdbpor",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-bqdbpor"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-c4cdr98",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-c4cdr98"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "岸线保护"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-4q8vfx0",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210304222714-4q8vfx0"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "课程内容"
+				}
+			]
+		},
+		{
+			"ID": "20210304222714-t0qb6is",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 45,
+				"Padding": 2,
+				"Marker": "LQ==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210304222714-t0qb6is"
+			},
+			"Children": [
+				{
+					"ID": "20210304222714-bdicujv",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-bdicujv"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-muh67iu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-muh67iu"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "软科学问题："
+								}
+							]
+						},
+						{
+							"ID": "20210304222714-qii4tkh",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222714-qii4tkh"
+							},
+							"Children": [
+								{
+									"ID": "20210304222714-qqmp1e6",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-qqmp1e6"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-4z809nv",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-4z809nv"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "经济、文化、社会、法律"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-i50c6dh",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-i50c6dh"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-q5vamlx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-q5vamlx"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "工程科学和技术："
+								}
+							]
+						},
+						{
+							"ID": "20210304222714-qgn2uqj",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222714-qgn2uqj"
+							},
+							"Children": [
+								{
+									"ID": "20210304222714-4r197ui",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-4r197ui"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-ljbeyhq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-ljbeyhq"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "海岛建设、能源、水资源"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210304222714-ghs31jj",
+					"Type": "NodeListItem",
+					"Data": "-",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 45,
+						"Padding": 2,
+						"Marker": "LQ==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210304222714-ghs31jj"
+					},
+					"Children": [
+						{
+							"ID": "20210304222714-0w42f7g",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210304222714-0w42f7g"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "海岛保护："
+								}
+							]
+						},
+						{
+							"ID": "20210304222714-7ks8oid",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 45,
+								"Padding": 2,
+								"Marker": "LQ==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210304222714-7ks8oid"
+							},
+							"Children": [
+								{
+									"ID": "20210304222714-fcobn6r",
+									"Type": "NodeListItem",
+									"Data": "-",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 45,
+										"Padding": 2,
+										"Marker": "LQ==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210304222714-fcobn6r"
+									},
+									"Children": [
+										{
+											"ID": "20210304222714-t25v5sk",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210304222714-t25v5sk"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "坏境生态保护、防灾减灾"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
